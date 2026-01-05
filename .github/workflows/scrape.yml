@@ -29,7 +29,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git pull origin main --rebase
           git add -A
           git diff --staged --quiet || git commit -m "Update blog - $(date +'%Y-%m-%d')"
           git push origin main
