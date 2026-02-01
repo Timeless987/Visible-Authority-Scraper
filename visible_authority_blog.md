@@ -1,7 +1,337 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 111 artykułów
+**Pobrano:** 112 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Every Consulting Firm Needs a Discovery Service
+
+**Autor:** Luk Smeyers
+**Data:** 27 January 2026
+**Link:** https://www.thevisibleauthority.com/blog/every-consulting-firm-needs-a-discovery-service
+
+---
+
+And Why Most “Discovery Projects” Completely Miss the Point
+
+An increasing number of clients are disappointed with the value consulting firms deliver.
+
+According toSource Research, in 2025, only 32% of UK clients spoke positively about the value consulting firms delivered. This number is down from 39% in 2023 and 44% in 2021. Furthermore, the same study shows that CxOs are the most dissatisfied (compared, for example, to managers and department heads).
+
+Unfortunately, a major reason this happens is the reliance of many consultancies on the outdated "trial and error" method to solve clients' problems.
+
+Just like an operator wouldn’t order spare parts for a broken manufacturing machine without a full diagnostic, a consultancy should only propose a contract for a large-scale project with a proper discovery.
+
+In our conversations with consulting firms, we’ve learned that most firms intellectually agree that they need some form of discovery or diagnostic at the front of an engagement.
+
+But when we look at what they are actually selling, we see “discovery projects” that are little more than maturity scans with a logo on the cover: a 4–5 step model, a couple of workshops, some traffic-light visuals, and a “you are here” arrow telling the client what they already know.
+
+And while many clients tolerate these, they rarely value them. And they definitely don’t want to pay meaningful fees for them.
+
+In this article, I want to discuss how consulting firms can drastically improve client satisfaction – and reduce complexity in the client success journey – through value-focused discovery services.
+
+## What Value-Focused Discovery Is. And What It Isn’t
+
+### The Low-Impact Discovery Model
+
+Let’s be blunt: most “discovery projects” in the market today are disappointing for clients.
+
+While they are positioned as diagnostics or assessments, in practice, they are:
+
+• A few workshops and interviews
+
+• A maturity model with 4–5 stages
+
+• A slide deck placing the client somewhere on that curve
+
+A few workshops and interviews
+
+A maturity model with 4–5 stages
+
+A slide deck placing the client somewhere on that curve
+
+And it’s the same pattern over and over again: a client is placed somewhere between ‘Developing’ and ‘Established’ on an XYZ Capability Model.
+
+This is then followed by a few generic recommendations: invest in leadership, modernise infrastructure, strengthen governance, or align your data.”
+
+Clients may nod, but internally they’re thinking: “We already knew we weren’t ‘best in class’. But we still don’t have a clear, credible path from here to the desired results!” Is it really surprising that they end up walking away from the engagement dissatisfied?
+
+This approach fails for a few reasons, including:
+
+• It provides little to no new information to clients: In 99% of cases, clients already know roughly where they stand on the maturity model. They don’t need a consulting firm that’s supposedly an expert to repeat that they’re not at the “leading” level of a generic model.
+
+• It rarely incorporates a concrete path to the next level: When they do, the advice is high-level and abstract: “improve governance”, “invest in analytics”, and “break down silos”.
+
+• Any “next steps” are generic by design: Since the underlying model is generic, the recommendations can’t be truly tailored or actionable without doing more work than the scan is designed for.
+
+• There is no real decision confidence-building: The client doesn’t walk away with a robust, quantified, prioritised roadmap they can trust when making a significant investment decision. The decision paralysis is still there.
+
+• It reinforces clients’ “poor value” perception: Many C-level executives are hesitant to work with a consultancy due to the abundance of choices – tech solutions moving into the advisory space, AI tools, and the ability to resolve their problems with internal capabilities, etc. This type of discovery service does not assuage their concerns about risk, ROI, or the final value and outcome. If anything, it makes those concerns stronger.
+
+It provides little to no new information to clients: In 99% of cases, clients already know roughly where they stand on the maturity model. They don’t need a consulting firm that’s supposedly an expert to repeat that they’re not at the “leading” level of a generic model.
+
+It rarely incorporates a concrete path to the next level: When they do, the advice is high-level and abstract: “improve governance”, “invest in analytics”, and “break down silos”.
+
+Any “next steps” are generic by design: Since the underlying model is generic, the recommendations can’t be truly tailored or actionable without doing more work than the scan is designed for.
+
+There is no real decision confidence-building: The client doesn’t walk away with a robust, quantified, prioritised roadmap they can trust when making a significant investment decision. The decision paralysis is still there.
+
+It reinforces clients’ “poor value” perception: Many C-level executives are hesitant to work with a consultancy due to the abundance of choices – tech solutions moving into the advisory space, AI tools, and the ability to resolve their problems with internal capabilities, etc. This type of discovery service does not assuage their concerns about risk, ROI, or the final value and outcome. If anything, it makes those concerns stronger.
+
+As a result, clients tend to think of these services as low-value, meaning they expect them to be done either at no charge or for a small fee. And frankly, I don’t blame them.
+
+This kind of “discovery” is fundamentally incompatible with a value-focused consulting proposition and runs a high risk of leading to client dissatisfaction.
+
+*Recommended reading:Why Prospects Freeze. And How Consulting Firms Can Fix It*
+
+### The High-Impact Discovery Model
+
+A credible discovery service isn’t a nicer version of a maturity scan. It’s avalue creation enginethat helps the client and the consulting firm answer four critical questions:
+
+• Where exactly is the value?
+
+• How much is it worth, realistically?
+
+• How will we actually realise it?
+
+• How will we sustain it beyond the initial project?
+
+Where exactly is the value?
+
+How much is it worth, realistically?
+
+How will we actually realise it?
+
+How will we sustain it beyond the initial project?
+
+If a consulting firm can’t answer all four, its discovery will feel interesting but incomplete when the client has to make a real investment decision.
+
+That’s why a robust discovery service must create deep value across four dimensions:
+
+• Value identification
+
+• Value quantification
+
+• Value realisation
+
+• Value sustainment
+
+Value identification
+
+Value quantification
+
+Value realisation
+
+Value sustainment
+
+Let’s review each of these.
+
+Value-Focused Discovery in Consulting
+
+#### Step 1. Value Identification: From Generic Gaps to Concrete Opportunities
+
+Most maturity scans stop at “identifying gaps” – e.g., “You’re weak on governance”,  “Your data quality is inconsistent”, “Your processes are siloed”, etc.
+
+That’s not value identification. That’s giving labels to problems that most clients are already aware of.
+
+Value identification is systematically mapping concrete value opportunities across the client’s business by answering questions like:
+
+• Where exactly can we reduce cost, risk, or complexity?
+
+• Where can we increase revenue, speed, or quality?
+
+• Which levers are controllable in the next 12-24 months?
+
+• Which ones are truly strategic, not just “nice to have”?
+
+Where exactly can we reduce cost, risk, or complexity?
+
+Where can we increase revenue, speed, or quality?
+
+Which levers are controllable in the next 12-24 months?
+
+Which ones are truly strategic, not just “nice to have”?
+
+This discovery should then lead to a prioritised opportunity map – a focused list of high-impact value hypotheses, each linked to specific areas, stakeholders, and levers, with a clear indication of feasibility and time-to-impact.
+
+So while a maturity scan results in a generic evaluation of “You’re at level 2 out of 5”, value identification says “Here are the 3 or 4 concrete value opportunities we see, and why they matter.”
+
+#### Step 2. Value Quantification: Conservative, Credible ROI Modelling
+
+Once a consulting firm identifies opportunities for its client, the natural next question is: “If we do this, what is it worth?” Or: “What is the business case of this/these opportunities?”
+
+This is where most discovery work goes vague again. It’s usually statements like: “Significant cost savings,” “Increased efficiency,” “Improved decision making”, and so on.
+
+That’s not enough for a CxO to commit significant budget, time, or personnel resources.
+
+Value quantification is building conservative ROI models for the key opportunities:
+
+• Translating operational improvements into financial impact
+
+• Using realistic ranges rather than inflated best‑case scenarios
+
+• Being explicit about assumptions, data sources, and limitations
+
+• Presenting scenarios (low / base / high), the client can interrogate
+
+Translating operational improvements into financial impact
+
+Using realistic ranges rather than inflated best‑case scenarios
+
+Being explicit about assumptions, data sources, and limitations
+
+Presenting scenarios (low / base / high), the client can interrogate
+
+As such, a high-impact discovery output should include:
+
+• A clear, conservative value range per opportunity
+
+• Aggregated potential impact across the roadmap
+
+• Sensitivity analysis: what happens if key assumptions change?
+
+A clear, conservative value range per opportunity
+
+Aggregated potential impact across the roadmap
+
+Sensitivity analysis: what happens if key assumptions change?
+
+This is not an easy step. The objective is to show that the consulting firm understands the economics of the client’s world. This, in turn, will boost decision-makers’ confidence in moving forward and anchor any subsequent proposal in numbers, not hope.
+
+Here’s a tip: a few of our clients (consulting firms) use numbers from previous client projects: “On average, previous projects achieved between [X] and [Y] improvements of [something].”
+
+#### Step 3. Value Realisation: An Adoption-Focused Implementation Roadmap
+
+Once value is identified and quantified, it is imperative that consulting firms don’t leave clients wondering how exactly to get from Point A to Point B. That’s where “value realization” comes in.
+
+Value realisation is about designing an implementation roadmap explicitly focused on adoption. It answers questions like:
+
+• Which initiatives will be executed in which sequence?
+
+• What capabilities, roles, and behaviours need to change?
+
+• What are the critical dependencies and risks?
+
+• How do we de‑risk early and build momentum?
+
+Which initiatives will be executed in which sequence?
+
+What capabilities, roles, and behaviours need to change?
+
+What are the critical dependencies and risks?
+
+How do we de‑risk early and build momentum?
+
+As such, this part of the discovery service should produce:
+
+• A realistic, phased roadmap (e.g., 3-4 waves)
+
+• A clear assignment of accountabilities and stakeholder ownership
+
+• A view of required investments (time, money, people)
+
+• A small number of non‑negotiable change enablers
+
+A realistic, phased roadmap (e.g., 3-4 waves)
+
+A clear assignment of accountabilities and stakeholder ownership
+
+A view of required investments (time, money, people)
+
+A small number of non‑negotiable change enablers
+
+This roadmap is not a 200‑page project plan. It’s an adoption-focused framework that makes the value story executable and credible.
+
+#### Step 4. Value Sustainment: Governance and Optimisation Beyond the Project
+
+Finally, smart clients know that value tends to erode over time. Initial enthusiasm fades. People change jobs. New priorities appear. Metrics stop being tracked. The “transformation” that the organisation worked so hard to achieve decays.
+
+That’s why discovery services that ignore this fact implicitly position consulting firms’ work as a one‑off event.
+
+Value sustainment is defining how progress will be monitored beyond the initial project, which governance structures will own the outcomes, which metrics and signals will trigger course corrections, and how learnings will be captured and re‑applied.
+
+This doesn’t mean that a consulting firm’s discovery should push clients to lock themselves into a multi‑year retainer. It just needs to show that the consultancy has thought about what happens after the initial project.
+
+## The Benefits of the Value-Focused Discovery Service
+
+From the client’s perspective, there is one giant reason to start working with a consultancy through a discovery process: the unique insights into their business, the expert assessment of opportunities, realistic targets, and an outline for achieving and sustaining success. This expert information is invaluable.
+
+I believe this is the most inviting format for the client to get ‘expertise in a box’, reduce risk, avoid trial-and-error, reduce decision-making anxiety, and have a clear way forward.
+
+And the ultimate outcome? Happy clients! Clients who know exactly what kind of value they received from engaging the consulting firm. Clients who bought into the entire success journey, who ensured internal alignment to have the project succeed, and who have a clear understanding of how to maintain the momentum gained through the project.
+
+For consulting firms, the benefits are abundant as well:
+
+• This discovery model allows consultancies to charge real fees: Unlike a maturity-scan type of discovery, this model requires significant work to deliver meaningful value. As such, it becomes a business asset. And business assets can and should be paid for.
+
+• Proposals get easier and faster approvals: Traditional proposals are often based on vague promises of “improving X” and “helping you become Y”. No wonder they require endless follow-ups, requests for information, and prolonged negotiations. In value-focused discovery, consulting firms are not asking clients to buy an idea. They are asking them if they’d like to proceed with an engagement that they already see value in.
+
+• Delivery risks are significantly reduced: They tend to stem from unclear scope, misaligned expectations, and vague success definitions. These issues are addressed upfront by a value-focused discovery service. As a result, delivery work is no longer based on guesswork. The engagement is structured and predictable.
+
+• Profit margins improve: When value is clearly articulated during discovery, delivery work is less likely to be commoditised. Pricing is based on value. And costs are predictable and accounted for. Resources are utilised efficiently.
+
+This discovery model allows consultancies to charge real fees: Unlike a maturity-scan type of discovery, this model requires significant work to deliver meaningful value. As such, it becomes a business asset. And business assets can and should be paid for.
+
+Proposals get easier and faster approvals: Traditional proposals are often based on vague promises of “improving X” and “helping you become Y”. No wonder they require endless follow-ups, requests for information, and prolonged negotiations. In value-focused discovery, consulting firms are not asking clients to buy an idea. They are asking them if they’d like to proceed with an engagement that they already see value in.
+
+Delivery risks are significantly reduced: They tend to stem from unclear scope, misaligned expectations, and vague success definitions. These issues are addressed upfront by a value-focused discovery service. As a result, delivery work is no longer based on guesswork. The engagement is structured and predictable.
+
+Profit margins improve: When value is clearly articulated during discovery, delivery work is less likely to be commoditised. Pricing is based on value. And costs are predictable and accounted for. Resources are utilised efficiently.
+
+## Addressing the Pushback to Value-Focused Discovery
+
+When we explain how the value-focused discovery method works, consulting leaders usually become convinced or even enthusiastic. However, sometimes concerns arise. Here’s an overview of these concerns:
+
+• “Sharing expertise at this stage will make us redundant”: Consulting leaders fear showcasing expertise in discovery projects may not lead to larger engagements. We, in turn, highlight how discovery phases build trust, demonstrate value, and how they can lead to larger, successful projects.
+
+• “We don’t have a standard way to run discovery”: Consulting firms lack a standardised approach, making leaders hesitant to offer discovery phases that might seem inconsistent. We advocate for creating a standardised discovery process that effectively introduces the consultancy's methodologies and capabilities. Of course, if there’s a lack of focus, specialisation and no pre-defined value proposition, that’ll be a difficult job.
+
+• “Clients want solutions, not discovery”: Some believe that discovery services are seen as less valuable by clients, who may prefer immediate solutions. We tend to agree when the discovery service is just a typical maturity scan. However, as explained in this article, discovery can be designed to be a high-value business asset for clients.
+
+• “Our business development process is not set up to include discovery”: There's often concern about the difficulty of incorporating discovery services into current business development and project initiation methods. In response, we ask these consulting firms to take a long, hard look at their current business development process and answer honestly if they are satisfied with the volume and quality of incoming requests.
+
+“Sharing expertise at this stage will make us redundant”: Consulting leaders fear showcasing expertise in discovery projects may not lead to larger engagements. We, in turn, highlight how discovery phases build trust, demonstrate value, and how they can lead to larger, successful projects.
+
+“We don’t have a standard way to run discovery”: Consulting firms lack a standardised approach, making leaders hesitant to offer discovery phases that might seem inconsistent. We advocate for creating a standardised discovery process that effectively introduces the consultancy's methodologies and capabilities. Of course, if there’s a lack of focus, specialisation and no pre-defined value proposition, that’ll be a difficult job.
+
+“Clients want solutions, not discovery”: Some believe that discovery services are seen as less valuable by clients, who may prefer immediate solutions. We tend to agree when the discovery service is just a typical maturity scan. However, as explained in this article, discovery can be designed to be a high-value business asset for clients.
+
+“Our business development process is not set up to include discovery”: There's often concern about the difficulty of incorporating discovery services into current business development and project initiation methods. In response, we ask these consulting firms to take a long, hard look at their current business development process and answer honestly if they are satisfied with the volume and quality of incoming requests.
+
+I believe these concerns, while understandable, are holding many consultancies back from realising the full potential of the discovery service.
+
+The key lies in recognising that the discovery phase isn't just a preliminary step; it's a strategic opportunity to build a strong partnership with a client and exponentially increase the value delivered to them.
+
+## The Bottom Line: Value-Focused Discovery Is the Antidote to Client Dissatisfaction
+
+If consulting firms want to reverse the alarming trend of declining client satisfaction—where only 32% of UK clients reported a positive view on value in 2025, down from 44% in 2021, as highlighted by Source Research—the outdated 'trial and error' approach must end.
+
+The cycle of client dissatisfaction rarely happens at the end of a project; it often starts at the initial stages of engagement, when a consulting firm commits to solving a problem it doesn’t yet fully understand.
+
+Value-focused discovery changes this dynamic. It eliminates guesswork and assumptions. It replaces generic roadmaps with action plans grounded in the client’s real priorities, constraints, and opportunities. It reduces complexity for clients.
+
+It also strengthens the rest of the engagement. Clients are not being asked to “trust and see what happens.” They are actively involved at every step of the way in a journey they already fully understand and have signed off on.
+
+Consulting firms that continue to sell either generic diagnostics or jump straight into delivery will keep facing the same cycle of disappointed clients. Those who rethink their approach and establish a value-focused discovery process will experience a significant drop in dissatisfied clients. It’s that simple.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+================================================================================
+
+# Ebook: Quotes to Inspire Consulting Leaders in 2026
+
+**Autor:** Luk Smeyers
+**Data:** 14 January 2026
+**Link:** https://www.thevisibleauthority.com/blog/ebook-quotes-to-inspire-consulting-leaders-in-2026
+
+---
+
+Every Monday, I share bite-sized advice on LinkedIn.
+
+Each insight comes from my own experience building consultancy businesses, as well as from working closely with dozens of consulting firms (boutique, medium-sized, and practices of large, multi-national ones) and their leaders.
+
+I hope this collection of “wisdom nuggets” – supplemented by the visuals I’ve shared throughout the year – serves consulting firms and their leaders well, whether as a source of inspiration, clarity, or a fresh perspective to help transform and grow the consulting business in 2026.
 
 ================================================================================
 
@@ -531,6 +861,28 @@ Of course, these tools rarely replace real expertise. Instead, they made ‘the 
 
 Increasingly, those questions are no longer hypothetical. Buyers can run a quick AI experiment on a sample of the work and see, in minutes, what used to take junior teams days. Once a CFO has seen that side‑by‑side, it becomes much harder to defend opaque staffing pyramids and vague “analysis” line items on the invoice.
 
+### The AI Double Squeeze in Consulting
+
+On top of that, in our conversations with managing partners and leaders of consulting firms of various sizes, another consulting market insight emerged – the AI double squeeze.
+
+Many consulting firms generate a not insignificant percentage of their revenue from small, ad hoc projects: quick-turn surveys, basic segmentations, competitor scans, and ‘rapid insight’ decks, ahead of, e.g., board meetings or strategy off-sites.
+
+In 2025, this part of the business shrank materially for many consulting firms as clients began generating first‑pass insights themselves, often with the help of AI tools plugged into existing survey platforms and internal data.
+
+This small, order-take-like work had traditionally been delivered with a pyramid of juniors designing questionnaires, cleaning data, coding open‑ended responses, and assembling slide decks under senior supervision.
+
+With these volumes dropping, consulting firms are forced to reduce junior headcount, which now (unfortunately) pushes more small, time‑critical requests directly onto senior experts (and sometimes even partners).
+
+The double squeeze of AI is therefore:
+
+• Revenue pressure because of the declining small, order-taker project work
+
+• Cost pressure because higher‑cost specialists are now dragged into work that used to be leveraged.
+
+Revenue pressure because of the declining small, order-taker project work
+
+Cost pressure because higher‑cost specialists are now dragged into work that used to be leveraged.
+
 *Recommended reading:Why Big Consulting Firms Need a Better Proposition – Now More Than Ever*
 
 ## Broad Promises, Stressed Buyers
@@ -613,7 +965,7 @@ They run the same types of engagements often enough to learn from them, reduce s
 
 2025 proved that the age of comfortable, vague capacity selling is over. The real, non-negotiable cost of staying in the game has been exposed, demanding a new level of conviction from leadership.
 
-As AI continues to commoditise baseline knowledge, the ultimate differentiator will not be the tools themselves, but the firm's willingness to make focused investment bets in expertise, proprietary data, and a relentless focus on reducing outcome variance to build outcome-based propositions and proposals.
+As AI continues to commoditise baseline knowledge and consulting firms increasingly face the pressure of the AI double squeeze, the ultimate differentiator will not be the tools themselves, but the firm's willingness to make focused investment bets in expertise, proprietary data, and a relentless focus on reducing outcome variance to build outcome-based propositions and proposals.
 
 That's how consulting firms truly gain the trust and competitive advantage needed in the post-2025 era.
 
@@ -7530,278 +7882,6 @@ Will I see myself uniquely in your web presence? Will it eerily feel like you ha
 I urge boutique consultancies to not wait another day and delete their old-school website. Today. The way their websites currently are – nobody cares anyway. Not the prospects, not Google.
 
 Interested in receiving all my learnings to become a better consultant? No spam, no BS. Pure teaching!Subscribe to my newsletter.
-
-================================================================================
-
-# Every Consulting Firm Needs a Discovery Service
-
-**Autor:** Luk Smeyers
-**Data:** 07 March 2024
-**Link:** https://www.thevisibleauthority.com/blog/every-consulting-firm-needs-a-discovery-service
-
----
-
-This article was last updated on 7 March 2024.
-
-It has become an all too common story; a company hires a consulting firm to help them with a specific problem and spends a lot of money without any real solution.
-
-In a 2023 UK study, more than 50% of consulting firm clients feel that the value they receive in return for their payment doesn't match up (says this Harvard article).
-
-Unfortunately, this happens because many consultancies rely on the outdated "trial and error" method to solve problems for their clients.
-
-Let me be straightforward here. I would never again start an important consulting project with a new client with such a ‘trial and error’ mindset.
-
-Just like an operator wouldn’t order spare parts for a broken manufacturing machine without a full diagnostic, a consultancy should only propose a contract for a large-scale project with a proper discovery.
-
-And to avoid ‘hit and miss’, I’ve learned to leverage the incredible power of an upfront discovery or diagnosis approach, fully paid.
-
-## What is upfront discovery or diagnosis in consulting?
-
-In today's business climate and complexity, more and more companies seem to turn to consultancy expertise to get an edge on the competition. Depending on the source, all major big consulting firms have grown around 10% (or even more) in the past year, even during difficult economic times. Amazing.
-
-I am currently working with a few high-tech consulting firms to develop an upfront discovery service. This service will help their clients assess their needs and objectives, gaps, and roadblocks and identify potential areas of improvement in the context of the issues they are dealing with.
-
-I’ve been iterating many times already, but here’s my current definition:
-
-> An upfront discovery process in consulting is a systematized method of gathering pertinent information on the client’s pressing business problem, analyzing gaps and roadblocks with the goal of developing an improvement roadmap that will guide the client achieve the desired business outcomes.
-
-An upfront discovery process in consulting is a systematized method of gathering pertinent information on the client’s pressing business problem, analyzing gaps and roadblocks with the goal of developing an improvement roadmap that will guide the client achieve the desired business outcomes.
-
-The deliverable of such an upfront discovery is an IMPROVEMENT ROADMAP.
-
-Below is a picture of my colleague and myself - several years ago - with a printed (on the wall of the meeting room, on special request of the C-person) improvement roadmap (150k discovery project!). It was my biggest (in Euro) ever discovery project.
-
-## The advantages of discovery: the consulting perspective
-
-There are many advantages to the discovery service for consultancies and consulting leaders:
-
-• Deep client understanding:It is crucial to understand the business’s motives, vision, challenges, specific roadblocks, and historical data to grasp the AS/IS of the client fully. The discovery will provide an intimate look into the client’s company and the pressing problem that must be solved.
-
-• Expertise consistency:It allows systematization of the consulting work: almost every new project starts with the same first step – discovery. This creates consistency, high repeatability of analysis, little variability in data sources, and high predictability of outcomes (the roadmap structure and content).
-
-• Mitigating client hesitation: The discovery service not only guarantees a baseline financial commitment but also addresses common client concerns about investing in large-scale projects (in the context of the current difficult economical situation). It allows clients to engage with the consultancy on a smaller, more manageable scale initially reducing the intimidation of a significant upfront commitment, and eventually facilitating a smoother transition to a larger commitment.
-
-• Fewer mistakes: The more discovery projects, the more patterns will be identified, the more precise the roadmap components, and the fewer ‘hits and misses’ or ‘trial and error’ in the ultimate problem resolution proposal. As I always say: repeatability is the foundation for expertise.
-
-• Internal Knowledge Transfer: Discovery projects serve as a training ground, with their documentation acting like live Standard Operating Procedures (SOPs). This helps in rapidly upskilling new consultants and ensures a robust knowledge transfer within the team.
-
-• Focus and Specialization: Regular discovery projects keep the consultancy focused on its core competencies, continually refining expertise in specific industries and problems. This focus aids in developing a specialized skill set and maintains alignment with strategic objectives.
-
-• Thought Leadership Development: The insights from discovery projects offer rich material for thought leadership. They position the consultancy as an industry expert, providing valuable content for publications and speaking engagements, thereby enhancing visibility and credibility.
-
-• Risk Mitigation: Discovery projects enable consultancies to identify and address potential risks early in the process. By understanding the client's environment and challenges in depth, consultants can foresee obstacles and plan mitigation strategies, reducing the likelihood of project overruns or failures.
-
-• Client Trust and Relationship Building: The initial discovery phase fosters trust and rapport between the consultancy and the client. By investing time to understand the client's needs and challenges thoroughly, consultancies demonstrate their commitment and build a foundation for a long-term, collaborative relationship.
-
-• Efficient Resource Allocation: Discovery helps in the efficient allocation of resources. By gaining a clear understanding of the project scope and requirements upfront, consultancies can allocate the right resources, both in terms of personnel and tools, avoiding wastage and optimizing project execution, both in the discovery project as well as in the ultimate, larger project implementation phase.
-
-• Competitive Advantage: Offering discovery services can differentiate a consultancy in a competitive market. It positions the firm as thorough, client-focused, and committed to delivering effective problem resolutions with a proven methodology and process, which can be a key deciding factor for clients choosing between consultancies.
-
-• Efficient Proposal Development: The improvement roadmap from discovery projects streamlines proposal writing. It enables faster creation of targeted proposals, enhances client engagement, and reduces the need for extensive discussions. This clear roadmap aids in crafting more compelling proposals that closely align with client requirements, improving both efficiency and client satisfaction.
-
-> "Some of the very best consulting work I was a part of (and by best I mean huge value add for client and enriching for the delivery team) was anchored with a dedicated team who led discovery work up front.It was powerful and focused and conveyed great confidence that the client appreciated (and bought) and that the delivery team was then able to follow through and deliver on." (Russell Raath, President at Kotter Inc – Consulting firm)
-
-"Some of the very best consulting work I was a part of (and by best I mean huge value add for client and enriching for the delivery team) was anchored with a dedicated team who led discovery work up front.It was powerful and focused and conveyed great confidence that the client appreciated (and bought) and that the delivery team was then able to follow through and deliver on." (Russell Raath, President at Kotter Inc – Consulting firm)
-
-## The advantages of discovery: the client’s perspective
-
-From the client’s perspective, there is one giant reason to start working with a consultancy through a discovery process: the unique information they get on their business, the expert assessment of gaps, and the recommendations that specifically target their pain points and business outcomes. This expert information is of incredible value.
-
-If you ask me: it’s the most inviting format for the client to get ‘expertise in a box’, reduce risk, avoid trial and error, increase decision-making quality and delivery speed, understand the scope and timing, outline their precise involvement, and seize the final output/delivery they will receive.
-
-The entire process, that's what I have experienced multiple times in my own work and in the work of my clients, becomes far more open and honest, encourages greater collaboration and trust, and puts the consultancy's expertise in the picture.
-
-Sounds like a stroke of genius, doesn't it?
-
-## A 4-step model for consultancies
-
-Here’s the 4-step process I’ve been using myself, observing high-performance consultancies use, and teaching my clients. I’ve discovered that it has broad applicability. It works for smaller, 50k projects and projects of €500k or even >1M in scope.
-
-It’s a unique way of conducting consulting projects and remaining in the driver's seat all the time. Consulting leaders can successfully apply it to almost any consulting project. Yes, any.
-
-• Step 1:Performing an upfront discovery, diagnosis, or audit
-
-• Step 2: Develop an improvement roadmap
-
-• Step 3: Develop the ultimate project plan
-
-• Step 4: Provide implementation guidance (advisory retainer)
-
-I will go through each step individually.
-
-### Step 1: Upfront discovery and/or diagnosis
-
-The biggest win? Consulting leaders don’t have to write a proposal immediately.
-
-A consultancy's diagnosis is its fixed-priced methodology to understand the client’s problem and is a stepping stone, a 'Trojan Horse' to (hopefully) start a more significant project, engagement, or long-term client relationship.
-
-Clients commit to a precise and transparent project with a specific result in mind: understanding the outlook and specifics of their problem and receiving a roadmap (Step 2) for improvement.
-
-Included in the consultancy diagnostic: every possible characteristic of the prototypical client pain it is specialized in. And all these characteristics are the input for the roadmap in Step 2.
-
-### Step 2: Improvement roadmap as the core deliverable
-
-The upfront discovery or diagnosis leads to Step 2, creating a so-called improvement roadmap. It is a consultancy's critical strategic process of determining the actions, chronological steps, and resources needed to solve the client’s problem.
-
-'Roadmapping' is often falsely assumed as the act of designing a roadmap. Huh. Indeed, a vital output of the roadmapping process is a roadmap :-).
-
-However, creating such a roadmap requires a synthesis of all the knowledge and expertise of a consultancy. It determines all the significant components and the prioritization hierarchy to solve the client's problem. And most importantly, it also secures buy-in and support from executive stakeholders.
-
-On top, roadmapping supports structured visual narratives in workshops and beyond. I had great collaboration experiences with it.
-
-Here are a couple of resources consulting leaders and their teams can use to help with roadmapping:
-
-• Thevirtual collaboration tool Mirohas a special section on roadmapping. Consultancies can use their roadmap templates to collaborate with their client. (Enter the search term ‘roadmap’ in the Miro search bar.)
-
-• Cambridge Universityhas a department that provides roadmapping expertise and training! Great expertise!
-
-### Step 3: The ultimate project proposal
-
-The risk of writing an inadequate proposal is always greater without an upfront discovery phase. When the final project goes without discovery, I am 90% sure it will cost more time and money to get started because there won't be enough information even to understand why certain decisions were made during the proposal preparation.
-
-The proposal produced as a result of an upfront discovery project will be much more detailed and tailored than what would have been developed without it. The client gave full access, allowing for an in-depth assessment of the pressing problem(s) they'd like to solve.
-
-A few important tips
-
-• The roadmap is the proposal:The discovery roadmap is the consulting leaders' expert guide to developing the proposal (all the problem and resolution components are in the roadmap, right?).
-
-• Assessing the quality of your roadmap? Consultancy owners should ask themselves: can competitors steal this roadmap and start doing a flawless implementation with it? If yes, the consultancy has done an excellent job.
-
-• Delivery capacity check:The depth of involvement of the consulting firm depends on the capacity to deliver. Big consulting firms with excess capacity can go all the way and do both upstream (strategic, C-level guidance) and downstream (implementation, execution) work. For smaller, boutique consulting firms, I'd recommend to reverse-engineer the roadmap based on the availabe capacity and/or expertise.
-
-• Roadmap ownership:It's important that consulting leaders ensure that the client owns the roadmap implementation. Of course, the consulting firm is there to guide and support the implementation, but the client remains accountable for the ultimate success. I've always guided my clients to become self-sufficient one day. Even if that feels counter-intuitive for a consulting firm, clients ultimately will need to move on and adopt the changes. Giving self-sufficiency guidance is a big trust-builder!
-
-### Step 4: The long tail, the advisory retainer, the client’s ‘peace of mind’
-
-Several of my current consulting clients are keen to sell advisory retainers after full project delivery.
-
-The client is buying ‘peace of mind’ over a more extended period (e.g., 6 or 12 months) and pays ‘access to the consultancy’ to look over the shoulder of the client, giving guidance for further implementation and/or adoption.
-
-‘Being available’ is the essential difference between ‘pay for access’ (upstream advisory retainer) versus ‘pay for work’ (downstream implementation work). Again, it depends on the size of the consulting firm (capacity to deliver) to choose between upstream or downstream post-project support or guidance.
-
-I’d always advise consulting owners to give the advisory retainer a basic structure, such as reviewing the roadmap monthly or quarterly with the team or the C-person (preferably) in an (e.g., 90') workshop format.
-
-By the way, even the big, famous management consulting firms (you know their names, right?) seem to offer more and more of these advisory retainers. They are 'staying close' to the CEO or other C-level execs to give them transformation guidance and peace of mind. It seems to be a new trend and, of course, an excellent business development strategy. I've seen high-performing consultancies of small and medium size adopt such a strategy.
-
-There’s much great content about advisory retainers that explain the pros and cons, reasons, costs, payments, etc. Here’s agreat article from Hubspot(my business software).
-
-Two watch-outs I experienced with my clients.
-
-• C-level only:I recommend that consulting leaders limit their contact to the C-level (or senior project owner) and avoid getting dragged into the implementation work by the implementation team (being in cc in hundreds of emails). That’s why consultancies better define the boundaries of their retainer (e.g., 1x workshop per month for roadmap review, C-level only, etc.).
-
-• Volume risk:Selling advisory retainers is a great way to have predictable revenue, but consultancy owners also have to be careful to oversell and run out of capacity suddenly with too many retainers.
-
-## Pricing the discovery consulting services
-
-I've always been a big fan of openly pricing a discovery service. There are two ways to go about pricing a consultancy's discovery/diagnostic service:
-
-• Fix fee:communicating a standard, fixed fee that a client of any size needs to commit to paying. Although it's easier to sell, I'd never recommend fixed pricing. Why not? See next bullet point. But, if the projects have a similar size all the time (difficult to imagine, though), fixed pricing is more straightforward.
-
-• Fee range:communicating a fee range (e.g., 30-80k for SMEs or 50-150K for Enterprises) depending on the size of the company a consultancy is taking on as a client. The logic here is that the larger the company, the more potential stakeholders consulting leaders would have to involve in the discovery process. It's important to remember that the pricing here is more flexible but the discovery process is set and non-negotiable. For the (big scale) 150k roadmap of the picture above, we did almost 30 interviews (much work, including the planning to get those busy people on the agenda).
-
-## Examples of 3 discovery consulting services consultancy owners can learn from
-
-Having spoken to 200+ consultants, dozens of whom were my clients, there are several excellent examples of consultancies offering discovery-roadmap-advisory services that I’ve aggregated. Here are a few examples.
-
-Example 1: Salesforce post-M&A integration consultancy (boutique high-performance consultancy, experts in merging Salesforce after large-scale enterprise M&A):
-
-• Step 1: diagnosis (they call it 'an audit') of integration challenges, opportunities, duration estimation, and cost estimation
-
-• Step 2: a roadmap to integrate the two systems (mainly done by the client with expert guidance)
-
-• Step 3: client implements with the expert guidance of the consultants
-
-• Step 4: CIO gets personal guidance for 12 months (advisory retainer)
-
-• Step 1: diagnosis of improvement opportunities (understanding the process of both marketing qualified leads and sales qualified leads)
-
-• Step 2: a roadmap to enhance the internal sales process, including the development of playbooks and a training program (delivered by consultants)
-
-• Step 3: the agreed roadmap gets implemented in co-creation with the internal team, mostly 70-80% of the workload is for the consulting firm
-
-• Step 4: CMO and CSO getting personal guidance for 12 months (with one workshop per month - follow-thru of the roadmap) and execution of training program (to help clients get self-sufficient)
-
-Example 3: Retail demand forecasting improvements (midsized consulting firm, experts in automating supermarketdemand forecasting using AI):
-
-• Step 1: a feasibility study to uncover demand forecast improvement opportunities, including initial opportunity-based cost estimations.
-
-• Step 2: a roadmap to improve demand forecasting, with much focus on the assessment of data availability and data quality
-
-• Step 3: implementation of a new demand forecast program in 2 phases (phase 1 by consultancy only, phase 2 in co-creation, including a training program for the CoE analytics with a self-sufficiency objective)
-
-• Step 4: 6-12 months of personal guidance for the demand forecasting leader
-
-## The pushback I sometimes get
-
-When I explain how it works, consulting leaders usually become convinced or even enthusiastic. However, some of them explained their concerns. Here’s an overview of why they sometimes push back and a summary of (some of) my typical answers to their pushback.1. Progression to Larger Projects
-
-• Pushback: Consulting leaders fear showcasing expertise in smaller discovery projects may not lead to larger engagements.
-
-• My response: I highlight how discovery phases build trust, demonstrate value, and show examples of how these can lead to larger, successful projects.
-
-2. Lack of Standardisation
-
-• Pushback: Firms lack a standardised approach, making leaders hesitant to offer discovery phases that might seem inconsistent.
-
-• My response: I advocate for creating a standardised discovery process that effectively introduces the consultancy's methodologies and capabilities. Of course, if there’s a lack of focus or specialisation, that’ll be a difficult job. Another reason to focus more?
-
-3. Perceived Lower Value of Discovery Projects
-
-• Pushback: There's a belief that discovery services are seen as less valuable by clients, who may prefer immediate solutions.
-
-• My response: I always suggest explaining a discovery project as a crucial investment for strategic planning and groundwork, essential for successful project completion in a later phase.
-
-4. Resource Allocation Concerns
-
-• Pushback: Allocating skilled consultants to less lucrative discovery projects is seen as diverting focus from more profitable work.
-
-• My response: I always suggest forming a specialised (small) team for discovery phases to maintain efficiency and emphasise this as an investment in long-term client relationships.
-
-5. Integration with Existing Business Development Processes
-
-• Pushback: There's often concern about the difficulty of incorporating discovery services into current business development and project initiation methods.
-
-• My response: I always propose a straightforward integration approach for discovery services, including business development and consulting team(s) training and compelling communication materials to blend it smoothly into existing prospection and pitching processes.
-
-#### But here's the thing...
-
-These concerns, while understandable, might be holding consultancies back from embracing the true potential of the discovery service.
-
-In reality, the success of the discovery model has been demonstrated across diverse consultancies and circumstances. I've experienced it myself as an incredibly powerful business development tool that not only offered clients a clear path to understanding their needs but also allowed my consultancy to showcase our expertise in a controlled and valuable manner.
-
-The key lies in recognizing that the discovery phase isn't just a preliminary step; it's a strategic opportunity.
-
-By addressing these pushback points head-on, consultancies can reframe their approach, harnessing the power of discovery to not only secure initial engagements but to build the trust and confidence needed to guide clients toward larger, more impactful projects.
-
-It's time to trust in the proven success of the discovery service and leverage it as a catalyst for expertise reputation, business development, consultancy growth and client satisfaction.
-
-## A few tips and tricks
-
-Standardizing discovery services is an important element of the consulting business approach that I advocate. Here are a few lessons I learned in my consulting work and what I am experiencing with my clients.
-
-• Focus (1):The narrower the focus and expertise of the consulting firm, the easier it is to build a discovery approach. For consultancies with a mix of practices and/or expertise domains, it can be a heck of a job as they will need to understand all the patterns of the prototypical pains of their multiple target audiences. It requires solid experience and training of the team, so consultancy owners should think twice. I know a few 'multiple-audiences consultancies' that have developed discovery services but only for a limited number of strategic expertise domains (e.g., digital transformation).
-
-• Focus (2):I urge consultancy owners and consulting leaders to not take on clients outside of the scope of their ideal client. Their deliverables (from the roadmap) will not match their expectations. Why? Because their components of the discovery and the roadmap MUST be of the highest possible standardization, and the only way to achieve that is by sticking to the same target audience (with similar problems).
-
-• Visibility and trust:I cannot advise it enough. Consulting leaders must keep sharing their discovery case studies as much and as broadly as possible, and allocate enough time for the writing and distribution. I've always experienced that prospects are impressed by a robust discovery approach and quickly start trusting the consulting firm's expertise.
-
-• UX:Consultancies must strive for a 5-star experience in how they execute the diagnostic (e.g., automated questionnaires, top-notch reporting, top interview style, and advanced data gathering). The high-end visual delivery of the roadmap (e.g., with the virtual roadmap toolMiro.com) will be a key reference point to build market trust. I am currently usingScoreApp.comfor my discovery questionnaires, with automated high-level reporting which becomes input for my client workshops.
-
-• Agile:I recommend that consultancy owners start building a discovery service in small steps, carefully testing and validating their approach before going big.
-
-• Upstream:Consultancies should beware of becoming the ‘order taker’ of the project leader, and make sure they stay away from getting in cc in team email streams. As the expert, the consultancy is the strategic advisor and provide ‘peace of mind’ for its C-level clients.
-
-## In conclusion
-
-Offering discovery services as a standard business development approach is an excellent way for consultancy owners to leverage the expertise of their consultancies.
-
-Clients will be happier and more relaxed, knowing exactly how to recommend this consultancy's discovery expertise to their network.
-
-Discovery and roadmap development are not about eliminating customization. It’s about leveraging deep expertise to categorize prospects’ pain points and needs. It’s about creating transparent expectations with new clients and delivering a 5-star experience.
-
-The discovery-based consulting model that I suggest will work for any consultancy, irrespective of the size or project scope. It's also a way for a owners to turn their firms into high-performance consultancies.
-
-Interested in receiving all my learnings to become a better consultancy? No spam, no BS. Pure teaching!Subscribe to my newsletter.
 
 ================================================================================
 
@@ -15053,13 +15133,13 @@ Educating your audience will only work if…
 
 (2) communicate value, be it presenting old information from a fresh angle or presenting new information in the form of analysis, prediction of trends, approaches, etc..…it’s authentic and genuinely informative.
 
-If you’re sharing general-type of content that barely scratches the surface of a subject, don’t even bother. It’s a waste of your time. Thousands of articles like that get published daily by consulting firms' marketers. Your prospects are drowning in this type of content.…it caters to a very niche audience. Focus, focus, focus. That’s what it comes down to. And I’m not talking about every article being overly in-depth. I’m referring to consistently educating your audience on a minimal range of themes that fall into a niche subject. If your consultancy addresses too many expertise domains, your audience becomes unclear. You fail to establish your firm as a specialist. You fail to build visibility in a specific niche.…it shares knowledge generously. I’ve seen many case studies where a consultancy provides details on the client’s problem, then goes on and on about their results. The middle part – the HOW – gets mentioned very briefly. Yet it’s the HOW that your prospects want to know. Here’s the thing, though. The more generous you are with your knowledge, the more trust you build with your audience, and the more willing they will be to hire your firm and pay premium fees. “If this consultancy shares this much knowledge freely, imagine what they can do if I hire them” – this is what you want your prospects to think.
+If you’re sharing general-type of content that barely scratches the surface of a subject, don’t even bother. It’s a waste of your time. Thousands of articles like that get published daily by consulting firms' marketers. Your prospects are drowning in this type of content.…it caters to a specific audience. Focus, focus, focus. That’s what it comes down to. And I’m not talking about every article being overly in-depth. I’m referring to consistently educating your audience on a limited range of themes within a niche subject. If your consultancy addresses too many expertise domains, your audience becomes unclear. You fail to establish your firm as a specialist. You fail to build visibility in a specific niche.…it shares knowledge generously. I’ve seen many case studies where a consultancy provides details on the client’s problem, then goes on and on about their results. The middle part – the HOW – gets mentioned very briefly. Yet it’s the HOW that your prospects want to know. Here’s the thing, though. The more generous you are with your knowledge, the more trust you build with your audience, and the more willing they will be to hire your firm and pay premium fees. “If this consultancy shares this much knowledge freely, imagine what they can do if I hire them” – this is what you want your prospects to think.
 
 *Recommended reading:The Biggest Consulting Misconception Is Holding You Back From Limitless Growth*
 
 ## I did not have to sell a single day of my life to grow my business
 
-I never had to sell my services. Not ever. I started and successfully grew two companies, selling one of them to one of the largest consultancies in the world – Deloitte. While running a boutique consultancy, I got projects that large consultancies were competing against each other to get.Why? Was it because I am the one and only true expert? I’m sure there were plenty of brilliant people I was competing against. But I put the time and effort into building my reputational footprint. I didn’t put together fancy slide decks. I focused on proving my expertise by sharing my knowledge.It wasn’t always easy to produce valuable content. Not every swing was a hit. But it never felt like an uphill battle to me, and sharing my expertise has enabled me to create opportunities I would not have had otherwise.Instead of developing short-lived content to tell potential clients how great we were (which would have been a darn uphill battle), I always focused on sharing deep experience and knowledge. The teacher in me kept asking:
+I never had to sell my services. Not ever. I started and successfully grew two companies, selling one to Deloitte, one of the largest consultancies in the world. While running a boutique consultancy, I got projects that large consultancies were competing for.Why? Was it because I am the one and only true expert? I’m sure there were plenty of brilliant people I was competing against. But I put time and effort into building my/our expertise reputation. I didn’t put together fancy slide decks. I focused on proving my expertise by sharing my knowledge.Producing valuable content wasn’t always easy. Not every swing was a hit. But it never felt like an uphill battle to me, and sharing my expertise has enabled me to create opportunities I would not have had otherwise.Instead of developing short-lived content to tell potential clients how great we were (which would have been a darn uphill battle), I always focused on sharing deep experience and knowledge. The teacher in me kept asking:
 
 • What did I learn in the project trenches about the biggest client pains that others could learn from?
 
@@ -15067,9 +15147,9 @@ I never had to sell my services. Not ever. I started and successfully grew two c
 
 • What were the unique client stories (with successes and struggles) that could inspire others to pursue better outcomes?
 
-This resulted in prestigious conferences inviting me as their keynote speaker. This resulted in Google’s algorithm picking up my content as it ranked highly for authoritativeness and trust. It resulted in prospects reading my case studies, learning exactly how I approach projects, and reaching out to me. The list of benefits goes on.
+This led to prestigious conferences inviting me to serve as their keynote speaker. This led Google’s algorithm to rank my content highly for authoritativeness and trust. It led prospects to read my case studies, learn exactly how I approach projects, and reach out to me. The list of benefits goes on.
 
-I was able to exponentially grow my business and charge premium fees on the back of my content. The expertise it conveyed allowed me to position myself in the advisory/diagnostic role. I didn’t need to take on tedious implementation projects. I worked directly with C-level executives, offering upstream services.Although I never started developing content for monetization purposes, I could quickly draw a correlation line between the content volume available, my visibility improvement, and the growth of the consulting business.The content gave access to more clients and a consistent flow of new client leads. I never had to chase new clients. Clients came to my consultancy instead of us having to convince and sell. Inbound instead of outbound. And, by the way, aggressive revenue growth targets (especially after the Deloitte acquisition) were always achieved with zero marketing!
+I was able to exponentially grow my business and charge premium fees on the back of my content. The expertise it conveyed allowed me to position myself in the advisory/diagnostic role. I didn’t need to take on tedious implementation projects. I worked directly with C-level executives, offering 'upstream services'.Although I never started developing content for monetisation, I could quickly draw a correlation between the available content volume, my visibility improvement, and the growth of the consulting business.The content gave access to more clients and a consistent flow of new client leads. I never had to chase new clients. Clients came to my consultancy, so we didn't have to convince or sell. Inbound instead of outbound. And, by the way, aggressive revenue growth targets (especially after the Deloitte acquisition) were always achieved with zero marketing!
 
 ## In conclusion
 
