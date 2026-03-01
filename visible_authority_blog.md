@@ -1,7 +1,345 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 112 artykułów
+**Pobrano:** 114 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# The Impact of a Clear Consulting Proposition on Service Design
+
+**Autor:** Florian Heinrichs
+**Data:** 24 February 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-impact-of-a-clear-consulting-proposition-on-service-design
+
+---
+
+Refining a consultancy's proposition doesn't just clarify its promise. This foundational change also reshapes how services are packaged, sequenced, and sold. That's the beauty of a sharp, issue-led, client-focused value proposition: it becomes the center of gravity for every decision, from marketing to business development to service design.
+
+In this post, I want to zoom in on that last one – consulting firms' service portfolios – and the impact that proposition refinement can and should have on how services are designed.
+
+## What Makes a Consulting Service Good
+
+Every consulting leader should read Lou Downe'sGood Services. It's an excellent guide and a work we reference in our upcoming book on value proposition design.
+
+Downe's core definition: a good service helps someone do something they need to do – easily, reliably, and at the right moment.
+
+He outlines 15 principles of good service design. Applied to consulting, four stand out:
+
+It meets a real client need. Not an internal organizational hassle – a high-impact problem as described by the consultancy's proposition and client success journey.
+
+It sets expectations upfront. The service's name alone should imply a business result. Prospects know what will happen, how long it will take, who needs to be involved, and what they'll need to provide.
+
+It uses language people understand. No jargon, no confusing methodology names. Consulting firms speak the client's language, translating technical processes into problem-solving and impact-focused terms.
+
+It works with other services. It doesn't exist in isolation. It integrates neatly into a larger set of services, creating a coherent journey rather than a disconnected menu.
+
+When these principles are applied through the lens of a newly sharpened value proposition, they produce a powerful reframe:
+
+Consulting services shouldn't be built around what the firm does. They should be built around what clients need to decide, unlock, or move forward.
+
+*Recommended reading:Do Consulting Firms Know the Real Problems They Solve?*
+
+## Consulting Proposition-Driven Service Re-Design
+
+A strong value proposition clearly identifies who the consulting firm is best positioned to help, how it delivers, and what results clients can expect from the collaboration.
+
+This framework should dictate how services are structured and delivered for maximum impact.
+
+Here are three vital lenses through which consultancies should re-assess their current service portfolio.
+
+### #1. Designing Services Around Client Needs, Not Internal Structures
+
+Too many firms still list capabilities (“strategy,” “transformation,” “implementation”) and then expect clients to connect the dots.
+
+Winners build services around key inflexion points in the Client Success Journey – moments where progress tends to stall unless a very specific kind of support is available.
+
+As such, each service should clearly answer:
+
+• Why this moment matters: What are the consequences of inaction or delayed action? How will it compound risk? A good consulting service should make it clear why this particular stage is pivotal and what is at stake. It frames both the cost of inaction and the opportunity of taking the right action.
+
+• What uncertainty it resolves: The service provides clarity. It is explicit about the ambiguity it removes. It offers clients peace of mind by answering questions they didn’t even realize needed answering.
+
+• How it gets the client to the next stage: The service doesn’t just abruptly end, waving adieu to clients. It sets them up for the next stage, creating foreword movement. It is very clear how today’s achievement helps unlock the next milestone.
+
+Why this moment matters: What are the consequences of inaction or delayed action? How will it compound risk? A good consulting service should make it clear why this particular stage is pivotal and what is at stake. It frames both the cost of inaction and the opportunity of taking the right action.
+
+What uncertainty it resolves: The service provides clarity. It is explicit about the ambiguity it removes. It offers clients peace of mind by answering questions they didn’t even realize needed answering.
+
+How it gets the client to the next stage: The service doesn’t just abruptly end, waving adieu to clients. It sets them up for the next stage, creating foreword movement. It is very clear how today’s achievement helps unlock the next milestone.
+
+#2. Fewer, Clearer Services Beat Big Menus
+
+Comprehensive service lists look impressive on paper, but they don’t help clients buy. To the contrary, they fueldecision paralysis, putting the responsibility of connecting services to problems to outcomes on the prospects’ shoulders.
+
+So what actually helps clients buy?
+
+• Offering fewer, sharper services: When a consulting firm offers fewer, sharply defined engagements, each one carries weight and purpose. Each one also has a long list of case studies and other proof elements that help build trust and make the decision for clients easier.
+
+• Naming them in client language: Instead of reflecting internal structures and processes of the consulting firm, the service reflects the client’s context. They are named around outcomes, tensions, and goals that clients experience.
+
+• Building flexibility inside services, not across 15 similar options: A good service contains a certain degree of flexibility within in – how else can it be successfully adjusted to each specific client context. However, there should be very little variability in outcomes and promises. And external communication of the service should reinforce clarity and trust.
+
+Offering fewer, sharper services: When a consulting firm offers fewer, sharply defined engagements, each one carries weight and purpose. Each one also has a long list of case studies and other proof elements that help build trust and make the decision for clients easier.
+
+Naming them in client language: Instead of reflecting internal structures and processes of the consulting firm, the service reflects the client’s context. They are named around outcomes, tensions, and goals that clients experience.
+
+Building flexibility inside services, not across 15 similar options: A good service contains a certain degree of flexibility within in – how else can it be successfully adjusted to each specific client context. However, there should be very little variability in outcomes and promises. And external communication of the service should reinforce clarity and trust.
+
+Example of services:
+
+• Nay:Strategy assessment, operating model design, change enablement
+
+• Yay:Integration Readiness Sprint, Post‑Merger Operating Model Design, Leadership Alignment Program…
+
+Nay:Strategy assessment, operating model design, change enablement
+
+Yay:Integration Readiness Sprint, Post‑Merger Operating Model Design, Leadership Alignment Program…
+
+Each maps to a real client moment. And each is easier to say “yes” to.
+
+### #3. Making Services Easy to Enter – and Easy to Exit
+
+Clients want clarity, not commitment traps.
+
+A well-designed service:
+
+• Has a clear entry point: It’s easy for clients to start. They fully understand the scope, the first step, and the level of commitment expected from them.
+
+• Delivers a clear outcome: The value is communicated in specific terms. No abstract “let’s get started and we’ll see” promises.
+
+• Respects boundaries: It respects client-side constraints or “do-nots.” It is explicit about how the service delivers a result without forcing the client to do something they can’t or won’t do. On the flip side, it also respects firm-side constraints and service scope. It is equally clear about what the service will not attempt to take on.
+
+Has a clear entry point: It’s easy for clients to start. They fully understand the scope, the first step, and the level of commitment expected from them.
+
+Delivers a clear outcome: The value is communicated in specific terms. No abstract “let’s get started and we’ll see” promises.
+
+Respects boundaries: It respects client-side constraints or “do-nots.” It is explicit about how the service delivers a result without forcing the client to do something they can’t or won’t do. On the flip side, it also respects firm-side constraints and service scope. It is equally clear about what the service will not attempt to take on.
+
+• A paid diagnostic that builds trust before a bigger engagement
+
+• A modular program where clients can pause or extend without renegotiating
+
+A paid diagnostic that builds trust before a bigger engagement
+
+A modular program where clients can pause or extend without renegotiating
+
+This doesn’t just improve experience – it improves performance.
+
+*Recommended reading:The Ultimate Guide to Consulting Value Proposition Design*
+
+## In Conclusion: Complexity and Noise Do Not Convert
+
+Selling “raw” capabilities or capability-led services builds a hamster wheel. Firms chase briefs, customize everything, and end up reacting to client-defined needs instead of shaping them.
+
+When services are designed around a clear, issue-led proposition, the opposite happens. The firm solves one big issue for a well-defined group. The language shifts from technical to client-facing. Marketing gets clearer. Every project gets easier to sell. And each successful engagement makes the next one easier to win.
+
+That's the flywheel of consulting: focus creates clarity, clarity creates trust, trust creates momentum. And momentum compounds.
+
+It's why Luk and I keep saying – a consulting firm's best path to performance isn't "do more." It's to get focused, then build leverage around the issue it solves best.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
+
+================================================================================
+
+# The Toxic Effect of Improvisation on a Consulting Firm’s Performance
+
+**Autor:** Luk Smeyers
+**Data:** 10 February 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-toxic-effect-of-improvisation-on-a-consulting-firms-performance
+
+---
+
+Many consulting firms pride themselves on being open to everything. They want to keep as many doors open as possible, stay broad in their positioning, and remain ready to respond to whatever the market brings. On paper, this looks like a sensible strategy: more options, more potential revenue streams, more chances to say yes to attractive clients.
+
+In practice, this posture slowly reshapes how the firm makes decisions. Projects that sit slightly outside the core expertise become acceptable. Scopes are adjusted to fit whatever the client requests. Proposals are written from scratch because every opportunity feels unique. Delivery approaches evolve around individual preferences rather than a shared model.
+
+Over time, this way of operating stops being the exception and becomes the norm. The firm is no longer guided by a clear set of choices about who it serves, what problems it solves, and how it creates value. Work is won and delivered through a series of one‑off responses to immediate demand.
+
+What feels like healthy flexibility at the beginning gradually turns into something else: a consulting business that runs on improvised decisions, improvised projects, and improvised ways of working. Growth becomes harder to predict, teams feel stretched in too many directions, and profitability comes under pressure even when the firm appears busy.
+
+In our work with consulting firms, this is one of the most common patterns we see across boutiques and practices/verticals within large firms. No consulting firm, regardless of size, is automatically protected from it.
+
+#### 'Improvisation' is not why we are usually brought on board.
+
+Typically, requests are phrased along the lines of “We are doing everything we can think of but our growth feels unpredictable, the business development and marketing strategies we’ve tried are not delivering the desired results, and the entire team is running on fumes.”
+
+Once we look under the surface, we find that improvisation has quietly become the default mode of operation and the underlying cause driving this reality.
+
+Improvisation is one of the primary root causes of a consulting firm’s profit erosion. That is why, in this article, I will walk through the causes and negative impacts of improvisation, explain the forces that drive it, and outline an alternative operating model.
+
+## What Is Improvisation in Consulting, and How Does It Become Modus Operandi?
+
+Improvisation, as a profit-eroding mode of operations, is not something that happens overnight. It’s a pit that consulting firms slip into, one decision and one compromise at a time.
+
+It typically starts with a deliberate decision to stay broad. “We want to keep our options open and maintain as many revenue avenues as we can,” is what consulting leaders and owners often say.
+
+Big mistake. This mindset impacts every aspect of the consulting firm’s operations:
+
+• It takes on projects outside of the core expertise;
+
+• Its marketing and business development strategies lack the focus, targeting, and messaging that would make them effective;
+
+• Resources are allocated on an ad-hoc basis. No planning or foresight;
+
+• Projects are endlessly customised, and most requests for additional work or expanded scope from clients are met with a yes;
+
+• Talent is hired not based on projected growth but in response to the immediate pressure of ongoing projects;
+
+• Pricing is constantly adjusted and negotiated;
+
+• Individual consultants and their approach to clients are what usually determine the success of projects and clients’ satisfaction with outcomes.
+
+It takes on projects outside of the core expertise;
+
+Its marketing and business development strategies lack the focus, targeting, and messaging that would make them effective;
+
+Resources are allocated on an ad-hoc basis. No planning or foresight;
+
+Projects are endlessly customised, and most requests for additional work or expanded scope from clients are met with a yes;
+
+Talent is hired not based on projected growth but in response to the immediate pressure of ongoing projects;
+
+Pricing is constantly adjusted and negotiated;
+
+Individual consultants and their approach to clients are what usually determine the success of projects and clients’ satisfaction with outcomes.
+
+When a consulting firm improvises, every client project becomes a new invention. The work starts from scratch again and again. That constant reinvention adds variation, and variation quickly turns into complexity.
+
+The impact of that improvisation on the bottom line shows up fast and in predictable ways:
+
+• Operational strain: Operations become harder to manage when every project follows its own logic. Consulting firms often swing between periods of work overload and periods of slow work. Resources are either under- or overutilised. There is no predictability in how to allocate the time of consulting teams and tech resources.
+
+• Diluted expertise: Knowledge spreads thin because patterns never get reinforced. Every project is a learning curve. Knowledge gained in one project does not necessarily translate into an asset for another project. Expertise doesn’t compound. It just gets broadened.
+
+• Profit pressure: Margins shrink quietly as effort increases without leverage. The inability to optimise resources and the lack of predictability in how staff’s time is allocated in the most efficient, value-driven way increase the costs of completing each project. Pricing, on the other hand, constantly fluctuates. Revenue is unpredictable.
+
+• Power to the client: The client defines the scope, the approach, and often the price. There are no methodologies, clear onboarding processes, client success journeys, or other strict parameters. The relationship dynamic with clients changes from strategic advisors and experts to order-takers.
+
+Operational strain: Operations become harder to manage when every project follows its own logic. Consulting firms often swing between periods of work overload and periods of slow work. Resources are either under- or overutilised. There is no predictability in how to allocate the time of consulting teams and tech resources.
+
+Diluted expertise: Knowledge spreads thin because patterns never get reinforced. Every project is a learning curve. Knowledge gained in one project does not necessarily translate into an asset for another project. Expertise doesn’t compound. It just gets broadened.
+
+Profit pressure: Margins shrink quietly as effort increases without leverage. The inability to optimise resources and the lack of predictability in how staff’s time is allocated in the most efficient, value-driven way increase the costs of completing each project. Pricing, on the other hand, constantly fluctuates. Revenue is unpredictable.
+
+Power to the client: The client defines the scope, the approach, and often the price. There are no methodologies, clear onboarding processes, client success journeys, or other strict parameters. The relationship dynamic with clients changes from strategic advisors and experts to order-takers.
+
+### The Root Cause of Improvisation in Consulting
+
+Improvisation is not inherently bad. Every consulting project involves a certain degree of improvisation. Built-in flexibility allows consulting firms to continuously deepen and sharpen their expertise.
+
+The problem is when improvisation takes over. When a prospect asks for yet another “something”, the consultancy says yes, even when there is a well-defined process behind it.
+
+And the root cause of it? The lack of a strong consulting value proposition: issue-led, outcome-driven, and client-specific.
+
+The modern buyer can smell when a consultancy is pitching work that sits outside its comfort zone. The signal is simple: there is insufficient evidence that this work has been delivered repeatedly with predictable value. When that proof is missing, the buyer starts negotiating from a very different place.
+
+The core issue is rarely the client, but the consultancy proposing something that hasn't yet been turned into a repeatable proposition. Without clear proof, strong client successes, and a confident approach to pricing the work, the consultancy weakens its position before the project even starts.
+
+There is no laser-sharp value proposition to define the parameters of work, pre-qualify prospects, establish repeatable processes and methodologies, guide marketing and business development strategies, or frame thought leadership at the foundation of trust-building.
+
+The real danger of improvisation is its compounding effect.
+
+Each improvised project adds another layer of complexity to what already exists. What feels flexible and responsive in the early days slowly snowballs into a consultancy that is busy, chaotic, and stuck managing its own variability.
+
+## Proposition Design = The Antidote to Improvisation in Consulting
+
+Improvisation vs. Designed Repetition in Consulting
+
+Proposition design is how consulting firms can claim back control over their consulting operations, performance, and growth.
+
+A well-defined consulting proposition gives the consulting firm a solid foundation, eliminating the need to improvise every time. It creates a deliberate frame for making decisions on such crucial business issues as:
+
+• To whom the consulting firm delivers its services;
+
+• What problems it solves for this audience;
+
+• How it solves the problems – from expertise needs to resources to processes and methodologies;
+
+• When the consulting services are relevant and can provide exponential value, and when it is best to decline a new project;
+
+• How to price the services based on the value they provide as opposed to the man-hours poured into the delivery;
+
+• What minor adjustments are needed for proposals, which are now, for the most part, standardised due to the repetition in the kind of work is performed for the same type of clients;
+
+• What subjects to write about to address critical issues for the target audience and, through that, build trust with it;
+
+• How to onboard new hires;
+
+• How to onboard new clients;
+
+• What chain of services would maximise the value for the client and facilitate a long-term relationship.
+
+To whom the consulting firm delivers its services;
+
+What problems it solves for this audience;
+
+How it solves the problems – from expertise needs to resources to processes and methodologies;
+
+When the consulting services are relevant and can provide exponential value, and when it is best to decline a new project;
+
+How to price the services based on the value they provide as opposed to the man-hours poured into the delivery;
+
+What minor adjustments are needed for proposals, which are now, for the most part, standardised due to the repetition in the kind of work is performed for the same type of clients;
+
+What subjects to write about to address critical issues for the target audience and, through that, build trust with it;
+
+How to onboard new hires;
+
+How to onboard new clients;
+
+What chain of services would maximise the value for the client and facilitate a long-term relationship.
+
+Furthermore, when consulting firms repeat work by design, expertise compounds. That shows up as:
+
+• Pattern recognition: Similar problems make similarities visible. By spotting early signals, common failure points, and the most effective interventions, the consultancy can do so faster and with greater precision than competitors.
+
+• Reduced outcome variance: Delivery becomes more predictable over time. Repeatable work enables consulting firms to continuously optimise their approach, whether through the tools used, methodologies, or processes. This, in turn, means that timelines become predictable, the effort required for each project is calculable, and the outcomes are predictable.
+
+• Stronger confidence: Teams know what works and why. Their confidence grows from evidence: clear delivery approaches, predictable outcomes, and happy clients. Decision-making within teams becomes faster. Internal alignment shows up in every aspect of business – from project delivery to marketing and sales.
+
+• Pricing resilience:Confidence in delivery supports firmer pricing. It no longer needs to price services by the hour but rather by the value they deliver. Clients are more willing to pay premium fees because the consulting firm reduces complexity and provides evidence of its ability to deliver outcomes.
+
+Pattern recognition: Similar problems make similarities visible. By spotting early signals, common failure points, and the most effective interventions, the consultancy can do so faster and with greater precision than competitors.
+
+Reduced outcome variance: Delivery becomes more predictable over time. Repeatable work enables consulting firms to continuously optimise their approach, whether through the tools used, methodologies, or processes. This, in turn, means that timelines become predictable, the effort required for each project is calculable, and the outcomes are predictable.
+
+Stronger confidence: Teams know what works and why. Their confidence grows from evidence: clear delivery approaches, predictable outcomes, and happy clients. Decision-making within teams becomes faster. Internal alignment shows up in every aspect of business – from project delivery to marketing and sales.
+
+Pricing resilience:Confidence in delivery supports firmer pricing. It no longer needs to price services by the hour but rather by the value they deliver. Clients are more willing to pay premium fees because the consulting firm reduces complexity and provides evidence of its ability to deliver outcomes.
+
+In our experience, consulting firms that make this shift stop compounding complexity and start compounding expertise.
+
+*Recommended reading:The Ultimate Guide to Consulting Value Proposition Design*
+
+## Value Proposition-Driven Operations ≠ Zero Improvisation
+
+I often get the question: can a consulting firm never leave its zone of expertise anymore (once defined)?
+
+Of course, it can! The goal of a value proposition-driven operations strategy is to turn flexibility into a tool in a big toolbox rather than letting it take over.
+
+This means that when a consulting firm is driven by its strong value proposition, it deliberately leaves its comfort zone. For example, it may want to test a new proposition – aka innovation. And it does so with clear boundaries, a learning goal, and an explicit plan to scale it.
+
+Exploration, in these instances, is a strategic choice. It is not driven by short-term revenue pressure. It is not forced upon the consultancy, nor does it affect its performance. Improvisation happens inside a structure. A sandbox environment, if you will.
+
+Without that discipline, exploration turns into accidental portfolio sprawl, and improvisation quietly hardens into complexity (and an impact on profitability).
+
+## Improvisation Today = Complexity Tomorrow = Profit Erosion Soon
+
+Improvisation is not inherently bad. It becomes dangerous when it starts running the show. When it turns consulting leaders and owners into reactive decision-makers instead of strategy-setters. It becomes a problem when clients are forced to get in the driver’s seat and dictate the scope and delivery.
+
+Left unchecked, the negative impacts of improvisation compound. Every new project adds complexity. Complexity corrodes efficiency, erodes profitability, and stalls growth.
+
+A strong, outcome-driven, issue-led, and client-specific consulting value proposition is a way to put a consulting firm back on track. To grow by design. Proposition-driven strategies contain improvisation. They use flexibility to power predictable growth through continuous optimisation of resources and processes.
+
+Improvisation should not run the show. Consulting growth can not be at the mercy of a couple of big projects or tied to a handful of clients. Consulting firms that find themselves in this position need to press the brakes and go back to the value proposition drawing board.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
@@ -84,6 +422,12 @@ As a result, clients tend to think of these services as low-value, meaning they 
 This kind of “discovery” is fundamentally incompatible with a value-focused consulting proposition and runs a high risk of leading to client dissatisfaction.
 
 *Recommended reading:Why Prospects Freeze. And How Consulting Firms Can Fix It*
+
+"We see this a lot in asset management advisory. Many clients have been through self‑assessments and expensive, shiny maturity models so often that they already know the answers but are stuck at what to do next. It weakens the credibility of discovery, which for me is the most important phase. It’s where we bring people with us, build clarity and establish the foundations for real tangible change.
+
+Some of the most rewarding work we do is with organisations that have been burned by previous “diagnostics” or have a lengthy report and no route to value. Helping them cut through the noise, understand what really matters and move forward with confidence is often the turning point."
+
+- Tim Kay, Asset Management Advisor
 
 ### The High-Impact Discovery Model
 
@@ -864,6 +1208,8 @@ Increasingly, those questions are no longer hypothetical. Buyers can run a quick
 ### The AI Double Squeeze in Consulting
 
 On top of that, in our conversations with managing partners and leaders of consulting firms of various sizes, another consulting market insight emerged – the AI double squeeze.
+
+The AI Double Squeeze in Consulting
 
 Many consulting firms generate a not insignificant percentage of their revenue from small, ad hoc projects: quick-turn surveys, basic segmentations, competitor scans, and ‘rapid insight’ decks, ahead of, e.g., board meetings or strategy off-sites.
 
@@ -2965,77 +3311,325 @@ Luk Smeyers & Florian Heinrichs
 
 ---
 
-Here’s the story of the collapse of a 25-person boutique consultancy that was biting off more than it could chew (a true story, anonymised to maintain confidentiality).In early 2022, I was engaged to assist a boutique consultancy in enhancing its consulting proposition and overall performance.While I won't delve into every nuance, their primary challenge stemmed from offering a wide array of services (five distinct service offerings), even though they all fell under a single domain expertise 'umbrella'.My perspective? With a lean team of just 25 individuals, making five distinct, pretty much unrelated services stand out in a competitive marketplace is an uphill battle. Why is this the case?That's the intriguing subject I'll explore in this article.
+(And Why Focus and Repetition Are Your Only Real Growth Levers)
 
-## Why over-diversified boutique consultancies are doomed to struggle
+Here’s the story of a 25-person boutique consultancy that was biting off far more than it could chew (a true story, anonymised to maintain confidentiality). This 'story' is not an exception. I keep seeing this pattern in founder‑led boutiques that try to grow by adding services instead of deepening one.
 
-At the onset of our collaboration, I thoroughly examined their service offerings, along with the consultancy's performance data. My findings were revealing.Of the five services they offered, they aimed to cater to four distinct buyer profiles, each characterised by unique needs, contexts, pain points, and budget considerations.Alarmingly, four of these services hadn't achieved market fit. In essence, they hadn't been sufficiently tested across multiple projects to ensure they met the specific needs and challenges of their target audience.While these services were conceptualised on paper (and with the help of a few initial small projects) and led by five dedicated service leaders (a significant portion of their team and overhead cost), tangible evidence of market fit (and deep buyer understanding) was glaringly absent.This disconnect resulted in limited market traction and revenue growth.
+I was engaged to assist this consultancy in enhancing its consulting proposition and overall performance.
 
-Lacking a compelling value proposition that connected with their target audience, these services found it difficult to build a strong presence, leading to wasted resources (not interchangeable between the services due to different areas of expertise), missed opportunities, and lower ROI.In a fiercely competitive environment, neglecting to align offerings with the unique needs of each buyer segment can be the difference between thriving and fading into irrelevance.Many of our intense discussions, where I pointed out the pitfalls of a small team covering a wide range of services, often returned to their firm (and naive - sorry to say) belief: “A broad service range is essential to stay competitive in the market.”My answer: “You can never achieve market fit and decent consultancy performance (revenue, project margins, overall profit, expertise reputation) with five immature services and a lean team of 20 persons.”
+While I won’t delve into every nuance, their primary challenge stemmed from offering a wide array of services (five distinct offerings) that all fell under a single domain‑expertise “umbrella”.
 
-*Recommended reading:Evaluating and Improving Performance of the Founder-Led Boutique Consultancy*
+My perspective? With a lean team of just 25 individuals, making five largely unrelated services stand out in a competitive marketplace is an almost impossible equation.
+
+This article unpacks why that is, and what you should do instead.
+
+## What this article is really about
+
+This isn’t just a post‑mortem on one struggling firm. It’s a case study in howvalue proposition design, focus, and repetitionwork in consulting, no matter your size.
+
+In this article, I’ll show you:
+
+• Why a 25‑person boutique can’t credibly support five immature services.
+
+• Why a new consulting service typically needs around two years of focused maturation before it’s truly market‑ready.
+
+• How service proliferation quietly destroys margins, market fit, and reputation.
+
+• Why the compounding effect of focus and repetition is your biggest underused asset.
+
+• How the same principles of value proposition design apply to solo‑proposition boutiques, multi‑practice firms, and even large global consultancies.
+
+### Why over-diversified boutique consultancies are doomed to struggle
+
+At the outset of our collaboration, I thoroughly examined their service offerings and the consultancy’s performance data. My findings were revealing.
+
+Of the five services they offered, they aimed to cater to four distinct buyer profiles, each characterised by unique needs, contexts, pain points, and budget considerations.
+
+Alarmingly, four of these services hadn’t achieved market fit. In essence, they hadn’t been sufficiently tested across multiple projects to ensure they met the specific needs and challenges of their target audience.
+
+While these services were conceptualised on paper (and with the help of a few initial small projects) and led by five dedicated service leaders (a significant portion of their team and overhead cost), tangible evidence of market fit (and deep buyer understanding) was glaringly absent.
+
+This disconnect resulted in limited market traction and revenue growth.
+
+Lacking a compelling value proposition that resonated with their target audience, these services struggled to build a strong presence, leading to wasted resources (not interchangeable across services due to different areas of expertise), missed opportunities, and lower ROI.
+
+In a fiercely competitive environment, neglecting to align offerings with the unique needs of each buyer segment can be the difference between thriving and fading into irrelevance.
+
+Many of our intense discussions, where I pointed out the pitfalls of a small team covering a wide range of services, often returned to their firm's (and, sorry to say, naïve) belief:“A broad service range is essential to stay competitive in the market.”
+
+My answer:“You can never achievemarket fit and decent consultancy performance (revenue, project margins, overall profit, expertise reputation) with five immature services and a 25‑person team. The math simply doesn’t work.”
+
+They were trying to play a game of breadth and variety in a market that rewards depth, repetition, and consistency of outcomes.
+
+*Recommended reading:The Ultimate Guide to Consulting Value Proposition Design*
+
+## The Resource Planning Nightmare Behind Too Many Services
+
+There was another, very practical problem their multi‑service strategy created: resourcing.
+
+Each of the five services was, in reality, a fairly independent proposition with its own expertise requirements. That meant they weren’t just selling five offers, they were effectively buildingfive different micro‑firms inside a 25‑person company.
+
+From a hiring and resource planning perspective, this is a nightmare:
+
+• They needed a patchwork of highly specific experts to make each service credible.
+
+• Those experts werenot easily interchangeableacross service lines because the underlying domains, tools, and client contexts were different.
+
+• Utilisation became fragile: you could have one service line over‑stretched while another had people under‑used, even though the total headcount looked “about right” on paper.
+
+Instead of having one core talent profile they could hire, develop, and flex across a consistent type of work, they had:
+
+• Five different talent profiles to source in a tight market.
+
+• Five different onboarding journeys.
+
+• Five different pipelines of “maybe” work, each too thin to support a stable bench.
+
+Their service strategycreated its own hiring problem. They weren’t just fighting for market fit; they were also fighting a losing battle in recruitment and capacity planning.
+
+With a focused, single‑proposition firm, every additional hire reinforces the same core capability, and the compounding effect of repetition applies to your people as much as to your IP. With five independent services, every additional hire fragments your capability and increases the risk that someone, somewhere, is under‑utilised.
+
+In other words, the way they designed their service portfolio didn’t just weaken their value proposition; it also made it structurally harder to build and sustain the team required to deliver it.
 
 ## A new service takes two years to mature
 
-What? Two years? Kidding me, Luk?That’s how people often react when discussing maturing a new consultancy service.A new consulting service targeting a different or new buyer profile, focusing on specific needs or pain points (as in this article's consultancy), typically takes around two years to mature. It can go slightly faster if targeting the same buyer profile with an adjacent service.Not everybody agrees with my vision of maturing a new consultancy service.But here's the thing: introducing a new service goes much further than just conceptualisation and launching. It's a complex journey that starts with understanding the intricacies of the target market and customer.1. Understanding the Target BuyerThis includes both macro and microelements. It’s essential to define the profile of the target buyer and to clearly identify the pain points and challenges they encounter, along with the specific circumstances that intensify these issues.
+What? Two years? Kidding me, Luk?
 
-Recognising what triggers a potential buyer to actively seek consulting support—such as organisational change, declining performance, market disruption, regulatory shifts, or internal skill gaps (to name a few)—is vital.
+That’s how people often react when I say a new consulting service typically needs around two years of focused maturation.
 
-Budget also plays a crucial role, as prospective clients will have varying expectations and constraints regarding how much they are willing or able to invest in consulting services. Understanding the budget landscape—not just what clients can pay, but how spending decisions are made internally—is indispensable for shaping viable offerings and setting realistic expectations.
+A new consulting service targeting a different or new buyer profile, focusing on specific needs or pain points (as in this article’s consultancy), typically takes roughly two years to mature. It can go slightly faster if you’re targeting the same buyer profile with an adjacent service, but it still takes time and repetition.
 
-Importantly, achieving this depth of insight into buyers’ needs, triggers, and budget realities is not something that happens overnight. It is a process that demands repeated interaction, careful listening, and ongoing refinement, often taking substantial time, contributing to the typical two-year period needed for the service to truly mature and achieve market fit.
+Not everybody agrees with this view. But here’s the thing: introducing a new service goes far beyond just conceptualisation and launch. It’s a complex journey.
+
+Over and over again, I see the sameService Maturation Cycleplay out. It’s less about the calendar and more about how many cycles of learning, delivery, and refinement you’ve gone through.
+
+I break that cycle into six stages:
+
+• Deep Buyer Insight
+
+• Pattern Recognition via Repetition
+
+• Data, Benchmarking & Method Refinement
+
+• Outcome Variance Reduction
+
+• Client Proof & Reputation
+
+• Economics & Margin Uplift
+
+Let’s walk through each.
+
+#### 1. Deep Buyer Issue(s) Insight
+
+This includes both macro and micro elements. It’s essential to define the target buyer's profile and clearly identify the pain points and challenges they encounter, along with the specific circumstances that intensify them.
+
+Recognising what triggers a potential buyer to actively seek consulting support, such as organisational change, declining performance, technical modernisation, market disruption, regulatory shifts, or internal skill gaps, is vital.
+
+Budget also plays a crucial role. Prospective clients will have varying expectations and constraints regarding how much they are willing or able to invest in consulting services. Understanding the budget landscape, not just what clients can pay, buthow spending decisions are made internally,is indispensable for shaping viable offerings and setting realistic expectations.
+
+Importantly, achieving this depth of insight into buyers’ needs, triggers, and budget realities is not something that happens overnight. It demands repeated interaction, careful listening, and ongoing refinement.
 
 All these insights together lay the groundwork for developing a compelling and relevant consulting value proposition.
 
-2. Project Repetition and Pattern RecognitionAs the service is repeatedly delivered, the team begins to recognise patterns. This repetition enables the fine-tuning of methodologies and approaches, ensuring that common challenges are addressed more efficiently with each subsequent project. Over time, this pattern recognition becomes a valuable asset, enabling quicker problem-solving and more effective service delivery.
+#### 2. Pattern Recognition via Repetition
+
+As the service is repeatedly delivered, the team begins to recognise patterns.
+
+This repetition enables the fine‑tuning of methodologies and approaches, ensuring that common challenges are addressed more efficiently with each subsequent project. Over time, this pattern recognition becomes a valuable asset, enabling quicker problem‑solving and more effective service delivery.
 
 Just as a researcher discerns patterns in data, a medical specialist diagnoses conditions based on symptomatic patterns, or a scientist makes discoveries through repeated experimentation, a consultancy derives a differentiating consulting proposition by undertaking similar projects repeatedly.
 
-3. Data Gathering, Benchmarking, and Continuous ImprovementWith every project undertaken, there’s an invaluable opportunity not only to gather data and establish benchmarks, but also to leverage project repetition as a source of continuous improvement.
+This is where thecompounding effect of repetitionbegins:
 
-Delivering similar types of projects repeatedly enables the team to identify patterns, refine processes, and build robust methodologies, all of which contribute to becoming more effective and efficient with each engagement.
+• Every project deepens your understanding of typical client contexts.
+
+• Each iteration sharpens your questions, artefacts, and interventions.
+
+• The team stops reinventing the wheel and starts operating from proven patterns.
+
+One project doesn’t give you that compounding effect. Ten similar projects do. Fifty makes it powerful.
+
+#### 3. Data, Benchmarking & Continuous Improvement
+
+With every project undertaken, there’s an invaluable opportunity not only to gather data and establish benchmarks, but also to leverage project repetition to drive continuous improvement.
+
+Delivering similar types of projects repeatedly enables the team to:
+
+• Identify recurring drivers and obstacles.
+
+• Refine processes and frameworks.
+
+• Build robust methodologies and playbooks.
 
 The principle is straightforward: the more projects executed, the larger the pool of data and lessons learned, and the better the consultancy can project and manage future outcomes.
 
-Over time, the accumulation of project data and repeated delivery significantly reduces the variability of results, enabling more predictable and evidence-based success.
+Over time, the accumulation of project data and repeated deliveries significantly reduce noise in your understanding of the client environment, enablingmore predictable, evidence‑based success.
 
-This ongoing cycle of repetition and data gathering not only demonstrates the effectiveness of the service but also positions the consultancy as a credible thought leader that can offer clients tangible and increasingly reliable metrics on success, further strengthening its value proposition.
+This ongoing cycle of repetition and data gathering not only demonstrates the service's effectiveness but also positions the consultancy as a credible thought leader that can offer clients tangible, increasingly reliable metrics of success, further strengthening its value proposition.
 
-4. Client Wins and Reputation BuildingMaturing a new service is a gradual, demanding process that requires a lot of work and patience. Each client win is not just an achievement, but a critical building block for the service’s development. Every engagement helps refine the methodology, improve consistency, and deepen understanding of what works (and what doesn’t) across different client situations.It’s through this hands-on effort and real-world learning that the service truly evolves. Lessons from each project—both successes and setbacks—feed into strengthening the offer and building its reputation for reliability and impact. Over time, these cumulative experiences move the service from being “new and unproven” to genuinely mature and trusted by clients.
+This is compounding in action: each engagement doesn’t just add another case study, it improves the entire system you use to deliver outcomes.
 
-5. Financial Performance and ProfitabilityA true marker of a service's maturity is its financial performance. For me, achieving a margin of at least 40% is essential. As the service is refined and its reputation builds, there is potential for this margin to grow. A well-established, in-demand service should aim for a margin over 50%, ensuring the consultancy's long-term profitability and sustainability.
+#### 4. Outcome Variance Reduction
+
+Most boutiques underestimatethe importance ofoutcome variance.
+
+Early on, you might deliver one project with outstanding results and another with only modest impact, despite using the same “service”. From the client’s perspective, that means your value is unpredictable.
+
+As you move through repeated delivery, data collection, and method refinement, something important should happen:the variance in outcomes should go down.
+
+• Your delivery becomes more consistent across different client contexts.
+
+• The range between your “worst acceptable outcome” and your “best outcome” narrows.
+
+• You can start to say, with a straight face: “We reliably deliver X–Y range of improvement in this domain.”
+
+This reduction in outcome variance is a major component of real consulting value. Clients don’t just buy your best case; they buy yourimpactpredictability.
+
+You can’t reduce outcome variance across five different immature services with a 25‑person team. With such a small team, youcando it for one well‑defined service, delivered again and again, with relentless learning.
+
+#### 5. Client Wins and Reputation Building
+
+Maturing a new service is a gradual, demanding process that requires significant work and patience.
+
+Each client win is not just an achievement, but a critical building block for the service’s development. Every engagement helps refine the methodology, improve consistency, and deepen understanding of what works (and what doesn’t) across different client situations.
+
+It’s through this hands‑on effort and real‑world learning that the service truly evolves. Lessons from each project, both successes and setbacks, feed into strengthening the offer and building its reputation for reliability and impact.
+
+Over time, these cumulative experiences move the service from“new and unproven” to genuinely mature and trustedby clients.That trust shows up in:
+
+• Referrals and repeat work.
+
+• Willingness to sponsor you internally.
+
+• Opening doors to higher‑altitude, C‑level conversations.
+
+Again, compounding: one client win is nice. Ten in the same proposition space create a reputation flywheel.
+
+#### 6. Financial Performance and Profitability
+
+A true marker of a service’s maturity is its financial performance.
+
+For me, achieving a margin of at least 40% is essential. As the service is refined and its reputation builds, this margin has the potential to grow. A well‑established, in‑demand service should aim for a margin of over 50%, ensuring the consultancy’s long‑term profitability and sustainability.
+
+This is where theeconomics of focusreally show:
+
+• Delivery gets more efficient because the team isn’t constantly context‑switching between radically different projects.
+
+• Non‑billable time per project decreases because onboarding, methodology, and collateral are standardised.
+
+• Marketing and BD start compounding because every asset, case study, and conversation points to the same clear value proposition.
+
+If you haven’t gone through these six stages with a service, you don’t have a mature offer, you have a hypothesis.
 
 #### Yes, it takes two years to mature
 
 Reflecting on the story of my former client, their ambitious attempt to juggle five services with a modest team of 25 underscores the challenges.
 
-From my experience, it takes at least two years of dedicated effort—repeated delivery, ongoing learning, and constant refinement—for even a single service to reach genuine maturity and success.
+From my experience, it takes at least two years of dedicated effort: repeated delivery, ongoing learning, and constant refinement, for even a single service to reach genuine maturity and success.
 
 The boutique consultancy’s struggle demonstrates just how much sustained work is involved. Only after this foundational period, when a service has been thoroughly tested, improved, and proven its value in the market, would I recommend even considering the cautious launch of another (adjacent) service.
 
-Rushing this process or skipping key steps only leads to diluted focus and the same pitfalls seen in this case study.
+Rushing this process or skipping key steps only leads to diluted focus, inconsistent outcomes, and the same pitfalls seen in this case study.
+
+Recommend Reading:2025 - The Year Consulting Finally Ran Out of Excuses
 
 ## A boutique consultancy is not a Big 4 consulting firm
 
-Unlike large consulting firms, boutique consultancies do not have the resources and the manpower to diversify their service offering heavily.It’s one thing if a Deloitte or KPMG-type international consultancy with offices worldwide and thousands of consultants decides to offer a new service. These large companies always have excess capacity to make the new service practice stand on its feet.Boutique consultancies don’t. And they don’t need to. We (iNostix - acquired by Deloitte) were able to beat the MBBs (McK, BCG, Bain,...) and Big 4 consultancies in pitches multiple times, driven by our deep expertise and market reputation.A consultancy of 20-25 people will never be able to compete against the industry giantson the variety of services it offers. Or even medium-sized firms of 100-200 people. That’s a losing battle from the start.
+Boutique consultancies are not mini–Big 4 firms. They don’t win by copying the breadth of Deloitte or KPMG. They win by going deeper than anyone else in one tightly defined problem space.
 
-• The depth of expertise that can be gained across many service areas will never be enough to be regarded as the go-to experts.
+Unlike large consulting firms, boutique consultancies do not have the resources or manpower to diversify their service offerings significantly.
 
-• The non-billable hours and overhead will always be disproportionately high, as in the case of my client with five service offering leaders, when attempting to market multiple service lines: client onboarding costs (the number of hours the consultants must invest), marketing and business development expenses, scattered data collection, high variability in procedures and systems that often need to be customised for each client, and so on.Moreover, the challenges of managing and onboarding diverse client projects, communications, contractual details, training needs, and quality assurance for each service quickly become overwhelming.
+It’s one thing if a Big 4‑type international consultancy with offices worldwide and thousands of consultants decides to offer a new service. These large companies always have excess capacity to make the new service practice stand on its feet.
 
-• The ROI of marketing and business development efforts will always be inefficient. Why? Instead of focusing all its marketing efforts on a single service area for a highly specific audience, the boutique consultancy in this case study spreads its efforts across multiple areas and a broader audience.
+Boutique consultancies don’t. And they don’t need to.
 
-• Clients will always prefer to hire a consultancy with years of experience and a proven track record of delivering high-impact results in a narrow field. Variation in the service offering is undermining the predictability of outcomes. And clients want outcomes!
+We (iNostix – later acquired by Deloitte) beat the MBBs (McK, BCG, Bain,…) and Big 4 consultancies in pitches multiple times, driven by our deep expertise and market reputation in a single domain. Not because we did more things, but because we knew one domain better than anyone else in the room.
 
-• There is a lack of thought leadership and a strong reputational footprint to consistently generate leads and capture the attention of prospects. This was the foundation of our success (iNostix) for nearly a decade.
+A consultancy of 20–25 people will never be able to compete with industry giants on thevarietyof services it offers. Or even medium‑sized boutique firms of 100–200 people. That’s a losing battle from the start.
 
-There are many reasons why boutique consultancies struggle to compete effectively in the market when they try to do too much for too many.I want these consultancies to realise that they don’t need to. Their greatest strength isn't in the number of services they offer, but in how knowledgeable and impactful they are with just one.
+The depth of expertise that can be gained across many service areas will never be enough to be regarded as the go‑to experts.
+
+And here again,compoundingmatters:
+
+• Every additional service line fragments your learning, data, outcomes, reputation, and marketing.
+
+• Every narrow, repeated proposition deepens them.
+
+## The hidden costs of too many services
+
+The non‑billable hours and overhead will always be disproportionately high, as in the case of my client with five service offering leaders, when attempting to market multiple service lines:
+
+• Client onboarding costs (the number of hours the consultants must invest).
+
+• Marketing and business development expenses are spread too thin.
+
+• Scattered data collection makes meaningful codification and process standardisation (IP) impossible.
+
+• High variability in procedures and systems that often need to be customised for each client.
+
+Moreover, the challenges of managing and onboarding diverse client projects, communications, contractual details, training needs, and quality assurance for each service quickly become overwhelming.
+
+The ROI of marketing and business development efforts will always be inefficient. Why? Instead of focusing all its marketing efforts on a single service area for a highly specific audience, the boutique consultancy in this case study spread its efforts across multiple areas and a broader audience.
+
+Clients will always prefer to hire a consultancy with years of experience and a proven track record of delivering high‑impact results in a narrow field. Variation in the service offering is undermining thepredictability of outcomes. And clients want outcomes.
+
+There was also a lack of targeted thought leadership and a strong reputational footprint to consistently generate leads and capture prospects' attention. This was the foundation of our success at iNostix for nearly a decade: one domain, repeated again and again, until the market recognised us asthereference.
+
+There are many reasons boutique consultancies struggle to compete effectively when they try to do too much for too many.
+
+I want these consultancies to realise that they don’t need to. Their greatest strength isn’t in the number of services they offer, but in how knowledgeable, repeatable, and impactful they are with just one.
+
+## What to do instead
+
+If you recognise yourself and your boutique consulting firm in this case, here’s the practical alternative.
+
+• Pick one flagship expertise domain and one clear buyer.Define the pressing problem you can solve as nobody else can ('issue-led'), for whom exactly (and is prepared to pay to solve that pressing problem), and in which context. This is value proposition design 101, but very few boutiques actually commit to it.
+
+• Commit to a two‑year maturation horizon.Accept that you need cycles of validation, repetition, data gathering,  outcome variance reduction, delivery process improvement, and reputation/visibility building. You’re building an asset, not launching a brochure.
+
+• Channel 80–90% of your marketing and BD into that single proposition.Every case study, article, webinar, and conversation should compound around the same core promise for the same type of buyer.
+
+• Standardise delivery just enough to reduce outcome variance.Keep room for tailoring, but build repeatable methods and artefacts that drive consistent outcomes across clients.
+
+• Only consider a second (adjacent) service once the first is truly mature.For me, that means proven market fit, consistent outcomes, margins of 40–50%, and a reputation that reliably improves inbound interest.
+
+These principles are not only valid for a 25‑person firm.
+
+They are the same principles ofvalue proposition design and service focusthat apply to:
+
+• Solo‑proposition boutiques.
+
+• Multi‑practice, multi-proposition firms (each practice should go through its own proposition maturation cycle).
+
+• Large consulting organisations (where each practice or solution area still needs clear positioning, repetition, and outcome consistency).
+
+Whether you’re running one proposition as a small boutique or ten propositions at practice or vertical level (eg, an industry vertical)in a larger firm, the logic doesn’t change:clear value proposition + repetition + compounding learning = power.
 
 ## In conclusion
 
-It has been nearly three years since I was engaged to audit the consultancy in this case study and advise them on the best course of action. I am saddened to learn that this boutique consultancy is in serious trouble as I write this article.
+It has been a while since I was engaged to audit the consultancy in this case study and advise them on the best course of action. I am saddened to learn that this boutique consultancy is in serious trouble as I write this article.
 
-They have lost several service-offering leaders due to low morale. Four out of five service offerings are severely underperforming.Unfortunately, I was unable to persuade the consultancy owners to abandon their diversification plans and instead concentrate solely on developing a single service offering into a high-profit product that garners strong market recognition before contemplating adding related services.Is it too late? It might be, but not necessarily. That’s why I urge boutique consultancies to reconsider their business models and stop their endless pursuit of variety in work and clients. Specificity and focus – that’s what enables small consultancies to attain extraordinary levels of success.
+They have lost several service‑offering leaders due to low morale. Four out of five service offerings are severely underperforming.
+
+Unfortunately, I was unable to persuade the consultancy owners to abandon their diversification plans and instead concentrate solely on developing a single service offering into a high‑profit product that garners strong market recognition before contemplating adding related services.
+
+Is it too late for them? It might be, but not necessarily.
+
+It does not have to be too late for you.
+
+You don’t have to repeat their story. You can decide today to stop spreading your limited capacity across half‑baked services and instead build one flagship offer that is genuinely mature, profitable, and market‑leading.
+
+The principles here are universal:
+
+• Define a sharp value proposition (issue-led, buyer-specific, outcome-based).
+
+• Focus your efforts.
+
+• Repeat similar projects until your learning, data codification (AI can help), outcomes, and margins compound.
+
+• Then, and only then, earn the right to add (a bit of) complexity.
+
+Specificity and focus are not constraints; they are the only realistic path for consulting firms of any size, from solo boutiques to multi‑practice giants,  to attain extraordinary levels of success.
 
 Interested in receiving all my learnings to build a better consultancy?Subscribe to my newsletter.
 
