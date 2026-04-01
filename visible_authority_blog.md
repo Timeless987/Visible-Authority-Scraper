@@ -1,7 +1,361 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 114 artykułów
+**Pobrano:** 115 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# The Best Consulting Pitch I’ve Ever Seen
+
+**Autor:** Luk Smeyers
+**Data:** 24 March 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-best-consulting-pitch-i-have-ever-seen
+
+---
+
+This article was last updated on 24 March 2026.
+
+## The setting: a storm of complexity, risk, and scale
+
+A consulting firm walked into a boardroom at a global pharmaceutical organisation that was undergoing a complex merger.
+
+Two legacy organisations, two distinct systems, overlapping CRM and ERP environments, regulatory constraints, multiple countries, and dozens of teams had to be brought together into a single operational reality.
+
+This post-merger ERP integration had to be executed without disrupting ongoing operations, while ensuring stakeholder alignment across regions and functions. The stakes were incredibly high because any mistake had the potential to cost a lot of money, time to success, revenue leakage, and market credibility in an already tense situation.
+
+What made this pitch remarkable became clear very quickly. The client ultimately selected this consulting firm over much larger, global consulting firms, including a Big Four competitor with an established presence in the organisation.
+
+This winning consulting firm’s proposal came in approximately €180,000 higher than the programme budget of around €3 million for this post-merger ERP integration. Despite the higher price, the decision makers chose this consultancy with confidence, trusting its depth of expertise, its specific approach, and its proven ability to manage the immense complexity of the situation.
+
+Several large consulting firms with global reach, strong brands, and broad transformation portfolios had been invited to pitch. Each consulting firm on the shortlist highlighted its impressive service list, wide capabilities, and bold transformation promises. On paper, many of the options looked attractive, structured, and complete.
+
+Then this boutique consulting firm made its move. It did not present anything flashy and did not attempt to match the scale of the others in terms of resource capacity or breadth of offerings. It offered only one very specific proposition, focused entirely on this post-merger ERP integration.
+
+The focus was singular, deliberate, and sharply defined.
+
+For some in the room, the boutique size of the consulting firm felt risky at first. What followed, however, was a pitch that none of the other consulting firms were able to match, because it was built on depth of expertise and accumulated experience in handling the immense complexity of post-merger ERP integrations.
+
+## Why the pitch stood out: mastery through depth of expertise
+
+Unlike others, the consulting firm did not attempt to sell a broad list of services. It did not present expansive transformation narratives or discuss potential future phases beyond this post-merger ERP integration. Its consulting proposition stayed firmly anchored in what it knew in extraordinary detail:the disciplined execution of complex ERP integrations in highly regulated, politically sensitive, large-scale corporations.
+
+This narrow focus did not feel like a limitation in that context. It felt precise and intentional. Over many prior engagements, the consulting firm had refined its proposition through repeated practice: it had encountered the same types of issues, such as conflicting data structures, stakeholder resistance, compliance challenges, and hidden dependencies, again and again. Each time, learning (including mistakes - some of them even explained during the pitch, yes) was captured, codified, and embedded into the delivery process.
+
+This long cycle of repeated engagement in similar high-complexity environments yielded a depth of understanding difficult to replicate. The consulting firm was not simply talking about having completed many projects. It demonstrated the ability to recognise patterns early and anticipate where pressure and resistance would arise during post-merger ERP integrations.
+
+In that room, what the client experienced was confidence grounded in evidence, specificity of experience, and a composed grasp of what this kind of integration actually required, both from the consulting firm and from the client organisation itself, which in turn created a higher level of decision confidence that had not been present in the proposals of the competitors.
+
+Client testimonial #1: ‘Issue-led'
+
+“We saw several strong proposals from competing large consulting firms, but after a while, the pitch decks started to look remarkably similar: credentials, sector experience, capability overviews, case studies, and the usual ‘why us’ slides. They all signalled scale, capacity, capability, ambition, and bold promises, yet they largely blended into one another. The winning consulting firm stood out because it did not try to say everything about itself. It focused sharply on the specific post-merger challenges we were facing, spoke with unusual precision, and showed a depth of understanding that made the others feel far more generic by comparison.”
+
+## Codified process, informed by repeated exposure to complexity
+
+When the consulting firm presented its plan, each phase of the post-merger ERP integration was laid out in an impressively detailed roadmap. It explained what would take place in the early weeks, how stakeholders would be involved across regions, where approvals and decision points would sit, how compliance requirements would be handled, and how data migration and system access would be managed in an environment of immense complexity.
+
+This was not a conceptual framework displayed on a slide. It was a practical, experience-based execution roadmap shaped by past integrations of similar complexity. It showed where risks typically arise in this type of post-merger ERP integration and how those risks had already been addressed through specific design choices in the proposed approach.
+
+For an organisation navigating a merger of this scale, this level of detail transformed uncertainty into something that could be understood, planned for, and governed. The consulting firm turned an overwhelming, chaotic situation into a sequence of manageable, transparent steps built on deep experience.
+
+*Recommended reading:Building a Winning Consulting Value Proposition*
+
+## Predictable outcomes as a result of reduced variance
+
+Post-merger ERP integrations are widely known for their volatility. Delays, budget pressure, stakeholder fatigue, and poor adoption are common. The consulting firm approached this challenge by drawing directly on its repeated exposure to similar conditions and levels of complexity. Through this repetition, it had learned to significantly reduce outcome variance.
+
+Based on deep experience from previous post-merger ERP integration projects of comparable scale and difficulty, the consulting firm was able to speak with confidence about realistic adoption levels, anticipated system stability, and the continuity of operations during the transition. It explained where difficulties usually emerge and the mechanisms embedded in its process for detecting and mitigating those challenges early. Really impressive.
+
+This shifted the proposal's context. The conversation became anchored in probability rather than hope. For decision makers who had to protect both the organisation and its revenue streams, this level of predictability carried far more weight than ambitious transformation language.
+
+The immense complexity of this post-merger ERP integration became more manageable because the consulting firm had already reduced as many unknowns and risks as possible through repeated exposure, disciplined refinement, and codification.
+
+## Specificity in the value proposition created confidence
+
+A consulting firm that positions itself broadly can easily create ambiguity, particularly in a high-risk environment. A wide promise often demands faith in areas that have not yet been proven in practice. In this situation, the consulting firm took a very different route by defining its consulting proposition with strong specificity.
+
+It explained that this post-merger ERP integration was precisely the type of challenge it had committed to mastering many years ago. It described how many similar scenarios it had already navigated, and how its approach had been shaped through years of disciplined, focused practice.
+
+That level of specificity simplified the decision process. Doubt caused by an abundance of options was removed. Ambiguity and risk were reduced. The consulting firm did not attempt to impress through scale or scope. It built trust through precision and proven outcomes.
+
+## Price difference became a signal of lower risk
+
+When the final proposals were compared, the consulting firm was not the cheapest option. Its bid was approximately €180,000 higher than that of one of the large, well-known consulting firms. On a total programme value of around €3 million for this post-merger ERP integration, this difference could have been an obvious point of hesitation.
+
+By that stage, the discussion had already shifted far beyond initial pricing. Attention was on continuity of operations, protection of revenue, employee confidence, and stability during and after the merger. In that context, the higher price came to represent a greater likelihood of a controlled and predictable outcome.
+
+For decision-makers, the additional investment was acceptable because it was associated with reduced risk in a situation marked by immense complexity and far-reaching consequences.
+
+Client testimonial #2: ‘Internal risk reduction'
+
+“We were evaluating two very different kinds of project risk. The first was whether the consulting firm could deliver. The second question was whether we, as the client, could execute the change given competing priorities, stakeholder complexity, business-as-usual pressures, and the demands of a post-merger integration. Several competing consulting firms explained their plans well, but none addressed execution risk from our perspective, which made a substantial difference in how we evaluated the proposals. What gave us confidence in the winning proposal was the way they made our execution feel manageable: a detailed roadmap, role clarity in the early weeks, explicit decision points, stakeholder involvement across regions, and a realistic view of compliance, data migration, system access, adoption, and continuity. They reduced our internal uncertainty about whether our organisation could make the change work, which none of the competing consulting firms succeeded in.”
+
+## What this means for consulting firms that want to succeed
+
+Was this a case of David beating Goliath or a boutique firm outpitching a global giant? Maybe. But most of all, it was a masterclass in what truly wins consulting deals.
+
+Many consulting firms continue to expand their offerings in the hope of increasing relevance and capturing more market share. Over time, this often increases internal complexity, spreads attention thin, and weakens the ability to deliver consistently in highly demanding environments.
+
+The consulting firm in this story followed a different path. It deliberately narrowed its focus and committed to mastering a specific type of challenge: post-merger ERP integration. Through repetition, codification, and persistent refinement, it developed a consulting proposition that reduced variance, strengthened predictability, and created deep trust among stakeholders.
+
+This approach did not reduce opportunity. It created a different kind of opportunity. One grounded in reputation, proven reliability, and the capacity to operate with confidence in situations defined by extraordinary complexity.
+
+A consulting firm that chooses such a path builds strength through depth, not breadth.
+
+The Principles of Consulting Proposition Design
+
+• Business Issue-Led: Focuses on a tangible, critical business problem with real consequences.
+
+• Business Outcome-Focused: Guarantees a specific outcome rather than a vague promise.
+
+• Buyer-Specific: Crafted for a clearly defined client, buyer, and business context (eg, post-merger context).
+
+• Process-Backed: Demonstrates a proven path to success, not just expertise on paper.
+
+• Education-Rooted: Grounded in client education and a strong point of view about the business problem.
+
+Business Issue-Led: Focuses on a tangible, critical business problem with real consequences.
+
+Business Outcome-Focused: Guarantees a specific outcome rather than a vague promise.
+
+Buyer-Specific: Crafted for a clearly defined client, buyer, and business context (eg, post-merger context).
+
+Process-Backed: Demonstrates a proven path to success, not just expertise on paper.
+
+Education-Rooted: Grounded in client education and a strong point of view about the business problem.
+
+## Conclusion: depth, specificity, and compounding expertise shape the strongest propositions
+
+The urge to promise more and to widen the scope is always present in consulting, we are experiencing it every day.
+
+This often results in broader and vaguer messaging, extended service catalogues, and ambitious narratives about what could be possible in the future. This pitch, however, demonstrated a different, more powerful approach.
+
+The consulting firm built its proposition on what it knew best: post-merger ERP integration. It relied on years of repeated work, accumulated learning, and codified practice. It converted immense complexity into a structured, comprehensible, and lowest-possible-risk path forward.
+
+In addition to its deep expertise, the consulting firm was also perceived as highly transparent, credible, and authentic, with a leadership team whose reputation reinforced trust in its ability to deliver.
+
+What made the difference was clear:
+
+• Depth over breadth:the consulting firm focused on a single challenge rather than offering a broad service offering.
+
+• Specificity over ambiguity:it defined its proposition with precision, making the decision easier for the client.
+
+• Codified experience over abstract promises:it showed a practical, experience-based, predictable path forward rather than relying on broad transformation language and promises.
+
+• Risk reduction:it reduced uncertainty by demonstrating how risk would be understood, anticipated, and managed.
+
+• Authenticity over polish:in addition to deep expertise, the firm was perceived as transparent, highly credible, and authentic, with leadership whose reputation reinforced confidence.
+
+Depth over breadth:the consulting firm focused on a single challenge rather than offering a broad service offering.
+
+Specificity over ambiguity:it defined its proposition with precision, making the decision easier for the client.
+
+Codified experience over abstract promises:it showed a practical, experience-based, predictable path forward rather than relying on broad transformation language and promises.
+
+Risk reduction:it reduced uncertainty by demonstrating how risk would be understood, anticipated, and managed.
+
+Authenticity over polish:in addition to deep expertise, the firm was perceived as transparent, highly credible, and authentic, with leadership whose reputation reinforced confidence.
+
+In high-stakes environments, decision makers place value on stability, predictability, and the confidence that complexity has been understood and accounted for. This consulting firm met those expectations through specificity, depth of knowledge, and disciplined execution.
+
+The fact that the organisation selected this consultancy over a Big Four counterpart, despite a price difference of approximately €180,000, was not an accident. It was a direct result of how risk, certainty, and trust had been framed during the pitch.
+
+For any consulting firm reflecting on its future direction, one question stands out. Perhaps the most significant advantage does not come from trying to do more, but from choosing one critical business problem, committing to it thoroughly, and mastering it to a level where outcomes become predictable even amid immense complexity.
+
+That is what made this the best consulting pitch I have ever seen.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+================================================================================
+
+# The Client-Centricity Lie in Consulting
+
+**Autor:** Luk Smeyers & Florian Heinrichs
+**Data:** 10 March 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-client-centricity-lie-in-consulting
+
+---
+
+“We are client-centric” – oh, if we had a penny for every time we’ve heard or read this line from a consulting firm.
+
+What a meaningless statement! Is there a single consultancy that’s not “client-centric”? Isn’t that the entire purpose of the consulting industry – to centre knowledge and resources around a client issue?
+
+When digging deeper into what each consulting leader meant by that, we usually discover that more often than not, this statement is a symptom of a set of foundational cracks, and “client-centricity” is the outcome, not an actual business framework.
+
+So let’s dive into what client-centricity is, what approach to it makes it dangerous, and what, in our opinion, makes for true client-centricity.
+
+## Client-Centricity ≠ Putting Clients in Control
+
+There’s a famous mantra from McKinsey’s past: “Client first, firm second, you third."
+
+And it sounds noble, doesn't it? It sounds right. We see what they were going for there.
+
+But here’s the thing. In practice, this version of client‑centricity can very quickly turn into:
+
+• Putting clients in control: “Clients first” can quickly turn into “clients decide”. So now, instead of guiding the agenda, the consultancy (which was supposedly hired for its superior knowledge of the subject) just reacts to whatever the client wants to prioritise in the moment.
+
+• Becoming an order‑taker: The consulting firm loses its advisory status, and the relationship becomes transactional. And these transactions are billed on an hourly basis rather than based on the value they deliver or the importance of the issue they address.
+
+• Delivering everything bespoke: Since clients come first and every request is accommodated, there is little to no room to establish repeatable processes, approaches, or methodologies. Knowledge transfer is nonexistent. Every project is a customised web of people, tech stacks, stakeholders, and approaches.
+
+• Chasing what the client says they want instead of what they actually need: Consulting firms are supposed to be the experts on a subject. They should be able to see past superficial problems – which are really symptoms of the underlying issues – and intervene at the root cause. A client may want a new automation system set up, for example. But what they actually struggle with is process clarity and accountability. It’s the consulting firm’s job to spot that difference.
+
+Putting clients in control: “Clients first” can quickly turn into “clients decide”. So now, instead of guiding the agenda, the consultancy (which was supposedly hired for its superior knowledge of the subject) just reacts to whatever the client wants to prioritise in the moment.
+
+Becoming an order‑taker: The consulting firm loses its advisory status, and the relationship becomes transactional. And these transactions are billed on an hourly basis rather than based on the value they deliver or the importance of the issue they address.
+
+Delivering everything bespoke: Since clients come first and every request is accommodated, there is little to no room to establish repeatable processes, approaches, or methodologies. Knowledge transfer is nonexistent. Every project is a customised web of people, tech stacks, stakeholders, and approaches.
+
+Chasing what the client says they want instead of what they actually need: Consulting firms are supposed to be the experts on a subject. They should be able to see past superficial problems – which are really symptoms of the underlying issues – and intervene at the root cause. A client may want a new automation system set up, for example. But what they actually struggle with is process clarity and accountability. It’s the consulting firm’s job to spot that difference.
+
+## Client-Centricity ≠ Generic Statements
+
+“We are passionate about helping clients deliver meaningful change.” This line shows up on a bajillion consulting firm websites and LinkedIn pages.
+
+Our feedback? Nobody cares! No CEO starts a Monday leadership meeting with: “We need meaningful change. Let’s hire a passionate consulting firm.”
+
+That is not how buyers think. Not. At. All. Never.
+
+They have a problem that is hurting the business performance, slowing decisions, increasing risk, delaying growth, or creating internal friction.
+
+• They want that problem solved.
+
+• They want confidence that the consulting firm has solved it before.
+
+• They want a credible path to success.
+
+• They want the lowest possible decision risk (here’s where ‘change management’ can play a role).
+
+• They want proof that similar work was done repeatedly and reliably.
+
+They want that problem solved.
+
+They want confidence that the consulting firm has solved it before.
+
+They want a credible path to success.
+
+They want the lowest possible decision risk (here’s where ‘change management’ can play a role).
+
+They want proof that similar work was done repeatedly and reliably.
+
+Generic statements like this are either lazy or show a complete lack of understanding of clients' actual problems. In either case, it’s not a good look for consulting firms.
+
+Yet the market is flooded with grandiose promises, “visionary” statements, and vague descriptions.
+
+While thinking they are using client-centric language, these consulting firms are, in fact, inward-focused.
+
+• They are the ones that list a buffet of services, forcing prospects to figure out how to connect a service to their problem.
+
+• Their messaging is centered around how they work instead of what problems they help fix.
+
+• Their thought leadership is usually focused on their promises rather than on the outcomes they’ve helped clients achieve.
+
+• In addition to the generic statements, they are big on using highly technical terms, genuinely believing it makes them sound “expert” and “credible”.
+
+• They avoid specificity in their messaging out of fear of excluding prospects. They want to keep all their options open.
+
+• They focus on “passion” and “meaningful change” because they can’t offer proof of consistently solving a high-value problem for a specific type of client.
+
+They are the ones that list a buffet of services, forcing prospects to figure out how to connect a service to their problem.
+
+Their messaging is centered around how they work instead of what problems they help fix.
+
+Their thought leadership is usually focused on their promises rather than on the outcomes they’ve helped clients achieve.
+
+In addition to the generic statements, they are big on using highly technical terms, genuinely believing it makes them sound “expert” and “credible”.
+
+They avoid specificity in their messaging out of fear of excluding prospects. They want to keep all their options open.
+
+They focus on “passion” and “meaningful change” because they can’t offer proof of consistently solving a high-value problem for a specific type of client.
+
+*Recommended reading:The Toxic Effect of Improvisation on a Consulting Firm’s Performance*
+
+## Client-Centricity = Clients’ Issue-Centricity
+
+We believe that true client-centricity is the ability to diagnose the root cause behind visible symptoms and expertly prescribe a disciplined path forward that leads to a specific business outcome.
+
+What clients actually want is not “meaningful change” or a “passionate team”. They want to be able to see themselves in the consulting firm’s messaging. They want to be confident that this consultancy understands what they struggle with, that it has repeatedly and reliably addressed this issue, and that it has outcome risks under control.
+
+“Passionate team” and “meaningful change” don’t answer these critical buyer questions.
+
+Neither does accommodating every client request or letting clients take control of the journey. This type of client-centricity provides marginal value compared to what deep expertise grounded in repeatable processes and a proven track record can deliver.
+
+True client-centricity is issue-centricity. It’s about:
+
+• Being clear about the problem the consulting firm solves: Forget “transformation” and “meaningful change”. High-performing consulting firms clearly define a business issue that they recurrently help address – the type of issue that shows up in board meetings and has actual business consequences.
+
+• Showing where it has done it before: The ability to demonstrate pattern recognition, list specific examples, and clearly state how certain methodologies achieve specific results – that’s what makes buyers feel like they can trust a consulting firm.
+
+• Being clear about accountability and success factors: High-performing consulting firms know what they can achieve for whom. That means they also know the prerequisites for success. They do not hesitate to explain clearly what is expected of the client to maximise the value of the engagement.
+
+• Explaining what can be achieved: No vague statements, no generic promises. It’s about articulating realistic outcomes.
+
+• Making buyers feel confident in their decision-making: Clients should feel in control during the decision-making phase. They should feel confident about their decision to move forward with a certain consulting firm. The only way to do it? For the consulting firm to provide clarity on the scope, process, results, and expectations. Acting as a helpful guide as opposed to a pushy, will-say-anything-to-close-the-deal salesman.
+
+Being clear about the problem the consulting firm solves: Forget “transformation” and “meaningful change”. High-performing consulting firms clearly define a business issue that they recurrently help address – the type of issue that shows up in board meetings and has actual business consequences.
+
+Showing where it has done it before: The ability to demonstrate pattern recognition, list specific examples, and clearly state how certain methodologies achieve specific results – that’s what makes buyers feel like they can trust a consulting firm.
+
+Being clear about accountability and success factors: High-performing consulting firms know what they can achieve for whom. That means they also know the prerequisites for success. They do not hesitate to explain clearly what is expected of the client to maximise the value of the engagement.
+
+Explaining what can be achieved: No vague statements, no generic promises. It’s about articulating realistic outcomes.
+
+Making buyers feel confident in their decision-making: Clients should feel in control during the decision-making phase. They should feel confident about their decision to move forward with a certain consulting firm. The only way to do it? For the consulting firm to provide clarity on the scope, process, results, and expectations. Acting as a helpful guide as opposed to a pushy, will-say-anything-to-close-the-deal salesman.
+
+In short, client-centricity is about centering a consulting firm around a high-impact client problem and the firm’s ability to resolve it.
+
+## Issue-Centricity Is Not Possible Without a Strong Consulting Proposition
+
+Our advice to rethink client-centricity in terms of issue-centricity only works if the consulting firm is willing to make that choice. Most consultancies say they want more focus, then refuse the trade-offs that make it possible.
+
+And none of this is possible without a laser-sharp, issue-driven consulting proposition.
+
+Phrases like these don’t cut it:
+
+• We help unlock trapped value.
+
+• We improve performance through digital.
+
+• We fix your broken tech stack.
+
+We help unlock trapped value.
+
+We improve performance through digital.
+
+We fix your broken tech stack.
+
+These are not consulting propositions. They are not even real issues. At best, they mirror issues or objectives clients already know and have while merely gesturing vaguely toward generic prescriptions. At worst, they sound like some AI-written mash-up of what a firm's competitors say on their websites.
+
+In fact, a rule that we apply to every client engagement is: if your proposition names an issue or outcome that any other firm could have named, you haven’t made it yours yet.
+
+A strong, issue-led proposition doesn’t just name a problem. It reframes it and then gets really specific about everything, from pains to root causes to solutions.
+
+In other words, it says:
+
+• Here’s what we see
+
+• Here’s why it matters
+
+• Here’s how to fix it - our way
+
+Here’s what we see
+
+Here’s why it matters
+
+Here’s how to fix it - our way
+
+## Conclusion
+
+Consultancies that do this turn observation into ownership, pattern recognition into prescription, and the issue itself into something so clear and specific that clients can't help but nod and think, "Oh, yes... this is what we're up against here."
+
+And when a firm frames a client’s challenge better than they can themselves, it wins before it delivers.
+
+That’s how a consulting firm stops sounding like everyone else and becomes client-centric – in a meaningful way, not in a chest-pounding “we care more than anyone else” soundbite way.
+
+*Recommended reading:The Ultimate Guide to Consulting Value Proposition Design*
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Luk Smeyers & Florian Heinrichs
 
 ================================================================================
 
@@ -1840,116 +2194,6 @@ Start building yours. Your future depends on it.
 Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 Luk Smeyers & Florian Heinrichs
-
-================================================================================
-
-# The Best Consulting Pitch I’ve Ever Seen
-
-**Autor:** Luk Smeyers
-**Data:** 28 November 2025
-**Link:** https://www.thevisibleauthority.com/blog/the-best-consulting-pitch-i-have-ever-seen
-
----
-
-This article was last updated on 28 November 2025.
-
-## The setting: a storm of complexity, risk, and scale
-
-A consulting firm walked into a boardroom at a global pharmaceutical organisation that was undergoing a complex merger.
-
-Two legacy organisations, two distinct systems, overlapping CRM and ERP environments, regulatory constraints, multiple countries, and dozens of teams had to be brought together into a single operational reality.
-
-This post-merger ERP integration had to be executed without disrupting ongoing operations, while ensuring stakeholder alignment across regions and functions. The stakes were incredibly high because any mistake had the potential to cost a lot of money, time to success, revenue leakage, and market credibility in an already tense situation.
-
-What made this pitch remarkable became clear very quickly. The client ultimately selected this consulting firm over much larger, global consulting firms, including a Big Four competitor with an established presence in the organisation.
-
-This winning consulting firm’s proposal came in approximately €180,000 higher than the programme budget of around €3 million for this post-merger ERP integration. Despite the higher price, the decision makers chose this consultancy with confidence, trusting its depth of expertise, its specific approach, and its proven ability to manage the immense complexity of the situation.
-
-Several large consulting firms with global reach, strong brands, and broad transformation portfolios had been invited to pitch. Each consulting firm on the shortlist highlighted its impressive service list, wide capabilities, and bold transformation promises. On paper, many of the options looked attractive, structured, and complete.
-
-Then this boutique consulting firm made its move. It did not present anything flashy and did not attempt to match the scale of the others in terms of resource capacity or breadth of offerings. It offered only one very specific proposition, focused entirely on this post-merger ERP integration.
-
-The focus was singular, deliberate, and sharply defined.
-
-For some in the room, the boutique size of the consulting firm felt risky at first. What followed, however, was a pitch that none of the other consulting firms were able to match, because it was built on depth of expertise and accumulated experience in handling the immense complexity of post-merger ERP integrations.
-
-## Why the pitch stood out: mastery through depth of expertise
-
-Unlike others, the consulting firm did not attempt to sell a broad list of services. It did not present expansive transformation narratives or discuss potential future phases beyond this post-merger ERP integration. It stayed firmly anchored in what it knew in extraordinary detail: the disciplined execution of complex ERP integrations in highly regulated, politically sensitive environments.
-
-This narrow focus did not feel like a limitation in that context. It felt precise and intentional. Over many prior engagements, the consulting firm had refined its approach through repeated practice. It had encountered the same types of issues, such as conflicting data structures, stakeholder resistance, compliance challenges, and hidden dependencies, again and again. Each time, learning (including mistakes - some of them explained during the pitch, yes) was captured, codified, and embedded into the delivery process.
-
-This long cycle of repeated engagement in similar high-complexity environments yielded a depth of understanding difficult to replicate. The consulting firm was not simply talking about having completed many projects. It demonstrated the ability to recognise patterns early and anticipate where pressure and resistance would arise during post-merger ERP integrations.
-
-In that room, what the client experienced was confidence grounded in evidence, specificity of experience, and a composed grasp of what this kind of integration actually required, both from the consulting firm and from the client organisation itself, which in turn created a higher level of decision confidence that had not been present in the proposals of the competitors.
-
-## Codified process, informed by repeated exposure to complexity
-
-When the consulting firm presented its plan, each phase of the post-merger ERP integration was laid out in an impressively detailed roadmap. It explained what would take place in the early weeks, how stakeholders would be involved across regions, where approvals and decision points would sit, how compliance requirements would be handled, and how data migration and system access would be managed in an environment of immense complexity.
-
-This was not a conceptual framework displayed on a slide. It was a practical, experience-based execution roadmap shaped by past integrations of similar complexity. It showed where risks typically arise in this type of post-merger ERP integration and how those risks had already been addressed through specific design choices in the proposed approach.
-
-For an organisation navigating a merger of this scale, this level of detail transformed uncertainty into something that could be understood, planned for, and governed. The consulting firm turned an overwhelming, chaotic situation into a sequence of manageable, transparent steps built on deep experience.
-
-*Recommended reading:Building a Winning Consulting Value Proposition*
-
-## Predictable outcomes as a result of reduced variance
-
-Post-merger ERP integrations are widely known for their volatility. Delays, budget pressure, stakeholder fatigue, and poor adoption are common. The consulting firm approached this challenge by drawing directly on its repeated exposure to similar conditions and levels of complexity. Through this repetition, it had learned to reduce outcome variance significantly.
-
-Based on deep experience from previous post-merger ERP integration projects of comparable scale and difficulty, the consulting firm was able to speak with confidence about realistic adoption levels, anticipated system stability, and the continuity of operations during the transition. It explained where difficulties usually emerge and the mechanisms embedded in its process for detecting and mitigating those challenges early. Really impressive.
-
-This shifted the proposal's context. The conversation became anchored in probability rather than hope. For decision makers who had to protect both the organisation and its revenue streams, this level of predictability carried far more weight than ambitious transformation language.
-
-The immense complexity of this post-merger ERP integration became more manageable because the consulting firm had already reduced as many unknowns and risks as possible through repeated exposure, disciplined refinement, and codification.
-
-## Specificity in the value proposition created confidence
-
-A consulting firm that positions itself broadly can easily create ambiguity, particularly in a high-risk environment. A wide promise often demands faith in areas that have not yet been proven in practice. In this situation, the consulting firm took a very different route by defining its value proposition with strong specificity.
-
-It explained that this post-merger ERP integration was precisely the type of challenge it had committed, many years ago, to mastering. It described how many similar scenarios it had already navigated, and how its approach had been shaped through years of disciplined, focused practice. What it offered was not variety. What it provided was dependable expertise in one highly complex and critical area.
-
-That level of specificity simplified the decision process. Doubt caused by an abundance of options was removed. Ambiguity and risk were reduced. The consulting firm did not attempt to impress through scale or scope. It built trust through precision and proven focus.
-
-## Price difference became a signal of lower risk
-
-When the final proposals were compared, the consulting firm was not the cheapest option. Its bid was approximately €180,000 higher than that of one of the large, well-known consulting firms. On a total programme value of around €3 million for this post-merger ERP integration, this difference could have been an obvious point of hesitation.
-
-By that stage, the discussion had already shifted far beyond initial pricing. Attention was on continuity of operations, protection of revenue, employee confidence, and stability during and after the merger. In that context, the higher price came to represent a greater likelihood of a controlled and predictable outcome.
-
-For decision-makers, the additional investment was acceptable because it was associated with reduced risk in a situation marked by immense complexity and far-reaching consequences.
-
-## What this means for consulting firms that want to succeed
-
-Was this a case of David beating Goliath or a boutique firm outpitching a global giant? Maybe. But most of all, it was a masterclass in what truly wins consulting deals.
-
-Many consulting firms continue to expand their offerings in the hope of increasing relevance and capturing more market share. Over time, this often increases internal complexity, spreads attention thin, and weakens the ability to deliver consistently in highly demanding environments.
-
-The consulting firm in this story followed a different path. It deliberately narrowed its focus and committed to mastering a specific type of challenge, which in this case was post-merger ERP integration. Through repetition, codification, and persistent refinement, it developed a level of expertise that reduced variance, strengthened predictability, and created deep trust among stakeholders.
-
-This approach did not reduce opportunity. It created a different kind of opportunity. One grounded in reputation, proven reliability, and the capacity to operate with confidence in situations defined by extraordinary complexity.
-
-A consulting firm that chooses such a path builds strength through depth rather than through (service) expansion.
-
-## Conclusion: depth, specificity, and compounding expertise shape the strongest propositions
-
-The urge to promise more and to widen the scope is always present in consulting, we are experiencing is every day.
-
-This often results in broader and vaguer messaging, extended service catalogues, and ambitious narratives about what could be possible in the future. This pitch demonstrated a different, more powerful approach.
-
-The consulting firm grounded its story in what it knew deeply. It focused solely on this post-merger ERP integration. It relied on years of repeated work, accumulated learning, and codified practice. It converted immense complexity into a structured, comprehensible,  and lowest-possible-risk path forward.
-
-In addition to its deep expertise, the consulting firm was also perceived as highly transparent, credible, and authentic, with a leadership team whose reputation reinforced trust in its ability to deliver.
-
-In high-stakes environments, decision makers place value on stability, predictability, and the confidence that complexity has been understood and accounted for. This consulting firm met those expectations through specificity, depth of knowledge, and disciplined execution.
-
-The fact that the organisation selected this consultancy over a Big Four counterpart, despite a price difference of approximately €180,000, was not an accident. It was a direct result of how risk, certainty, and trust had been framed during the pitch.
-
-For any consulting firm reflecting on its future direction, one question stands out. Perhaps the most significant advantage does not come from trying to do more, but from choosing one critical problem, committing to it thoroughly, and mastering it to a level where outcomes become predictable even amid immense complexity.
-
-That is what made this the best consulting pitch I have ever seen.
-
-Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
