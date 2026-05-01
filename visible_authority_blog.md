@@ -1,7 +1,277 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 115 artykułów
+**Pobrano:** 117 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# How to Test a Consulting Value Proposition With Three Simple Questions
+
+**Autor:** Florian Heinrichs
+**Data:** 21 April 2026
+**Link:** https://www.thevisibleauthority.com/blog/how-to-test-a-consulting-value-proposition-with-three-simple-questions
+
+---
+
+Many consulting firms think they already have a clear proposition.
+
+However, in our work with consulting firms, we’ve discovered that what many firms call a proposition is often just a well-worded description of their services.
+
+Being clear about the list of offered services is not the same as being clear about the value the consulting firm can deliver, and that’s often where things start to fall apart.
+
+## Description vs Proposition – What’s the Difference?
+
+We see it often: consulting firms leading conversations with prospects by discussing the services it offers and technologies it utilizes. This is almost a gut-level instinct – describing technical expertise and capabilities as a way to make the strongest possible first impression.
+
+Unfortunately for these consultancies, this attempt to impress backfires. Prospects are left to figure out how different services could potentially address their pain points. And most of the time, they just don’t. They move on.
+
+A description is, by default, inward-facing. It explains what a consultancy does.
+
+A value proposition, on the other hand, is outward-facing. It explains how a specific client base benefits from working with the consultancy. In other words, it showcases why this consulting firm gets hired.
+
+### Why This Differentiation Matters
+
+Initiating client conversations with a description opens up consulting firms to a wide range of challenges as they try to push through to the closing stage:
+
+• Since it is not clear what problem they solve for their clients, the ability to charge premium fees is heavily undermined.
+
+• There is weak pre-qualification of buyers. These consulting firms tend to cast a wide net in the hopes of maximizing their chances.
+
+• Sales conversations require constant follow-ups, additional slide decks, long internal discussions on the client side and significant attention from senior experts on the consultancy’s side.
+
+Since it is not clear what problem they solve for their clients, the ability to charge premium fees is heavily undermined.
+
+There is weak pre-qualification of buyers. These consulting firms tend to cast a wide net in the hopes of maximizing their chances.
+
+Sales conversations require constant follow-ups, additional slide decks, long internal discussions on the client side and significant attention from senior experts on the consultancy’s side.
+
+Conversations that are guided by strong value propositions avoid these barriers:
+
+• It is instantly clear who the consultancy can help – and, equally important, who it is not suited for.
+
+• There is clarity about the high-impact problem the consulting firm addresses. Instead of getting distracted by surface-level results or generic promises, the consultancy uses its expertise to go straight to the heart of the issue – where a real difference can be made.
+
+• There is little need to justify prices. If a client is sold on the value, the exact processes, manpower allocation, technologies, and methodologies become secondary to the conversation of what the roadmap and accountability should look like.
+
+It is instantly clear who the consultancy can help – and, equally important, who it is not suited for.
+
+There is clarity about the high-impact problem the consulting firm addresses. Instead of getting distracted by surface-level results or generic promises, the consultancy uses its expertise to go straight to the heart of the issue – where a real difference can be made.
+
+There is little need to justify prices. If a client is sold on the value, the exact processes, manpower allocation, technologies, and methodologies become secondary to the conversation of what the roadmap and accountability should look like.
+
+*Recommended reading:The Impact of a Clear Consulting Proposition on Service Design*
+
+## The Five-Minute Test for a Consulting Value Proposition
+
+Here is an exercise we do often in our work with consultancies – it’s straightforward, quick, and has triggered some interesting discussions.
+
+We grab two to three senior people and ask three questions:
+
+• Who is your consultancy not for?
+
+• Why would someone pick your consultancy over a cheaper generalist?
+
+• In one line, can you tell us what your consultancy does, for whom, and why it matters?
+
+Who is your consultancy not for?
+
+Why would someone pick your consultancy over a cheaper generalist?
+
+In one line, can you tell us what your consultancy does, for whom, and why it matters?
+
+Let’s review each question.
+
+Q1:Who is your consultancy not for?
+
+If a senior consultant can't name a client type the business would turn away, the consultancy is not positioned. It’s just available.
+
+Exclusion sharpens positioning. It signals a focus, specialization.
+
+Q2:Why would someone pick your consultancy over a cheaper generalist?
+
+With this question, we are not looking for the polished answer. Not "we have the best people" or "we genuinely care" – everyone says that.
+
+The real answer lives in a specific focus, viewpoint, method, or result. If senior members of a consultancy can't name it in two sentences, something is usually off.
+
+Q3:In one line, can you tell us what your consultancy does, for whom, and why it matters?
+
+We are not interested in the tagline. We want a straightforward answer: what the consultancy does, for whom, and why it matters.
+
+### What The Test Reveals
+
+This simple 5-minute exercise can reveal quite a bit about the internal problems of a consulting firm.
+
+• Strength of the proposition: whether one actually exists or it’s just a well-rehearsed service description.
+
+• Internal alignment: whether the team is pulling together in the same direction or framing its value differently to a wide range of prospects.
+
+• Sales reality: whether the team engages in value proposition-driven discussions or defaults to competing on pricing and persuasion.
+
+• Commoditization of services: whether the consultancy competes in a crowded middle or stands out for its clarity.
+
+Strength of the proposition: whether one actually exists or it’s just a well-rehearsed service description.
+
+Internal alignment: whether the team is pulling together in the same direction or framing its value differently to a wide range of prospects.
+
+Sales reality: whether the team engages in value proposition-driven discussions or defaults to competing on pricing and persuasion.
+
+Commoditization of services: whether the consultancy competes in a crowded middle or stands out for its clarity.
+
+If the three people in the room give three different answers, the consulting firm doesn’t have a proposition. It has a committee.
+
+And the friction that the consultancy feels while running the exercise? Is exactly where the work is (and, likely, where better answers are hiding).
+
+## In Conclusion: Turning Inconsistencies Into a Starting Point
+
+I urge consulting firms to run this exercise. And to pay attention to both what senior consultants say as well as how they say it – the hesitation, the variation, the need to clarify and qualify, the fallback to generic language. Are there strong variations in answers or slight discrepancies? Do some struggle to explain in a simple language and feel the need to resort to technical jargon? Is the language inward- or outward-facing?
+
+This is where the insights lie. This exercise helps reveal not only whether a consultancy does indeed have a proposition but, if it doesn’t, where the frictions lie and, as such, where work must begin.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
+
+================================================================================
+
+# Why Sales-Led Consulting Falls Short
+
+**Autor:** Luk Smeyers
+**Data:** 07 April 2026
+**Link:** https://www.thevisibleauthority.com/blog/why-sales-led-consulting-falls-short
+
+---
+
+We keep seeing the same pattern in consulting firms that invest extreme effort into winning the client:
+
+• Relentless pitching,
+
+• Heavy proposal tailoring,
+
+• Constant persuasion through follow-ups,
+
+• Frequent reframing of the story to fit each opportunity,
+
+• Overcustomising services before the work even begins.
+
+Relentless pitching,
+
+Heavy proposal tailoring,
+
+Constant persuasion through follow-ups,
+
+Frequent reframing of the story to fit each opportunity,
+
+Overcustomising services before the work even begins.
+
+Yet, despite all these efforts, they still face pressure on win rate and pricing power, along with too many objections in the sales process.
+
+It makes decision-making harder and, as a result, extends buying cycles.
+
+So where is all that effort actually going?
+
+## The Misdiagnosis of the Problem
+
+In our experience, the low win rates and weak pricing power are rarely a sales effort problem. The consulting firm is usually working very hard – everyone from individual consultants to support staff.
+
+In fact, many of the firms we’ve interacted with would go above and beyond to strengthen their sales efforts – fancy tech stacks, regular sales training, monthly and quarterly meetings to track and set up targets, and so on. But nothing seemed to move the needle. Not in a significant way anyway.
+
+So what is the root of the problem?
+
+Well, the issue sits earlier, in where the effort is being invested and what the market receives before the first serious buying conversation even starts.
+
+What we have observed in many consulting firms is that weak proposition work pushes commercial effort downstream:
+
+• Having to start all sales conversations from scratch, explaining the problem and capabilities
+
+• Facing the same set of objections, trying to come up with new creative ways to overcome them
+
+• Spending senior time on persuasion as opposed to early-stage qualification
+
+• Developing detailed, tailored proposals to prove value
+
+• Competing against dozens of other consulting firms because differentiation is not clear
+
+Having to start all sales conversations from scratch, explaining the problem and capabilities
+
+Facing the same set of objections, trying to come up with new creative ways to overcome them
+
+Spending senior time on persuasion as opposed to early-stage qualification
+
+Developing detailed, tailored proposals to prove value
+
+Competing against dozens of other consulting firms because differentiation is not clear
+
+The consultancy then compensates with more pitching, more reframing, more customisation, and more persuasion, but it usually creates a treadmill instead of momentum.
+
+Why Sales-Led Consulting Pushes Effort Into the Wrong Places
+
+## What a Sales-Led Strategy in Consulting Looks Like
+
+Because the proposition is weak – be it due to its lack of clarity or business appeal – the pre-qualification process is also weak. Since there are no strict proposition-defined parameters, consulting firms cast a wide net. They constantly adjust their messaging to appeal to a wide/undefined audience. They struggle to zero in on any particular offering because of the fear of missing out on opportunities.
+
+This makes the top of the funnel sluggish, which then pushes all the effort to the bottom of the funnel:
+
+• Broad and generic positioning. Buyers struggle to recognise fit quickly. They don’t see themselves clearly in the consultancy’s positioning, which forces them to connect the dots themselves. This creates buyer hesitation early on. Consequently, the sales process has to do the work the proposition should have done – explaining who the offerings are for, establishing relevance, and so on. The work of narrowing and clarifying ends up being done in the bottom half of the funnel.
+
+• Relentless persuasion. First meetings turn into persuasion pitches rather than fit conversations. Since the proposition hasn’t already built confidence, this burden shifts to the sales interactions. Instead of exploring the way forward, consultants are forced in the position of having to convince prospects. This also changes the dynamic of conversations. Instead of trying to understand prospects’ specific context, consultants spend time talking up the offerings and capabilities.
+
+• Frequent reframing. The story shifts to match the opportunity, creating more objections and slower decision-making. Since the proposition is not clearly defined, conversations with prospects become inconsistent. This creates confusion and damages trust. It also makes it difficult for consulting firms to build any sort of momentum since every opportunity starts from scratch.
+
+• Heavy proposal tailoring. Each opportunity pulls the consultancy into custom work before the project even starts. Proposals are used to introduce clarity and argue value – at last. This typically requires significant involvement of senior consultants.
+
+Broad and generic positioning. Buyers struggle to recognise fit quickly. They don’t see themselves clearly in the consultancy’s positioning, which forces them to connect the dots themselves. This creates buyer hesitation early on. Consequently, the sales process has to do the work the proposition should have done – explaining who the offerings are for, establishing relevance, and so on. The work of narrowing and clarifying ends up being done in the bottom half of the funnel.
+
+Relentless persuasion. First meetings turn into persuasion pitches rather than fit conversations. Since the proposition hasn’t already built confidence, this burden shifts to the sales interactions. Instead of exploring the way forward, consultants are forced in the position of having to convince prospects. This also changes the dynamic of conversations. Instead of trying to understand prospects’ specific context, consultants spend time talking up the offerings and capabilities.
+
+Frequent reframing. The story shifts to match the opportunity, creating more objections and slower decision-making. Since the proposition is not clearly defined, conversations with prospects become inconsistent. This creates confusion and damages trust. It also makes it difficult for consulting firms to build any sort of momentum since every opportunity starts from scratch.
+
+Heavy proposal tailoring. Each opportunity pulls the consultancy into custom work before the project even starts. Proposals are used to introduce clarity and argue value – at last. This typically requires significant involvement of senior consultants.
+
+What we have learned is that this does more than slow down sales. It also reduces delivery repetition, increases variance, and limits the consulting firm’s ability to build reusable IP that strengthens future work.
+
+*Recommended reading:The Toxic Effect of Improvisation on a Consulting Firm’s Performance*
+
+## What a Proposition-Led Strategy in Consulting Looks Like
+
+As the visual earlier illustrates, a proposition-led strategy places a stronger burden on the top of the funnel. This means the effort moves upstream into the parts that improve buying confidence:
+
+• High-value problem definition. The consultancy invests effort into clearly defining the problem it resolves in a way that resonates with the buyers’ reality. This often means being able to articulate the problem even better than the clients can themselves by framing the problem beyond its immediate importance to include what happens if it’s not resolved. Getting this part right means reducing ambiguity and increasing urgency early on.
+
+• A well-defined target audience and problem context. When a consultancy focuses on a specific audience, its messaging gets more precise. This clarity in messaging narrows down the audience that it attracts, improving the quality of leads. The more relevant the messaging is, the easier it is for the right buyer to see it and say “this is for us.”
+
+• Outcome-based proposition with proof by repetition. Instead of focusing on capabilities, the proposition is based on clear outcomes which, in turn, are backed up by evidence of successful delivery. This further increases trust and buyer confidence.
+
+• Easy entry point to get started. The final step in the upper part of the funnel is making it easy for the buyers to get started by lowering barriers to engagement. Making this step as low-friction as possible convinces buyers to take the next step, making the transition from interest to action more seamless.
+
+High-value problem definition. The consultancy invests effort into clearly defining the problem it resolves in a way that resonates with the buyers’ reality. This often means being able to articulate the problem even better than the clients can themselves by framing the problem beyond its immediate importance to include what happens if it’s not resolved. Getting this part right means reducing ambiguity and increasing urgency early on.
+
+A well-defined target audience and problem context. When a consultancy focuses on a specific audience, its messaging gets more precise. This clarity in messaging narrows down the audience that it attracts, improving the quality of leads. The more relevant the messaging is, the easier it is for the right buyer to see it and say “this is for us.”
+
+Outcome-based proposition with proof by repetition. Instead of focusing on capabilities, the proposition is based on clear outcomes which, in turn, are backed up by evidence of successful delivery. This further increases trust and buyer confidence.
+
+Easy entry point to get started. The final step in the upper part of the funnel is making it easy for the buyers to get started by lowering barriers to engagement. Making this step as low-friction as possible convinces buyers to take the next step, making the transition from interest to action more seamless.
+
+By putting more effort into the upstream part of the funnel, consulting firms can change the quality of the entire buying journey: buyers can recognise fit earlier, objections are easier to prevent, decisions are easier to make, and the path to closing becomes shorter and more natural.
+
+Due to the effort in the initial stages, buyers go in with a substantial level of trust and buyer confidence. This makes the later stages of closing that much easier, requiring minimal tweaks, follow-ups, and price justifications.
+
+Proposition-led buyer engagement strategies create trust-based buying.
+
+## In Conclusion: Investing in Proposition Design Earlier Strengthens the Bottom Line
+
+I understand why many consultancies drift toward a sales-led model, as it feels responsive and commercially active in the moment. I have experienced that same pressure firsthand for many years, unfortunately.
+
+The cost shows up later, when the consulting firm is busy, stretched, and still not getting the commercial advantages that should come from all that effort.
+
+However, when consulting firms invest earlier in proposition design, they reduce persuasion effort later, improve buying confidence, shorten buying cycles, build stronger pricing power, and ultimately achieve better win rates.
+
+Sales success in consulting comes from the quality of the proposition.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
