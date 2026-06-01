@@ -1,7 +1,227 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 117 artykułów
+**Pobrano:** 119 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Why Most Consultancies Should Segment by Issue First and Industry Second
+
+**Autor:** Florian Heinrichs
+**Data:** 19 May 2026
+**Link:** https://www.thevisibleauthority.com/blog/why-most-consultancies-should-segment-by-issue-first-and-industry-second
+
+---
+
+Clients don't experience themselves as “in an industry.” They experience “having a problem.”
+
+A CFO at a mid-size manufacturer doesn't wake up thinking "what would a typical industrial goods company do?" They think: "Our operational costs are up 15% year on year and I can't pinpoint where it's coming from. Who can help me fix that?"
+
+That distinction sounds small. Commercially, it's enormous – and most consulting firms are organizing their go-to-market around the wrong one, leaving a lot of differentiation and streamlining potential untapped…
+
+Let me explain:
+
+## Industry-first segmentation: a proposition trap
+
+Most consultancies start with industries before diving into functions and capabilities - and, I get it: The logic is seductively simple: Industries feel strategic. They mirror internal org charts. They make a firm sound like it has experience in (and relevance to) a defined space.
+
+But once a consultancy defines itself by industry, a quiet and destructive logic kicks in: "We should cover as many needs in this industry as possible." Healthcare means strategy and digital, ops and change, and AI and cost optimization. Private Equity means value creation and portfolio ops, exit prep, and finance transformation. And so, the list grows. Each expansion seems justified. And each could be sustainable… if the firm had the means to support such a breadth. But in mid-sized consultancies, a collection of such decision sooner or later results in two very simple things: They overwhelm the group - and dilute the proposition.
+
+Luk and I see this all the time: Specificity goes out the window. Focus gets lost. Senior leaders with different sector networks make different promises to different prospects. The portfolio expands. And the firm that once had a clear reason to be hired slides back into the hamster wheel of chasing clients – saying yes to everything, doing more to drive fewer results.
+
+All in the name of being "relevant" in an industry.
+
+But the simple truth is this: Industry plus capability tells a prospect what you've done and where. It doesn't tell them whether you understand their specific situation – and that gap is precisely where differentiation dies.
+
+Specialization is not the same as (and, typically, less effective than) a proposition-led strategy!
+
+## The pattern underneath industry segments
+
+I know there is - and I suspect you might know already, too.
+
+Because after sitting in a large number of industry-specific partner meetings across different consulting firms, a pattern becomes hard to ignore: in 80 to 90 percent of cases, the business problems being discussed and solved turn out to be (essentially) industry-agnostic.
+
+Same pressures. Same buyer pain. Same dynamics playing out under the surface. Or, put slightly differently: Different industries, same problem.
+
+The reason for this is straightforward: business issues travel across sectors far more readily than consulting firms tend to assume. Margin compression shows up everywhere, from healthcare and retail to industrial services. Failed transformations don't respect vertical boundaries. Integration problems follow acquisitions in whatever industry.
+
+If the issue is real, it's almost certainly not unique to one sector.
+
+Which means consultancies that lead with issues – rather than industries – can not only stay focused and specific… but have access to a far wider pool of genuinely fit prospects than their go-to-market suggests, too.
+
+*Recommended reading:How to Test a Consulting Value Proposition With Three Simple Questions*
+
+## What issue-first segmentation actually looks like
+
+Shifting firms to issue-led segmentation isn't complicated. It has three steps:
+
+Start with the core issue. What specific business problem does the firm actually specialize in resolving? Not capabilities, not service lines – the problem, in the client's language.
+
+Add situational context. Where does that issue show up most acutely? What organizational conditions, trigger events, or structural pressures make it recognizable?
+
+Use industry as proof, not positioning. Which sectors have you solved it in? That's where industry belongs – in the case studies, not in the headline.
+
+The difference in practice is stark.
+
+Instead of:"We serve Private Equity."Try:"We help PE-backed industrial firms fix value leakage in the first 180 days post-acquisition."
+
+Instead of: "We focus on Healthcare."Try: "We help hospital groups redesign operating models when regulatory shifts compress margins."
+
+The first kind of statement tells prospects where the firm has worked. The second tells them why to care.
+
+And where “Capability + Industry” creates mere specialization (a helpful, but often no longer sufficient play… especially if a firm can’t prove truly deep industry expertise), “Issue-resolution + Industry” creates true relevance.
+
+Two Ways for Consulting Firms to Segment
+
+## Industry still matters – just not where most firms put it
+
+This isn't an argument for ignoring industry altogether. Context always matters. Regulatory constraints, technical complexity, buyer culture – these things shape how a problem shows up and how it gets solved. For a true single-industry specialist, leading with that sector is right.
+
+But for most firms? Leading with a list of industries is leading with proof as if it were positioning. Every other consulting firm has the same slide. It creates sameness, not preference.
+
+Industry belongs in the conversation – just later in it. It supports the issue-led story. It doesn't lead it.
+
+## The organizing question
+
+Firms that struggle to differentiate are worth asking one thing: are you organized around who the client is – or around what the client urgently needs to fix?
+
+The first is industry-led. It feels comprehensive. It expands over time. It gradually becomes indistinguishable from the competition. The second is issue-led. It forces specificity. It improves over time. It creates the kind of pull that makes the right prospects recognize themselves in what the firm says – without the firm having to explain why it's different.Issue first. Industry second – as proof.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
+
+================================================================================
+
+# How Consulting Firms Sabotage Their Go-to-Market
+
+**Autor:** Luk Smeyers
+**Data:** 05 May 2026
+**Link:** https://www.thevisibleauthority.com/blog/how-consulting-firms-sabotage-their-go-to-market
+
+---
+
+Millions get lost in how consulting firms go to market. And the unfortunate part is that, in too many cases, it is self-inflicted!
+
+Most consulting firms go to market by leading with lists of capabilities and industries they cover. It is the default. And it is this approach that is sabotaging the consultancies’ chances of success.
+
+In this article, I’d like to discuss why leading with capabilities and industries drowns consulting firms in the sea of sameness, and what the fix is. Heads up, though – while the fix is simple in theory, it is hard when it comes to making the trade-offs.
+
+## The Problem of Leading with Capabilities and Industries
+
+• “We know how to do X, Y, and Z”
+
+• “We transform your business.”
+
+• “We are a client-centric transformation partner.”
+
+• “We can do A and B, and here is a list of industries we can do it for.”
+
+“We know how to do X, Y, and Z”
+
+“We transform your business.”
+
+“We are a client-centric transformation partner.”
+
+“We can do A and B, and here is a list of industries we can do it for.”
+
+In our work with consulting firms, we see these statements all the time – in conversations with senior partners, on websites, in marketing and sales emails, and on social media platforms like LinkedIn.
+
+It’s a common and natural way of thinking in consulting. A supermarket sells products and displays them on the shelf. Consulting firms’ product is their service portfolio. So they display them loudly and proudly on their marketing shelves. The hope is that by declaring which services are offered and specifying which industries they can apply to, the right buyer will find them.
+
+The buyer won’t. The buyer doesn’t care. The buyer is bored of the bombardment of identical marketing messages from consulting firms.
+
+So why does the capability- and industry-first go-to-market fall on deaf ears?
+
+Two reasons: sameness and buyer disconnect.
+
+• Sameness: When every website reads the same –Strategy, Transformation, Data, Change– consulting firms lose their differentiation. Industry lists do not differentiate either. Everyone claims the same sectors. The consulting firm becomes interchangeable before a conversation even starts.
+
+• Buyer disconnect: Contrary to what many consulting leaders and their marketers believe, buyers do not search for a “client-centric transformation partner.” They don’t stay late in the office looking for a consultancy that’s “100% committed to the success of clients”. Buyers search for solutions to the problem that is costing their business time, money, or credibility. Generic, vague, and broad capability language forces translation – how to connect Service Y to their Problem X. So, most buyers move on  – they don't have the time to do that translation.
+
+Sameness: When every website reads the same –Strategy, Transformation, Data, Change– consulting firms lose their differentiation. Industry lists do not differentiate either. Everyone claims the same sectors. The consulting firm becomes interchangeable before a conversation even starts.
+
+Buyer disconnect: Contrary to what many consulting leaders and their marketers believe, buyers do not search for a “client-centric transformation partner.” They don’t stay late in the office looking for a consultancy that’s “100% committed to the success of clients”. Buyers search for solutions to the problem that is costing their business time, money, or credibility. Generic, vague, and broad capability language forces translation – how to connect Service Y to their Problem X. So, most buyers move on  – they don't have the time to do that translation.
+
+Getting lost in the sea of sameness and failing to instantly make it clear to prospective buyers why the consulting firm is a good fit creates a persuasion treadmill. The consultancy has to put all its efforts into outbound campaigns. Those who get captured by the funnel require constant follow-ups, clarifications, slide decks, negotiations, and convincing. It’s a whole lot of effort for rather disappointing returns.
+
+*Recommended reading:The Client-Centricity Lie in Consulting*
+
+## The Fix: Leading with Business Issues
+
+The toughest part of our work with consulting firms is redesigning their propositions. It is a foundational change that often requires consulting leaders to completely change their mindset and approach to business and client engagement.
+
+In theory, it’s a straightforward process. The pain comes when consulting firms have to make trade-offs and follow through on execution.
+
+The fix to drowning in the sea of sameness and buyer disconnect is leading the go-to-market with business issues.
+
+• Issue: The concrete problem the buyer is trying to fix. “Digital transformation” is not a problem buyers face. Stalled revenue growth, rising operational costs, customer churn – these are the problems that are typically at the heart of the problem. Digitalising processes and setting up automations are just one way to tackle the real issues.
+
+• Buyer context: The role and situation where that Issue shows up. A CFO of an FMCG company experiences the same issue differently from a COO of a tech company. Understanding the buyer’s pressures, incentives, limitations, goals, and priorities makes the proposition feel tailored rather than generic.
+
+• Outcomes: What changes, what improves, what stops hurting. If the issue is solved, what gets better, faster, cheaper, or safer? What pain goes away? Buyers want to see results in practical business terms. They want higher win rates, faster decision-making, stronger margins, and so on. Outcomes translate expertise into value.
+
+• Proof and method: A repeatable approach and evidence. Industry becomes Proof. A consulting firm should be able to show how it can credibly solve an issue, and do so repeatedly. This means having a clear approach, a structured methodology, and evidence from past work – case studies, testimonials, client stories, and so on. Industry expertise becomes proof when a consulting firm can demonstrate that it understands the buyer’s context and has successfully delivered outcomes to buyers with similar contexts in the past.
+
+Issue: The concrete problem the buyer is trying to fix. “Digital transformation” is not a problem buyers face. Stalled revenue growth, rising operational costs, customer churn – these are the problems that are typically at the heart of the problem. Digitalising processes and setting up automations are just one way to tackle the real issues.
+
+Buyer context: The role and situation where that Issue shows up. A CFO of an FMCG company experiences the same issue differently from a COO of a tech company. Understanding the buyer’s pressures, incentives, limitations, goals, and priorities makes the proposition feel tailored rather than generic.
+
+Outcomes: What changes, what improves, what stops hurting. If the issue is solved, what gets better, faster, cheaper, or safer? What pain goes away? Buyers want to see results in practical business terms. They want higher win rates, faster decision-making, stronger margins, and so on. Outcomes translate expertise into value.
+
+Proof and method: A repeatable approach and evidence. Industry becomes Proof. A consulting firm should be able to show how it can credibly solve an issue, and do so repeatedly. This means having a clear approach, a structured methodology, and evidence from past work – case studies, testimonials, client stories, and so on. Industry expertise becomes proof when a consulting firm can demonstrate that it understands the buyer’s context and has successfully delivered outcomes to buyers with similar contexts in the past.
+
+That order changes the commercial curve, and here is a visual that summarises it:
+
+Consulting Go-To-Market: Always Issue-Led!
+
+The bottom line is:
+
+• Capability and industry-led GTM creates spikes, not enough momentum.
+
+• Issue-led GTM creates compounding demand.
+
+Capability and industry-led GTM creates spikes, not enough momentum.
+
+Issue-led GTM creates compounding demand.
+
+## Transitioning from a Capability- and Industry-Led to an Issue-Led GTM
+
+On their own, capabilities- and industries-led messages don’t provide great ROI:
+
+• Capabilities: Capabilities still matter, of course. They are based on expertise, and consulting firms ultimately sell expertise. Capabilities frame the expertise domain: “We are experts in sales forecasting.” This tells the buyer what the consultancy does and what its technical competencies are. It can help buyers shortlist this consultancy. However, on its own, it doesn’t necessarily create urgency or build trust. The buyer thinks: “This seems to be one of the consultancies we are looking for, let’s check them out.” It invites evaluation but doesn’t create demand.
+
+• Industry: Industry acts as proof: “We’ve done that in these industries: Fashion Retail, Supermarkets, and international e-Commerce shops.” A declaration of sector experience reduces buyers' perceived risk. It signals the consultancy’s understanding of operating models, commercial realities, sector-specific terminology, and operational limitations. The buyer thinks: “Great, they understand our specific context”. It builds some confidence but doesn’t really translate into relevance to the exact problem that the buyer needs to solve.
+
+Capabilities: Capabilities still matter, of course. They are based on expertise, and consulting firms ultimately sell expertise. Capabilities frame the expertise domain: “We are experts in sales forecasting.” This tells the buyer what the consultancy does and what its technical competencies are. It can help buyers shortlist this consultancy. However, on its own, it doesn’t necessarily create urgency or build trust. The buyer thinks: “This seems to be one of the consultancies we are looking for, let’s check them out.” It invites evaluation but doesn’t create demand.
+
+Industry: Industry acts as proof: “We’ve done that in these industries: Fashion Retail, Supermarkets, and international e-Commerce shops.” A declaration of sector experience reduces buyers' perceived risk. It signals the consultancy’s understanding of operating models, commercial realities, sector-specific terminology, and operational limitations. The buyer thinks: “Great, they understand our specific context”. It builds some confidence but doesn’t really translate into relevance to the exact problem that the buyer needs to solve.
+
+Capability- and industry-led GTMs feel logical internally, but they put the work of connecting the dots and figuring out differentiation on the buyer.
+
+To create relevance and build trust, consulting firms need to reverse their thinking. It is on them to connect the dots, create meaningful differentiation, and then put out externally-facing messages. That’s where issue-led GTM propositions come in.
+
+• Issue-led: Leading with the Issue is how a consulting firm earns trust. “We fix revenue leakage from out-of-stocks (context) in multi-region supermarkets (client profile) by helping demand planning and forecasting teams (capability and expertise) improve new product launch forecasts that keep missing demand (issue) with a typical accuracy improvement of 10 to 30% within 10-15 weeks (outcome).”  The buyer feels confident: “This consultancy has solved exactly the problem we are suffering from, repeatedly and reliably”.
+
+Issue-led: Leading with the Issue is how a consulting firm earns trust. “We fix revenue leakage from out-of-stocks (context) in multi-region supermarkets (client profile) by helping demand planning and forecasting teams (capability and expertise) improve new product launch forecasts that keep missing demand (issue) with a typical accuracy improvement of 10 to 30% within 10-15 weeks (outcome).”  The buyer feels confident: “This consultancy has solved exactly the problem we are suffering from, repeatedly and reliably”.
+
+That’s the major change in thinking that consulting firms need to embrace truly. Stop thinking about how to promote individual services to various industries. Instead, think of what urgent, high-impact issues the consultancy can solve using its expertise and by designing repeatable methods that deliver reliable outcomes. Services and expertise matter, but they should play a supporting role – not shoved into the spotlight. The client’s real issues – that’s what should take centre stage.
+
+## In Conclusion: Issue-Led, Creating Differentiation with Relevance!
+
+To improve the commercial impact (and stop leaving money on the table), consulting firms need to stop leading with what they do and start leading with the problems buyers urgently need solved. They should focus on the type of problems that present the toughest challenges for clients, for which they're willing to pay a premium to get rid of!
+
+Capabilities and Industries in consulting build Context and Proof. They are essential. But they don’t lead. They provide a mechanism, help set up context and proof. On their own, they fail to create relevance or trust.
+
+Issues create relevance. They show buyers that the consulting firm understands what is at stake and has a proven method for addressing it.
+
+Issue-led GTM changes the dynamic. Instead of forcing buyers to figure out the value behind vague claims, the consultancy does that work upfront. It becomes memorable for solving a specific, valuable problem.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
@@ -325,13 +545,17 @@ When the consulting firm presented its plan, each phase of the post-merger ERP i
 
 This was not a conceptual framework displayed on a slide. It was a practical, experience-based execution roadmap shaped by past integrations of similar complexity. It showed where risks typically arise in this type of post-merger ERP integration and how those risks had already been addressed through specific design choices in the proposed approach.
 
+More importantly, it gave the client something many competing consulting firms failed to provide: a defined path to outcomes and impact. It made clear not only what would happen, but how each stage of the work would reduce risk, build confidence, and move the organisation towards a stable, workable post-merger operating model.
+
+In that sense, the roadmap functioned as a client success journey. It translated complexity into a sequence the client could follow, govern, and believe in.
+
 For an organisation navigating a merger of this scale, this level of detail transformed uncertainty into something that could be understood, planned for, and governed. The consulting firm turned an overwhelming, chaotic situation into a sequence of manageable, transparent steps built on deep experience.
 
 *Recommended reading:Building a Winning Consulting Value Proposition*
 
 ## Predictable outcomes as a result of reduced variance
 
-Post-merger ERP integrations are widely known for their volatility. Delays, budget pressure, stakeholder fatigue, and poor adoption are common. The consulting firm approached this challenge by drawing directly on its repeated exposure to similar conditions and levels of complexity. Through this repetition, it had learned to significantly reduce outcome variance.
+Post-merger ERP integrations are widely known for their volatility. Delays, budget pressure, stakeholder fatigue, and poor adoption are common. The consulting firm approached this challenge by drawing directly on its repeated exposure to similar conditions and levels of complexity. Through this repetition, it had learned to reduce outcome variance significantly.
 
 Based on deep experience from previous post-merger ERP integration projects of comparable scale and difficulty, the consulting firm was able to speak with confidence about realistic adoption levels, anticipated system stability, and the continuity of operations during the transition. It explained where difficulties usually emerge and the mechanisms embedded in its process for detecting and mitigating those challenges early. Really impressive.
 
@@ -2211,13 +2435,45 @@ In short, a well-designed, differentiating value proposition transforms a consul
 
 *Recommended reading:The Value Proposition Gap: What Consulting Firms Say vs. What Clients Hear*
 
+## The Use of the Value Proposition Canvas Is an Early Phase, Not The Ultimate Consulting Value Proposition
+
+One important clarification is needed before we go further: value proposition design is not the entire value proposition. It is an early and critical phase of a broader strategic work.
+
+In our work with consulting firms, we use the Value Proposition Canvas early in the process as a working document. Its role is not to solve everything at once. Its role is to help the leadership team confront the questions that usually remain implicit for too long:
+
+• Where do we have the strongest right to play?
+
+• Which client issues are we willing to own?
+
+• Which outcomes can we credibly connect to our work?
+
+• What do we need to stop emphasising because it creates too much noise?
+
+Where do we have the strongest right to play?
+
+Which client issues are we willing to own?
+
+Which outcomes can we credibly connect to our work?
+
+What do we need to stop emphasising because it creates too much noise?
+
+That discussion is often more valuable than the canvas itself. It forces choices. It pushes the leadership team to distinguish between everything the consulting firm can do and what the market should actually remember it for.
+
+At this stage, the most important output is not yet a complete value proposition architecture. It is the first component: the overall proposition, or the consulting firm’s centre of gravity. In other words, the sharp market-facing proposition that gives coherence to the firm’s expertise, focus, and ambition.
+
+That matters because the overall proposition is only one part of a stronger consulting value proposition. Over time, that centre of gravity can be translated into a broader architecture that may include client entry points, a core point of view, a client success journey, a services overview, a delivery difference, proof elements, and an entry offer. But before any of that can be built properly, the leadership team needs alignment on the centre of gravity first.
+
+That is what this guide focuses on: the design phase, where a consulting firm clarifies the foundation of its value proposition by making deliberate choices about focus, ideal clients, client issues, outcomes, and the path from issue to progress.
+
+With that clarification in place, let us look at the Value Proposition Canvas as the early-stage design tool we use to shape that centre of gravity.
+
 ## The Consulting Value Proposition Design Canvas: The Expanded Version
 
-We developed a Value Proposition Canvas tailored specifically for consulting firms or consulting practices. We use it in our project work because it forces clarity, strips away the fluff, and helps firms articulate their value compellingly and practically.
+We developed a Value Proposition Canvas tailored specifically for consulting firms or consulting practices. We use it in our project work because it forces clarity, strips away fluff, and helps firms articulate their value in a compelling, practical way.
 
 Once completed, this canvas becomes a strategic tool for the website, social media, pitches, business development, client selection, operational decision-making, hiring, onboarding, and training. It also informs the consulting firm's thought leadership strategy.
 
-Within each item in the canvas, we guide our clients through a set of questions that they should answer in order to design their value proposition. In this guide, I will share what those questions are.
+Within each item on the canvas, we guide our clients through a set of questions to help them design their value proposition. In this guide, I will share the answers to those questions.
 
 ### #1. “Our best clients come to us because…”
 
@@ -3451,7 +3707,7 @@ My fellow readers and network members on LinkedIn tend to agree with my assessme
 
 ## Beyond the AI Noise: The Complex Reality of Consulting’s Recent Struggles
 
-What we have seen and observed in the past year is that if AI has contributed to challenges in consulting revenue and growth, it's primarily been due to the hesitation caused by the pervasive AI noise, which has led to clients delaying decisions to hire consultants.
+What we have seen andobserved in 2025is that if AI has contributed to challenges in consulting revenue and growth, it's primarily been due to the hesitation caused by the pervasive AI noise, which has led to clients delaying decisions to hire consultants.
 
 Beyond this, many of the recent growth struggles in certain consulting expertise domains (though certainly not all) stem from a confluence of broader economic factors, including global economic pressures, disrupted global supply chains, and budget cuts on the client side, to name a few.
 
