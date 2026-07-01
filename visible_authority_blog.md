@@ -1,7 +1,367 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 119 artykułów
+**Pobrano:** 122 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Why Many Consultancies Fail to Reap the Benefits of Specialisation
+
+**Autor:** Luk Smeyers
+**Data:** 30 June 2026
+**Link:** https://www.thevisibleauthority.com/blog/why-many-consultancies-fail-to-reap-the-benefits-of-specialisation
+
+---
+
+Most “specialist” consultancies still sound like generalists. And they likely don’t realise.
+
+We have spoken with and worked with many consulting firms that believe they are highly specialised because of their domain expertise. A data & analytics consultancy, for example, may list its services on data engineering, AI enablement, cloud migration, governance, reporting, architecture, and platforms. To name a few.
+
+Technically, that is narrower and more specialised than a broad management consultancy. Yet, this consultancy struggles to attract the right clients, its messaging and marketing campaigns seem to fall on deaf ears, and sales cycles remain lengthy and (unnecessarily) complicated.
+
+Does this mean that specialisation is not all it’s cut out to be? Not really. What we’ve discovered is that, in most cases, while technically “specialised”, these consulting firms still sound like hundreds of other consultancies on the market, and prospects struggle to connect their needs to the list of services they offer. That’s what I’d like to discuss in this article.
+
+## When Specialisation Doesn’t Deliver Commercial Impact
+
+So why do consulting firms with a specific domain of expertise still struggle to achieve the desired commercial outcomes? It’s because buyers still experience their offering as a broad service catalogue – one that sounds no different from hundreds of similar consulting firms.
+
+And that creates a problem. The buyers still have to figure out answers to questions like:
+
+• What problem(s) does the consultancy actually solve?
+
+• Where would it fit in our business?
+
+• Did they solve problems similar to ours before?
+
+• What outcomes can be achieved in working with them?
+
+• How does their work differ from that of dozens of similar consulting firms?
+
+What problem(s) does the consultancy actually solve?
+
+Where would it fit in our business?
+
+Did they solve problems similar to ours before?
+
+What outcomes can be achieved in working with them?
+
+How does their work differ from that of dozens of similar consulting firms?
+
+And they are not going to. Not with dozens of alternatives available at the click of a button.
+
+In our experience, many specialist consultancies underestimate the extent of buyer translation required when the market message is built around seemingly specialised service categories.
+
+The consultancy may have deep expertise – in fact, it may genuinely be more specialised and have deeper expertise than many of its competitors. But from the buyer’s perspective, they are still being presented with a menu of capabilities rather than solutions to the business challenges that keep them up at night.
+
+Centring and communicating specialisation from technical and commercial perspectives deliver vastly different results.
+
+• Centring a consulting business around technical specialisation typically means focusing on capabilities – what the consulting firm knows and what list of services it can offer based on that.
+
+• Centring a consulting business around a commercial specialisation means leading with a value proposition and communicating a pressing, high-stakes challenge that the consulting firm excels at solving.
+
+Centring a consulting business around technical specialisation typically means focusing on capabilities – what the consulting firm knows and what list of services it can offer based on that.
+
+Centring a consulting business around a commercial specialisation means leading with a value proposition and communicating a pressing, high-stakes challenge that the consulting firm excels at solving.
+
+There is a deeper psychological shift required here: moving from the role of a 'technician' to that of a 'trusted advisor.' When a consultancy insists on listing every capability, it is essentially acting as a technician—hiding behind a list of tools to avoid the risk of committing to a specific, high-stakes outcome. There is often a fear that narrowing focus means narrowing revenue, whereas the reality is the opposite: the more the focus remains on the outcome, the more valuable the advice becomes. True advisors do not offer menus of services; they offer clear solutions to business problems.
+
+When leading with technical specialisation – a.k.a., capabilities – a consultancy’s expertise creates complexity instead of clarity for buyers. They are left with questions. They do not have easy avenues for connecting their challenges to services. They are forced to diagnose their problem and then figure out what service can resolve it. All of this delays and complicates the buyer’s journey. The consultancy ends up sending one follow-up after another, answering an endless stream of questions, negotiating pricing to justify its value, and often losing a prospect to a value-proposition-led consulting firm.
+
+Additionally, such capabilities- and expertise-driven specialisation creates a much higher risk of sameness and commoditisation, because once several consulting firms present themselves with overlapping service lists, buyers struggle to see meaningful commercial distinctions between them. Engagement scope creep becomes a recurring problem.
+
+*Recommended reading:Most Consultancies Design Their Own Scope Creep*
+
+The consultancy is treated as an order-taker – understandably so, since the buyer feels the need to be in charge and to fill the void that, in theory, the consulting firm was supposed to fill with a proven approach for diagnosing and solving the challenge.
+
+There is often internal resistance to this shift. Partners may worry that if they explicitly define their offering in terms of the specific business issues they solve, they will be perceived as too restrictive. This stems from the misconception that being specific equates to limiting the available market. However, a long list of services often creates ‘noise’ rather than clarity.
+
+Being specific about the business problems solved does not mean eliminating capabilities; it means reordering how services are introduced to the market. Clients rarely buy based on an exhaustive catalogue; they buy based on a solution to a pressing, specific problem. By establishing authority through a clear, problem-solving focus, consultancies can naturally introduce broader capabilities later as secondary support, rather than as the primary hook.
+
+## How to Adapt a Buyer’s Perspective to Specialisation
+
+True specialisation feels different to the buyer. The buyer immediately recognises the consulting firm’s framing of the business problem, the context, the stakes, the outcome, and the consultancy's relevance.
+
+A statement such as “We help manufacturers reduce operational delays caused by fragmented production data” elicits a completely different commercial response than “We help organisations with their data transformation.”
+
+To bridge the gap between technical expertise and commercial relevance, it is helpful to contrast how consultancies frame their offerings. The difference lies in whether the message leads with the 'what' (capabilities) or the 'why' (outcomes). A clear contrast can be seen in the following comparison:
+
+This distinction is what turns an intangible list of services into a concrete business solution.
+
+This doesnotmean services stop mattering.
+
+Services are still essential, but they are the mechanisms used to solve the business problems the consultancy specialises in. They enter the conversation later, once the buyer understands the problem resolution, the commercial impact, and why the consultancy is relevant.
+
+What we have repeatedly observed is that many consulting firms narrow their expertise yet still communicate as broad generalists. That significantly weakens the commercial value of specialisation.
+
+Specialisation starts paying off when the buyer immediately understands where the consultancy fits and the value it can deliver.
+
+*Recommended reading:Why Sales-Led Consulting Falls Short*
+
+## In Conclusion: Consultancies Should Aim to Design an Offering that Builds Buyer Confidence and Trust
+
+I urge consulting firms to internalize the market reality: buyers do not pay for specialisation for its own sake. They pay for expertise that clarifies their challenge and its root causes, confidently prescribes a treatment plan (a client success journey), and has successfully delivered high-impact solutions to the same or similar problems many times before.
+
+Because there are most likely hundreds of other firms with identical or similar lists of capabilities (services). True differentiation and what actually attracts buyers is consulting firms being able to translate that expertise into valuable business outcomes. This showcases true mastery of the domain of expertise and facilitates a confident, clear decision-making process for buyers.
+
+To build buyer confidence, shift the focus from static lists to the live conversation. When asked about a firm’s function, describing capabilities is often a missed opportunity. A more effective framing follows this structure: "We help [Type of Client] solve [specific business issue], when they face [specific context] to achieve [Specific Outcome(s)] by [Path to Outcome].
+
+This structure forces the firm to articulate value in the buyer’s language, connecting the business result directly to the methodology used to get there. Articulating value this way significantly reduces the buyer's risk perception by replacing ambiguity with a clear roadmap of results and methodology, which in turn improves commercial performance.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+================================================================================
+
+# Most Consultancies Design Their Own Scope Creep
+
+**Autor:** Florian Heinrichs
+**Data:** 16 June 2026
+**Link:** https://www.thevisibleauthority.com/blog/most-consultancies-design-their-own-scope-creep
+
+---
+
+The complaint appears almost word-for-word across consulting firms of very different sizes and specialisms:"Clients keep pulling us in directions we didn't plan for."
+
+Scope creep, shifting priorities, or sprawling engagements. Most management and IT consultancies treat it as a delivery problem to be managed, usually with change requests, sometimes with stricter SOWs, occasionally with a frank conversation. It works, up to a point. Change request fees recover some of the margin. Tighter contracts slow the bleeding.
+
+But the cycle never breaks. The next engagement creeps too. And the one after that.
+
+Scope creep is rarely just a delivery problem. More often, it is the commercial consequence of how the consulting firm defines, packages, and structures its expertise.
+
+## The vacuum consulting firms create by selling capabilities
+
+Most consultancies build their engagements around a menu of services. They have a data engineering practice, a transformation practice, an architecture practice, or a change practice. They tell clients what they can do, agree on a generic objective like "enable the digital transformation," and start the work.
+
+The consulting firm has defined capabilities but has not clearly articulated how value is created, sequenced, and measured. What is missing in that setup is a prescription:
+
+• No specific outcome.
+
+• No defined milestones.
+
+• No methodology that says: “Here is the path from the issue to the result, and here is how we know we have arrived.”
+
+No specific outcome.
+
+No defined milestones.
+
+No methodology that says: “Here is the path from the issue to the result, and here is how we know we have arrived.”
+
+That absence is not neutral. It creates a vacuum. And clients - quite reasonably - fill it themselves. Not because they are difficult, but because they have a problem that needs solving and nobody has told them what the path looks like, so they start improvising it in real time.
+
+"Can we also look at this?" "While you're at it, can you check why X is doing Y?" "Can you prioritise tasks 4 and 5?"
+
+Each request is reasonable in isolation. In aggregate, they fragment the engagement.
+
+## The real cost? It’s not the margin hit …
+
+Most firms account for scope creep in commercial terms: hours lost, margin compressed, and change requests negotiated. Those are real, but they understate the damage.
+
+The deeper cost is structural. Over time, the consulting firm loses the ability to compound expertise, codify delivery knowledge, strengthen pricing confidence, and build scalable commercial leverage across engagements.
+
+Every engagement that goes off-path becomes a bespoke piece of work. Bespoke work cannot be turned into a playbook, used to train juniors, or inform the next proposal. The firm builds the same expertise from scratch on every engagement rather than compounding it across many engagements.
+
+This is thecomplexity tax: the cumulative drag of a vague proposition felt as bespoke delivery, inefficient proposals, weak IP, and pricing power and value monetisation that struggle to strengthen because every engagement remains too different from the last to create scalable expertise economics.
+
+In our experience (from working with mid-sized and larger firms) the symptoms are predictable:
+
+• Utilisation looks fine, but the margin doesn't.
+
+• Senior people are stretched across too many half-defined engagements.
+
+• The pipeline grows, but each deal is harder to scope than the one before.
+
+• New hires take longer to become productive because there is no established way of working to learn from.
+
+Utilisation looks fine, but the margin doesn't.
+
+Senior people are stretched across too many half-defined engagements.
+
+The pipeline grows, but each deal is harder to scope than the one before.
+
+New hires take longer to become productive because there is no established way of working to learn from.
+
+None of this looks like a crisis. It looks like consulting. That is what makes it so corrosive.
+
+## A worked example
+
+A 250-person data and analytics consultancy we worked with had what appeared to be a healthy book of business. Fourteen partners. A broad capability menu spanning data strategy, engineering, advanced analytics, and AI. Roughly £45m in revenue, and growing.
+
+But the same patterns kept showing up. Win rates around 25%. Average deal sizes flat. Almost every engagement spawned at least one change request, and roughly a third sprawled badly enough that the partner running them had to step back in to renegotiate scope. Margin had been sliding two points a year for three years.
+
+When we mapped their last forty engagements against the original SOW, the pattern was unambiguous: the engagements that creeped were the ones sold as capability bundles rather than as a prescribed path to a defined outcome - often as bids against client-shaped RFPs where proper diagnosis hadn’t been scoped and budgeted correctly (stuff for a different post, for sure!).
+
+Eighteen months after redesigning around a sharper consulting proposition - one specific issue, one defined client success journey, modules (incl. for diagnosis!) and full programs replacing “raw” services - the numbers told a different story. Win rates climbed past 40%. Average deal sizes moved up by almost half (!). And change requests dropped sharply, not because clients stopped asking, but because the firm had something concrete to point to in its answers. And the engagements that continue to sprawl? Tended to sprawl in the same predictable ways, which meant the firm could finally standardize its responses.
+
+The capability menu had not changed much. What changed was the order of operations: the proposition came first, and the services followed it. The consulting firm stopped commercialising broad capabilities and started commercialising a designed path to client value.
+
+*Recommended reading:Every Consulting Firm Needs a Discovery Service*
+
+## What proposition-led actually looks like
+
+The phrase "proposition-led" can sound abstract. In practice, it means one specific shift in design sequence. In practice, proposition-led consulting is a way of structuring expertise commercially before services are defined operationally.
+
+Capability-led firms design their service menu first and then try to wrap a proposition around it. Proposition-led firms do the opposite. Before defining a single service, they work through a sequence of questions:
+
+• What specific issue are we resolving, for whom, and in what specific context?
+
+• What does success look like at the end of the engagement, in outcome language that the client would recognise?
+
+• What are the milestones between starting and finishing - the recognisable points where progress can be checked?
+
+• What needs to be true at each milestone before moving to the next?
+
+• What access, decisions, and inputs do we need from the client at each stage?
+
+What specific issue are we resolving, for whom, and in what specific context?
+
+What does success look like at the end of the engagement, in outcome language that the client would recognise?
+
+What are the milestones between starting and finishing - the recognisable points where progress can be checked?
+
+What needs to be true at each milestone before moving to the next?
+
+What access, decisions, and inputs do we need from the client at each stage?
+
+That sequence produces what we call aclient success journey: a staged path from issue to outcome, described as milestones the client recognises, not as delivery phases the firm runs internally.
+
+The journey is the artefact that makes the engagement defensible. When a client asks to add something mid-stream, the firm has a precise reference point:does this request move us toward the next milestone, or sideways from it?The conversation stops being a negotiation about hours and starts being a conversation about outcomes.
+
+Services come after. Each one earns its place by answering a single question:what does the client need in order to reach the next milestone?That tends to produce fewer, more sharply scoped offerings - what we'd call programs rather than services - with defined "done" criteria and prices anchored to outcomes rather than day rates.
+
+This matters far beyond delivery efficiency. Consulting firms that continuously reshape engagements around client-driven scope expansion often remain economically dependent on labour effort, senior intervention, and (costly) bespoke execution. Firms that structure expertise around repeatable client success journeys gradually build stronger pricing power, scalable expertise, reusable IP, and more resilient consulting economics.
+
+## How saying “no” can win more revenue
+
+The most common objection we hear when we describe this is a commercial one: “If we say no to scope additions, clients will go elsewhere.”
+
+The pattern is reliably the opposite. Clients who hear: "No, that's outside our usual path-to-success, and it will delay your result; here is what our method says to do instead", tend to gain confidence in the consulting firm, not lose it. The firms that say yes to everything end up looking interchangeable with the next vendor. The firms that hold the line on a designed path to success look like specialists.
+
+This is also where capability-led firms most often misread their own market. They believe they are losing deals on price or scope flexibility. In reality, they are losing them because there is no clearly prescribed path from problem to result, and the buyer cannot tell what they are actually buying.
+
+Think about it: Would you trust a doctor who continuously asks you what to check and do next - or would you prefer a specialist who calmly and confidently explains which three things they’ll do next before making a specific decision?
+
+## Conclusion: The key question to ask
+
+If your firm is worn down by constant change request battles, there is one question worth sitting with:
+
+Does your service design follow your proposition, or does your proposition try to wrap around your services?
+
+If it is the latter, scope creep is not the problem to solve. It is a symptom of a deeper design choice that, until it changes, will keep generating the same pattern, engagement after engagement.
+
+Proposition design is the foundation. Everything that follows - how the firm governs itself, how it goes to market, how it prices, how it scales - depends on getting this part right. It is not about piecing services together. It is about taking clients through milestones of a designed, disciplined client success journey, one that the firm built before the engagement started, not one that the client assembles as they go.
+
+The future advantage in consulting may increasingly belong to firms that commercialise expertise through designed client success journeys, enabling stronger value monetisation, scalable expertise, and less dependence on customised service delivery.
+
+So, perhaps: Time to get more prescriptive?
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
+
+================================================================================
+
+# Winning Consulting Clients: Start with Their Problem, Not with a Service List
+
+**Autor:** Luk Smeyers
+**Data:** 02 June 2026
+**Link:** https://www.thevisibleauthority.com/blog/winning-consulting-clients-start-with-their-problem-not-with-a-service-list
+
+---
+
+In one of our conversations, a consulting partner challenged the theory of proposition design with the reality of revenue pressure.
+
+He made two excellent points:
+
+• Saying no: In a market where keeping a pipeline full can be hard, saying no requires investment. The funnel may shrink before the consulting firm has built enough demand around its strongest propositions.
+
+• Relationships: Even with strong propositions, great teams, and credible evidence, relationships still matter. A consulting firm can be sharp on paper and still struggle to convert when the right buyers are not ready to move.
+
+Saying no: In a market where keeping a pipeline full can be hard, saying no requires investment. The funnel may shrink before the consulting firm has built enough demand around its strongest propositions.
+
+Relationships: Even with strong propositions, great teams, and credible evidence, relationships still matter. A consulting firm can be sharp on paper and still struggle to convert when the right buyers are not ready to move.
+
+We agree with both. Saying no is not an exercise in extremes. And relationships do matter. This conversation did, however, get us thinking about the extent to which many consulting leaders view proposition-led strategies as an exercise in purity and, as a result, hold back from redesigning their propositions and business models.
+
+That’s what I’d like to discuss in this article: the pitfalls of transitioning to a proposition-led consulting model and the steps we encourage consultancies to take to make it as seamless as possible.
+
+## The “One Big Leap” Mistake of Transitioning to a Proposition-Led Strategy in Consulting
+
+We never tell consulting firms to walk away from revenue overnight and hope the market rewards them for being brave. That would be commercially naïve.
+
+But here is where many get stuck: they use the difficulty of saying no as an excuse never to redesign how they grow.
+
+• They keep accepting the wrong work because "the market is tough".
+
+• They keep stretching the story because "the relationship is strong".
+
+• They keep bending the scope because "the client asked for it".
+
+They keep accepting the wrong work because "the market is tough".
+
+They keep stretching the story because "the relationship is strong".
+
+They keep bending the scope because "the client asked for it".
+
+That is the trap.
+
+Because over time, this “we are flexible” mode of thinking becomes the dominant operating model. This reliance on continuous customisation turns the firm's offering back into a generic list of services.
+
+The consulting firm stops making deliberate strategic decisions and moves, and simply reacts to whatever opportunity comes its way. Proposition-led growth is seen as an aspiration – a nice-to-have that is not realistically feasible in the near future because “the market is really rough at the moment and we should focus on survival.”
+
+I hate to break it to these consulting leaders, but the perfect moment will never arrive. Market conditions will always be fluctuating. Technological advancements will continue to impact operating models and sales pitches. Clients will always want to expand the scope.
+
+All of these external factors are outside of the control of any one consultancy. That’s why the real question is not whether a firm should become proposition-led overnight. It is whether every commercial decision is moving towards a stronger model, or pulling it back into the same relationship-led sales funnel.
+
+*Recommended reading:Why Sales-Led Consulting Falls Short*
+
+## What a Deliberate Transition to a Proposition-Led Consultancy Entails
+
+Switching to a proposition-led business model is not about an overnight abandonment of the work that currently pays the bills. It’s not about engaging in a branding exercise. Rather, it’s about setting out to redesign the foundations and recalibrating decision-making towards this goal – in a gradual but disciplined manner.
+
+Here are the steps that consulting firms can use as a guide in their transition.
+
+### Step 1: Sequencing the Shift
+
+Consulting firms should absolutely aim to keep revenue flowing while building the proposition-led engine in parallel. Fade in the new, fade out the old.
+
+This is where many consultancies overcomplicate the transition. They assume that switching to proposition-led means cutting off existing revenue streams and only targeting prospects who fit the new model.
+
+The legacy business needs to keep the lights on while the new positioning gets applied with every new client. Over time, the balance will shift – legacy clients’ grip on revenue will loosen, and new clients will become the driving force.
+
+### Step 2: Setting Commercial Boundaries
+
+We encourage consulting firms to decide what to accept, decline, or park. Poor-fit work may still be taken on, but only when there is a clear strategic reason: relationship value, proof value, learning value, or access to a better buying centre. Without rules, everything becomes an exception, and proposition-led transformation simply gets put on the back burner under the pressure of day-to-day challenges.
+
+It’s about not allowing short-term opportunities to distract from the long-term strategy.
+
+### Step 3: Building Visible Proof
+
+It is imperative that consulting firms turn repeatable wins into evidence the market can recognise.
+
+In fact, most firms have more proof than they realise, but it's buried in proposals, delivery decks, and partner memory. There is no system to collect and utilise it, there is no underlying theme tying these success stories together, and there is no pattern recognition.
+
+A value proposition becomes tangible when it is evident in case studies, marketing narratives, methodologies, insights, and the language used to communicate with prospects. This visible proof is how the consulting firm communicates to prospects what problem it excels at solving. It’s what enables proposition-led growth to start compounding – the more of the right clients are attracted, the more proof the consulting firm accumulates, the more clients it attracts.
+
+### Step 4: Protecting the New Model
+
+The moment pipeline pressure rises, firms slide back into broad capability selling. That is where leadership discipline matters, the new proposition becomes a document, while the old behaviour keeps running the firm. They make the messaging less specific to broaden the potential pool of buyers.
+
+While certainly understandable, it is dangerous. When consistency loses ground to impulse decisions based on short-term thinking, the old model wins. The proposition becomes just a slide in pitch decks – not an actual framework of value delivery.
+
+## In Conclusion: The Transition to a Proposition-Led Model Is a Marathon, Not a Sprint
+
+Relationships matter, of course. They create commercial access, but they do not remove the need to make the value obvious. Similarly, telling no to an existing client and prospect base the minute a new proposition is designed is most likely to lead to poor revenue outcomes. But that doesn’t eliminate the need for a plan to phase out legacy clients or to redefine the relationship with them under the new proposition umbrella.
+
+Without a strong proposition, every conversation becomes persuasion-heavy. The firm explains-customises-chases too much, and absorbs too much risk before the client can say yes with confidence.
+
+Blending relationship-driven work with sharper propositions is a smart transition.
+
+The danger starts when that blend becomes permanent, because the firm then keeps relying on partner effort instead of building issue recognition, outcome confidence, and repeatable proof.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
