@@ -1,7 +1,267 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 122 artykułów
+**Pobrano:** 124 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Why Cold Outbound in Consulting Doesn't Work. And What Actually Delivers Prospects.
+
+**Autor:** Luk Smeyers
+**Data:** 28 July 2026
+**Link:** https://www.thevisibleauthority.com/blog/why-cold-outbound-in-consulting-doesnt-work
+
+---
+
+This year alone, I spoke to 12 consulting firms that turned to cold outbound because "revenue was behind".
+
+“Let’s do some outbound to improve revenue.”
+
+Surprise, surprise – it doesn’t work. Zero results. This strategy fails to fix the revenue problem in the short term. Even worse, it further aggravates fundamental issues that were causing the problem in the first place. It’s just time and money down the drain.
+
+Now, when I say “outbound doesn’t work”, I mean cold outbound – pushing prospects into a conversation, often executed by an external agency promising "30 new leads per week".
+
+## Cold Outbound in Consulting Creates More Problems Than It Solves
+
+How does a cold outbound campaign work? There are several strategies, but the main one comes down to building giant lists of prospects using tools like LinkedIn Sales Navigator, ZoomInfo, etc., finding email addresses of the prospects, and then blasting them with emails. There is the intro email, and then manymanyfollow-up emails.
+
+Most prospects don’t engage. The vast majority simply click “delete” and move on. Sure, a few may bite and agree to a call. A couple may even convert into clients.
+
+The problem? That client, chased into the pipeline today, often becomes the problem client tomorrow: misaligned, margin-draining, and hard to develop and retain. We’ve seen it multiple times. And I have been there myself.
+
+These clients were not attracted based on trust. They were chased and persuaded. So they tend to have weaker urgency in resolving a problem, a less defined problem to begin with, and lower commitment to change. They are also likely to compare the consulting firm on pricing, require more “hand-holding” during onboarding and engagement, and have expectations that don’t really align with what the consulting firm actually delivers.
+
+Scope creep becomes a recurring issue. Constant adjustments and customisation take a sledge hammer to profitability. And a long-term relationship with this client is highly unlikely.
+
+*Recommended reading:Most Consultancies Design Their Own Scope Creep*
+
+What many consulting leaders do not anticipate – or even consider in the first place – is the damage cold outbound strategies inflict on the business’s foundations:
+
+• Rising Acquisition Costs: Chasing clients is not a free exercise. It costs consulting firms time, effort, and money, pushing CAC through the roof.
+
+• Weak and Constantly Changing Value Proposition: As response rates decline, consulting firms find themselves constantly adjusting their messaging. It may seem harmless – “just being flexible”. But in reality, this constant change in messaging alters the core parameters of the firm. Its value proposition was probably weak to begin with – hence, the need for cold outbound. But with every iteration in an attempt to capture attention, this proposition grinds to nothing.
+
+• Lower Conversion Rates: Uninterested prospects take longer to close, and often never do. Many prospects agree to a call out of curiosity rather than a genuine need, so they never become paying clients.
+
+• Longer Sales Cycles: When there is no pull, there is no urgency. Deals stall or take time to close. Decisions get delayed and budgets get reconsidered.
+
+• Procurement Tunnels: Rather than engaging the consulting firm as a trusted advisor, these prospects often funnel the conversation into formal procurement processes or competitive RFPs. Again, there is no urgency – may as well put the consulting firm through the long and painful review process and see what comes out of it. Good luck standing out.
+
+• Price Pushback: These clients didn’t seek out the firm’s expertise. They were chased, they were talked at, they were pushed into conversations. They negotiate harder and pay less. There is always the pressure to justify every line item.
+
+• Unstable Pipeline: Cold outbound is unreliable. Sometimes it leads to a couple of clients, sometimes it doesn’t. Without a pull-based system, new business stays lumpy and unpredictable.
+
+• Eroded Margins: Acquisition costs go up, sales cycles become longer, delivery expectations from clients are unpredictable. Pricing is often compromised by discounts and scope creeps. The outcome? Margins take the hit.
+
+• Weaker Relationships: These clients are more demanding to work with, harder to satisfy, and rarely grow or get retained.
+
+• No Referrals: The strongest referrals come from clients who actively seeked out the advice of a consulting firm and experienced high-impact results. That’s not the case with cold outbound prospects-turn-clients. They don’t become advocates. They leave when the project is finished.
+
+Rising Acquisition Costs: Chasing clients is not a free exercise. It costs consulting firms time, effort, and money, pushing CAC through the roof.
+
+Weak and Constantly Changing Value Proposition: As response rates decline, consulting firms find themselves constantly adjusting their messaging. It may seem harmless – “just being flexible”. But in reality, this constant change in messaging alters the core parameters of the firm. Its value proposition was probably weak to begin with – hence, the need for cold outbound. But with every iteration in an attempt to capture attention, this proposition grinds to nothing.
+
+Lower Conversion Rates: Uninterested prospects take longer to close, and often never do. Many prospects agree to a call out of curiosity rather than a genuine need, so they never become paying clients.
+
+Longer Sales Cycles: When there is no pull, there is no urgency. Deals stall or take time to close. Decisions get delayed and budgets get reconsidered.
+
+Procurement Tunnels: Rather than engaging the consulting firm as a trusted advisor, these prospects often funnel the conversation into formal procurement processes or competitive RFPs. Again, there is no urgency – may as well put the consulting firm through the long and painful review process and see what comes out of it. Good luck standing out.
+
+Price Pushback: These clients didn’t seek out the firm’s expertise. They were chased, they were talked at, they were pushed into conversations. They negotiate harder and pay less. There is always the pressure to justify every line item.
+
+Unstable Pipeline: Cold outbound is unreliable. Sometimes it leads to a couple of clients, sometimes it doesn’t. Without a pull-based system, new business stays lumpy and unpredictable.
+
+Eroded Margins: Acquisition costs go up, sales cycles become longer, delivery expectations from clients are unpredictable. Pricing is often compromised by discounts and scope creeps. The outcome? Margins take the hit.
+
+Weaker Relationships: These clients are more demanding to work with, harder to satisfy, and rarely grow or get retained.
+
+No Referrals: The strongest referrals come from clients who actively seeked out the advice of a consulting firm and experienced high-impact results. That’s not the case with cold outbound prospects-turn-clients. They don’t become advocates. They leave when the project is finished.
+
+## The Alternative: Prospect Attraction and Outbound as a Support Engagement Mechanism
+
+Broadly speaking, there are two ways for a consulting firm to acquire new clients:
+
+• They come to the firm because they’ve heard of it, follow its thinking, and trust its track record. That’s attraction.
+
+• The firm goes after them, trying to persuade or push its way into a conversation. That’s chasing.
+
+They come to the firm because they’ve heard of it, follow its thinking, and trust its track record. That’s attraction.
+
+The firm goes after them, trying to persuade or push its way into a conversation. That’s chasing.
+
+In our experience, client attraction is a far more reliable solution, both in terms of pipeline consistency and profitability.
+
+The reason so many consulting firms fail to set up a strong attraction mechanism is two-fold: it often requires a complete redesign of the foundations; and it compounds slowly and takes time.
+
+### The Foundations of a Client Attraction Mechanism
+
+Strong client attraction is built on three pillars: value clarity, credibility, and consistent, proven outcome delivery.
+
+• Value Clarity: A consulting firm must be able to articulate who it helps, what problem it solves, and what outcomes clients can expect. This explanation should be clear and compelling. And I’m not talking about presenting a list of services. No, in fact, the list comes out later in conversations, when discussing the implementation roadmap. What I’m talking about is building a reputation for the ability to solve very specific business problems. This makes it easy for prospects to recognise themselves in a consulting firm’s messaging. Prospects don’t care about the list of services. They care about resolving high-stakes problems.
+
+• Credibility: Even the most compelling value proposition will fail to attract clients if it is not supported by evidence. When prospects come across a consulting firm, their first thought shouldn’t be “this sounds too good to be true.” So how does a consulting firm establish credibility? Through visible expertise, client success stories, referrals, and consistent knowledge-sharing. When credibility is there and it’s strong, prospects enter conversations with confidence. They have the evidence that the consultancy can be trusted.
+
+• Consistent, Proven Outcome Delivery: With value clarity a consulting firm gains prospects’ initial attention. Through credibility-establishing efforts, it engages the prospects in a conversation. Through a consistent, proven outcome delivery system, it closes the deal and maintains a strong relationship with the client throughout the lifecycle. Outcome delivery is the last piece of the puzzle. It’s about walking a prospect through the client success journey and making it easy for them to understand how the consultancy plans to take them from Point A to Point B. It enables prospects to make an informed decision with confidence. Equally importantly, it sets the expectations and assigns accountability from the start, eliminating surprises and misaligned expectations later on.
+
+Value Clarity: A consulting firm must be able to articulate who it helps, what problem it solves, and what outcomes clients can expect. This explanation should be clear and compelling. And I’m not talking about presenting a list of services. No, in fact, the list comes out later in conversations, when discussing the implementation roadmap. What I’m talking about is building a reputation for the ability to solve very specific business problems. This makes it easy for prospects to recognise themselves in a consulting firm’s messaging. Prospects don’t care about the list of services. They care about resolving high-stakes problems.
+
+Credibility: Even the most compelling value proposition will fail to attract clients if it is not supported by evidence. When prospects come across a consulting firm, their first thought shouldn’t be “this sounds too good to be true.” So how does a consulting firm establish credibility? Through visible expertise, client success stories, referrals, and consistent knowledge-sharing. When credibility is there and it’s strong, prospects enter conversations with confidence. They have the evidence that the consultancy can be trusted.
+
+Consistent, Proven Outcome Delivery: With value clarity a consulting firm gains prospects’ initial attention. Through credibility-establishing efforts, it engages the prospects in a conversation. Through a consistent, proven outcome delivery system, it closes the deal and maintains a strong relationship with the client throughout the lifecycle. Outcome delivery is the last piece of the puzzle. It’s about walking a prospect through the client success journey and making it easy for them to understand how the consultancy plans to take them from Point A to Point B. It enables prospects to make an informed decision with confidence. Equally importantly, it sets the expectations and assigns accountability from the start, eliminating surprises and misaligned expectations later on.
+
+*Recommended reading:Winning Consulting Clients: Start with Their Problem, Not with a Service List*
+
+### The Role of Outbound in Client Attraction
+
+Outbound strategies are valuable. However, they are most effective when used as a mechanism to engage prospects, not to deliver them in the first place.
+
+Even the most high-performing consulting firms only convert a portion of prospects. So what do you do with the rest? How do you keep the channels of communication open with prospects who are not yet ready to pull the trigger? You use outbound strategies – informative newsletters, periodical check-ins, invitations to events and webinars, relevant case studies, timely updates, and so on. This is done to stay visible, continue to nurture trust, and remain top of mind until the prospect is ready to engage fully.
+
+Such outbound efforts are significantly more likely to produce outcomes. These prospects are more likely to open an email from the consultancy they sought out in the first place, are more likely to attend a webinar, and more likely to read a case study and see themselves and their business problems reflected in it.
+
+## In Conclusion: Attraction Is Strategy. Chasing Is Panic.
+
+When revenue is declining, the instinct of many consulting firms to “do some outbound” is understandable. It feels like taking action. It’s something that can be measured.
+
+It is also a panic-driven reactionary decision. It does not solve the underlying problem. At best, it masks it for a little bit.
+
+So instead, I invite consulting leaders to dig deeper. Look at the foundations and identify the root causes of revenue problems.
+
+Redesigning these foundational elements and then building an attraction mechanism may sound overwhelming and “too long-term”, but I’ve discovered that it’s the only way to build a reliable, sustainable consulting business model.
+
+High-performing consulting firms do not chase prospects. They invest their resources in becoming the obvious choice for a well-defined problem. They invest time and energy into building and optimising delivery models. They constantly deepen their expertise and strive for clarity in messaging as a way to differentiate themselves.
+
+“Why aren’t the right prospects coming to us?” – that’s the question that consulting firms that find themselves in a revenue downfall should be asking themselves. And the answer typically doesn’t lie in “Because we didn’t chase prospects hard enough.”
+
+================================================================================
+
+# The Internal Org Chart Shouldn’t Dictate the Consultancy’s Go-to-Market Strategy, but in Most Firms, It Does
+
+**Autor:** Florian Heinrichs
+**Data:** 14 July 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-internal-org-chart-shouldnt-dictate-the-consultancys-go-to-market-strategy-but-in-most-firms-it-does
+
+---
+
+## The Invisible Anchor: Why Consulting Firms Sell Themselves
+
+Most consulting firms possess a significant, unacknowledged flaw at the heart of their commercial operations. The internal organizational structure, which is designed to manage talent and coordinate the delivery of work, has inadvertently become the primary driver of the go-to-market strategy. This represents a fundamental governance issue where the way the firm is organized – intended only for internal efficiency – defines how the firm communicates to the outside world. The consultancy lets its internal reporting lines become the blueprint for its external conversations, a decision that fundamentally misaligns the firm’s market voice with the client’s actual needs.
+
+This problem is universal, though it manifests differently depending on the firm's scale and evolution. In larger organizations, the internal structure is often a complex web of departments, practice areas, and specialized units, each competing for resources and visibility. In these environments, the internal filing system inevitably spills over into the market, as each unit attempts to claim its own space in the narrative.
+
+In smaller, growing boutiques, the structural issue takes a different form but leads to the same result. Here, powerful service-line leaders or vertical heads are often granted significant autonomy to drive their own commercial efforts. These leaders, who are responsible for delivering the work, naturally view the market through the lens of their own operational fiefdoms, building independent commercial motions that mirror the firm’s internal divisions rather than a coherent firm-wide strategy.
+
+Despite these differences in shape and scale, the underlying pathology is identical. Whether the firm is a global entity or a mid-sized boutique, the people responsible for delivering the service are also the people responsible for defining the market story. As a result, the commercial narrative is dictated by what the firm can do internally rather than by what the client is trying to solve externally. The consultancy inadvertently asks the prospect to decode the firm's internal organization chart to understand how the firm might address a business problem.
+
+The consequence for the client is a fragmented experience. They do not encounter a unified, authoritative perspective on their business issue or a clear path toward resolution. Instead, they are presented with a collection of disparate capabilities and service offerings, each projecting its own agenda and seeking its own revenue.
+
+The firm ends up selling its own identity and its internal structure, rather than the specific outcome the client requires. By letting the organizational structure run the go-to-market, the consultancy treats the client’s search for a solution as an exercise in navigating the firm’s internal politics, turning what should be a straightforward commercial relationship into an unnecessarily complicated navigation of the firm's own design.
+
+## How Internal Structure Locks In the Commercial Status Quo
+
+The link between a firm’s organizational structure and its go-to-market strategy is not a matter of cause and effect, but one of mutual reinforcement. Whether the firm is a large global entity or a growing boutique, the way its leaders are incentivized determines how the firm shows up in the market. When the people responsible for delivering the work are also responsible for the revenue of their specific practice or vertical, the consultancy inevitably defaults to capability-led selling.
+
+This is driven by a straightforward incentive trap. When internal leaders are accountable for the performance of their own units, they have a powerful motivation to keep their market positioning as broad as possible. They fear that narrowing the focus to a specific business issue might reduce their addressable market—or, worse, divert potential revenue to another part of the firm. In this context, selling a broad menu of capabilities feels like a safety net. It allows the leader to claim any opportunity that falls within their area of expertise, regardless of whether it aligns with a cohesive firm-wide narrative.
+
+This dynamic plays out in different structural formats, though the result remains the same. In larger organizations, the internal structure may be a complex web of practice lines, where the organization dictates how resources are allocated and who owns the profit and loss. Here, the structure compartmentalizes the firm into silos that compete for visibility.
+
+In smaller boutiques, the lack of a formal matrix does not prevent the same outcome. These firms often grant their service-line or industry leaders significant autonomy to build their own commercial motions to drive their specific targets. These leaders effectively operate as independent fiefdoms, managing their own narratives and resources.
+
+In both environments, the organizational structure creates a barrier that prevents the consultancy from speaking with a single voice. The structure effectively dictates the limits of the commercial imagination. This explains why moving toward a proposition-led approach is rarely just a strategic exercise. It is a political shift. To change how the firm speaks to the market, the consultancy must fundamentally change who holds the authority over the commercial message.
+
+That conversation inevitably touches on the status, identity, and revenue expectations of the senior leaders involved. It requires a difficult negotiation between the established autonomy of those who have spent years building their own market presence and the firm's strategic need to present a coherent story to the outside world.
+
+## The Governance Gap: Why Structural Fixes Fall Short
+
+The tension between internal structure and commercial strategy is a long-standing challenge. Many professional services firms have been wrestling with versions of it for years, and the responses – whether through communities of practice, centers of excellence, or various cross-sell initiatives – are well-intentioned. These efforts recognize that the current state is not working, and they attempt to solve the problem by reorganizing people into capability clusters rather than functional silos.
+
+These internal adjustments do accomplish something useful, as they separate the professional development of the experts from the day-to-day coordination of client engagements. In the language of organizational design, this begins to decouple the capability system from the value creation system, which is a necessary step. However, these firms have consistently stopped at internal reorganization, failing to change the underlying commercial governance.
+
+Because the go-to-market strategy remains tethered to the existing organization – whether that is defined by sectors, geographies, or legacy client relationships – the structural change becomes little more than an add-on. The internal cluster or the cross-sell initiative essentially sits atop an otherwise intact structure, leaving the commercial authority untouched. As a result, the story told in the market – the pitch logic and the business development motion – remains a direct reflection of the firm's internal departments rather than the reality of the client's situation.
+
+The consulting firm has addressed the internal talent problem, but the commercial problem remains entirely unresolved. The experts belong somewhere more coherent, but the way the firm shows up before a client is even looking remains a function of the organizational structure rather than of the client's situation. The firm has successfully optimized the internal half of the equation, but the external half is still waiting for a coherent strategy that is independent of how the firm is organized internally.
+
+## What Proposition-Led Actually Changes
+
+A proposition-led firm starts from the outside in. The foundational question isn't "what do we do?" but "what specific business issue do we own — and what does the path from that issue to resolution actually look like?"
+
+The answer to that second question is the client success journey: a sequence of milestones that takes a client from the problem that brought them to the firm to the outcome the firm has committed to deliver. It's designed around the client's experience of change, not around the firm's internal structure.
+
+Once that journey exists, something becomes possible that wasn't possible before:the internal organization can be designed as a consequence of the commercial model, rather than the other way around.
+
+The question that shapes the internal structure is no longer "how do we organize our capabilities?" It's "what capabilities, in what configuration, would a firm need to help clients move successfully along this journey?" That's a fundamentally different design question – and it produces a fundamentally different answer.
+
+Service lines and expertise clusters don't disappear. But their role changes. They stop being the primary commercial unit – the thing the firm leads with in market, the thing partners build their BD plans around. They become what they always should have been: the specialist depth the firm draws on to help clients take the next step.
+
+## One Go-to-Market. Three Levels of Specificity.
+
+One of the objections that surfaces reliably when this model is proposed is: "But my clients are different – I need my own positioning."
+
+It's worth taking seriously because the feeling behind it is legitimate. A practice lead who works exclusively with financial services clients on regulatory change has real, specific expertise. That expertise matters. The question is where it belongs in the commercial model.
+
+The answer is: later than they think.
+
+A proposition-led go-to-market operates at three levels, each doing a distinct commercial job.
+
+### Level 1 - The overarching value proposition
+
+The firm proposition is the top layer — the issue the firm owns, stated with enough clarity and conviction that the right strangers recognize themselves in it. This is what creates pull before a prospect is even looking. It belongs to the firm, not to any practice.
+
+### Level 2 - The contextual sub-propositions
+
+Sub-propositions zoom in on specific contexts where the firm's issue manifests in recognizable ways. They help prospects self-select – moving from "this firm understands something real about my world" to "this is exactly the situation I'm in." This is where the BD conversation becomes real, where interested contacts become genuine prospects.
+
+### Level 3 - Services and capabilities
+
+Services and capabilities only become the primary focus at the opportunity stage – when a specific client needs a specific answer to "what, exactly, will we do together?" That's when practice expertise enters the conversation, deployed in service of a journey the firm has already framed, not as a competing pitch.
+
+This isn't a diminishment of practice expertise. It's a more precise deployment of it. The expert is brought in at the moment their specificity actually matters – when there's a concrete client situation to apply it to – rather than being asked to carry a go-to-market they're not equipped to run and that the firm can't afford to run nineteen times over.
+
+Take a 120-person change management consultancy. They work across financial services, healthcare, and infrastructure. Three sectors, three practice leads, three BD budgets, three versions of what the firm is for.
+
+Under the old model, a COO at a mid-sized bank would encounter the financial services practice – its credentials, its case studies, its partners. If they happened to speak to someone from the healthcare team at a conference, they'd hear a different story. The infrastructure team wouldn't register at all. Three conversations, no throughline.
+
+Under a proposition-led model, that same COO encounters something different at each level.
+
+At the firm level, they constantly encounter thought leadership speaking to a specific problem: organizations that have committed to more change than their people can absorb – and are now watching execution fall short of everything the strategy promised. No sector mentioned. Doesn't need to be. The COO recognizes it immediately.
+
+At the sub-proposition level, the firm's financial services content zooms in: banks specifically, managing the compounding drag of regulatory change, digitalization programs, and post-merger integration running simultaneously through the same exhausted leadership layer. Now the COO isn't just nodding – they're forwarding it to the CEO.
+
+By the time they make contact, the firm's sector expertise enters the conversation naturally. Not as the opening pitch, but as the answer to "have you worked with firms like ours?" The practice knowledge is still there. It just arrives at the moment it's actually useful.
+
+The COO never had to decode an org chart. They followed a story that was written for them.
+
+## The Difficult Conversation
+
+None of this is straightforward to implement. The shift from an autonomously organized, structure-led BD motion to a firm-level proposition requires some conversations that most partnerships have been deferring for years.
+
+Senior experts accustomed to having their own go-to-market plan, marketing resources, and revenue line will experience this as a loss – at least initially. The reframe available to them is that what they're losing is a burden, not an asset: the overhead of running an independent commercial operation that, on most honest assessments, produces less pipeline per pound of effort than a firm-level proposition would.
+
+But that reframe is harder to land than it sounds, because the BD budget and the revenue target aren't just functional tools. They're signals of status and autonomy within the partnership. Changing who owns the go-to-market is, ultimately, a leadership decision about how the firm is governed – and it needs to be treated as such.
+
+The good news is that the commercial case is not subtle. A firm with one coherent go-to-market, differentiated as prospects move through the journey, is both more efficient (one BD motion, not nineteen) and more effective (the story the client hears is about their problem, not the firm's org chart). Those aren't marginal gains. They show up in win rates, deal size, and the firm's ability to attract the right work without partners constantly working their rolodexes.
+
+The firms that make this work are the ones that treat it as a strategic decision, taken at the partnership level, with the full acknowledgement of what it requires. It is not an org chart redesign. It is not a rebrand. It is a decision about what the firm stands for, and who is allowed to speak for it.
+
+That decision, once made, changes almost everything downstream.
+
+## Conclusion: Useful, but Dangerous
+
+Theinternal organizational structureis a useful operational tool, but a dangerous commercial one.
+
+Why a change makes sense: When the go-to-market is built on internal silos, the consulting firm forces clients to navigate an org chart rather than solve their business problems. It creates friction, inefficiency, and fragmented storytelling. The consultancy ends up selling its internal structure rather than its value.
+
+How to shift the model: The consultancy must shift its foundation from "what the firm does" to "what issue the firm owns." This is not an org chart redesign or a rebrand, but a strategic leadership decision to reorient the firm around the client’s journey. By anchoring the commercial model on specific business problems and deploying specialized expertise only where it advances the client's success, the consulting firm replaces disconnected silos with a single, coherent, and authoritative market voice.
+
+The decision is simple but requires courage: let the commercial proposition dictate the organization, not the other way around.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
 
 ================================================================================
 
@@ -3802,6 +4062,68 @@ An outcome-based proposition helps a consulting firm sell with more precision be
 Here's an excellent LinkedIn comment fromJonathan Hughes:“The majority of consulting engagements are simply not large enough in scope such that the consultant can deliver a meaningful outcome. AI is not going to cause clients to award consultants projects with vastly larger scope so they can pay for outcomes. Even outsourcing contract fees are not fully outcome based."
 
 Outcome-based propositions should be encouraged. Outcome-based pricing should be treated with caution.
+
+## And What About Value-Based Pricing?
+
+Value-based pricing is a dangerous open door for consulting customisation.
+
+That may sound counterintuitive.
+
+After all, value-based pricing is often presented as the future of consulting. Premium positioning, strategic conversations, higher fees, and better alignment with client impact.
+
+But in our experience, many consulting firms walk straight into a dangerous trap when they start discussing value-based pricing too early.
+
+The moment the conversation becomes “the client value is unique,” many consulting firms start justifying broader scopes, more tailoring, more exceptions, and more delivery flexibility.
+
+• every project becomes “special”
+
+• every client context requires reinvention
+
+• every proposal becomes harder to scope
+
+• every delivery team improvises differently
+
+• every outcome becomes harder to predict
+
+every project becomes “special”
+
+every client context requires reinvention
+
+every proposal becomes harder to scope
+
+every delivery team improvises differently
+
+every outcome becomes harder to predict
+
+The consulting firm slowly moves away from repeatability, codification, pattern recognition, and baseline data. Outcome variance increases, delivery confidence weakens, and trust becomes personality-dependent (most of the time, only a few senior people can handle the value discussion).
+
+Ironically, the commercial foundations required for strong value-based pricing start disappearing.
+
+In our observation, strong value-based pricing comes downstream from a well-defined consulting value proposition with the discipline of enough repetition to reduce outcome variance.
+
+That usually requires:
+
+• a narrow enough focus
+
+• repeated exposure to similar business issues
+
+• codified delivery patterns
+
+• proof of reliable outcomes
+
+• and enough consistency for buyers to trust the commercial logic
+
+a narrow enough focus
+
+repeated exposure to similar business issues
+
+codified delivery patterns
+
+proof of reliable outcomes
+
+and enough consistency for buyers to trust the commercial logic
+
+Without those foundations, value-based pricing can easily become a commercial justification for more improvisation, more customisation, and more delivery variance.
 
 ## Outcome-Selling – Where To Begin
 
