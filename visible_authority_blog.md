@@ -1,7 +1,393 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 125 artykułów
+**Pobrano:** 127 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Consulting Has a Revenue Quality Problem
+
+**Autor:** Luk Smeyers
+**Data:** 22 September 2026
+**Link:** https://www.thevisibleauthority.com/blog/consulting-has-a-revenue-quality-problem
+
+---
+
+For decades, consulting firms have grown by selling expert capacity. Smart people, organised into projects and teams, monetised by the hour/day. It has been an extraordinarily successful business model, and it still generates most of the revenue in many consulting firms.
+
+However, we increasingly see the same challenge across these consultancies: difficulty winning new clients and building a predictable revenue pipeline without compromising on pricing or stretching resources thin by continually customising pitches and project delivery.
+
+This challenge is not temporary. And no type of consultancy is immune to it. These consultancies struggle because of a combination of internal and external pressures that have emerged as the industry has evolved.
+
+While it may not be possible to walk away entirely from the capacity-selling model – nor would I advise any consulting firm to do so – it is worth considering rebalancing it with value-led work. This will help protect existing revenue while facilitating scaling and a healthy pipeline.
+
+## The Four Pressures Shaping the Consulting Ecosystem
+
+The consulting market didn’t change overnight. It has been shaped by years, and sometimes decades, of forces that define both how buyers make their decisions and how consulting firms operate. So attributing the current state of the market to a single element would be foolish.
+
+Having said that, these are the four macro forces that have had the biggest impact on the traditional consulting model in recent years:
+
+### #1. The AI Double Squeeze
+
+Many consulting firms have developed a revenue stream of small, ad hoc projects: quick-turn surveys, basic segmentations, competitor scans, and ‘rapid insight’ decks, ahead of e.g., board meetings or strategy off-sites.
+
+Traditionally, a pyramid of juniors delivered these small, order-take-like projects by designing questionnaires, cleaning data, coding open‑ended responses, and assembling slide decks under senior supervision.
+
+However, the rise of AI and automation tools has been increasingly shifting this type of work in-house. The result? Consulting firms have started cutting junior roles that would normally handle this type of work.
+
+With these volumes dropping, this type of work gets (unfortunately) pushed directly onto senior experts (and sometimes even partners).
+
+The AI double squeeze therefore manifests as:
+
+• Revenue pressure due to the decline of small, order-taker type of work
+
+• Cost pressure because higher‑cost specialists are dragged into work that used to be leveraged.
+
+The AI double squeeze is a new reality in consulting firms (or practices/verticals) of all sizes.
+
+### #2. Commercial Sameness
+
+Consulting firms increasingly look and sound alike. AI has made consulting even more sameness-y.
+
+Consulting firms already struggled to differentiate before AI arrived. Now, every consultancy can produce polished messaging, thought leadership, capability descriptions, proposals, frameworks, and insights at unprecedented speed.
+
+The narrative may look impressive, but the market is filling up with more of the same.
+
+Too many consulting firms sit under the same capability roofs, use similar language, and offer buyers too little (if any) reason to understand why a consulting firm is particularly relevant to a specific situation.
+
+That big, ugly sameness creates a huge differentiation urgency.
+
+### #3. Buyer Hesitation
+
+Client hesitation is the silent deal-breaker of consulting proposals.
+
+Consulting firm leaders tell us the same story again and again. A prospect shows genuine interest, asks thoughtful questions, and even agrees to a proposal. And then… nothing. Calls aren’t returned. Emails go unanswered. Deals drift into limbo, not because the offer was wrong but because the buyer couldn’t decide.
+
+Decision hesitation has become one of the most underestimated barriers to growth in consulting. It’s not a lack of awareness. It’s not even the competition. It’s the prospect’s own fear of choosing “wrong” that stalls momentum.
+
+*Recommended reading:How Consulting Firms Can Overcome Prospects’ Indecisiveness*
+
+### #4. Budget Pressures
+
+Consulting budgets face greater scrutiny. Buyers are under increasing pressure to justify expenditures on external partners and to demonstrate justifiable business impact of such engagements.
+
+Of course, consulting as an industry is still in high demand. However, buyers have changed how they evaluate consulting firms.
+
+Loosely defined work becomes harder to defend when buyers need a stronger economic case. Buyers are not looking for consulting firms that canhelp them with digital transformation using cutting-edge technologies. They are looking for high-impact, measurable outcomes that address meaningful business challenges.
+
+In a way, the pressure is less about the budgets and more about the tangible, demonstrable value.
+
+## The Shift: From Capacity-Led Towards Value-Led Work
+
+Because these pressures are negatively impacting consulting firms’ revenue, we believe consulting firms need to shift a larger share of their revenue from capacity-led to value-led work.
+
+We increasingly believe the next stage of consulting requires a different design principle:Start with the value the consulting firm wants to create. Then design the business backwards from there.
+
+We call this The Shift.
+
+The Shift is the progressive redesign of a consulting firm around where it creates the greatest client value and how its expertise can repeatedly deliver that value. The ambition is to transform expertise and intellectual capital into repeatable client value and superior commercial performance.
+
+It’s about consulting firms deliberately redesigning how expertise travels through the business and becomes client value.
+
+There are eight foundations for making The Shift:
+
+### #1. Deliberate Value Focus
+
+The first step is making choices – more specifically, choosing where the consulting firm wants to create meaningful client value.
+
+It is simply impossible to build distinctive expertise around every problem, every client type, and every industry. Not in a way that would create value from the consulting work.
+
+So the consulting firm needs to determine where it has the ability to create meaningful value for clients. That means being very clear about the problem it solves, the context, and the outcomes it delivers.
+
+### #2. Evidence from the Best Work
+
+The next step is to find recurring problems, patterns, expertise and outcomes in the strongest engagements.
+
+In fact, a common concern among consulting leaders when we discuss proposition (re)design is that they expect to have to reinvent everything: services, processes, client segments, even expertise. This is the opposite of what we advise.
+
+In reality, most consulting firms already have a significant database of past engagements. The problem is that most of it is unorganised, unsystematised, and underutilised.
+
+The answer lies in reviewing past work and identifying engagements where the consulting firm delivered exceptional value, earned high fees, built strong client trust, and delivered work that resulted in referrals.
+
+Are there patterns in these successful engagements? A common thread across the type of problem that got solved, the processes that were implemented, or the type of client that the service was delivered to?
+
+### #3. Codified Expertise and Intellectual Capital
+
+Step #3 is turning accumulated experience into firm-level IP that can be reused and improved.
+
+Here, I’m referring to methodologies, processes, tech stacks, frameworks, datasets, templates, and other assets – everything that can be codified and continuously improved.
+
+While some consulting leaders may fear this creates rigid boundaries around work, I would argue those boundaries help build expertise and intellectual capital over time, reduce costs, and deliver consistent, predictable results for clients.
+
+### #4. Specific, High-Value/High-Stakes Propositions
+
+Once the problem is defined and evidence from past work is aggregated, consulting firms should translate that expertise into propositions around defined problems, contexts, and outcomes.
+
+This means moving away from service lists and vague, generic promises – the sameness of it all.
+
+Strong propositions very clearly communicate to both clients and internally what problem the consulting firm addresses, what the context is, what the outcome is, and how that outcome is delivered.
+
+*Recommended reading:The Problem with Consulting Firms’ Outcome Claims*
+
+### #5. Repeatable Client Value Creation
+
+High-performing consultancies are able to achieve outstanding profit margins because (1) they can justify charging premium fees for the value of work they deliver; (2) they have optimised their costs through repetition.
+
+That’s why the next step is to build a proven path consulting firms can repeatedly apply and contextualise.
+
+Another advantage of repeatable client value creation is that it builds trust with prospects and helps convert them into clients. When a consulting firm can clearly communicate how it will take a client from Point A to Point B and what success looks like, the client feels more informed and better equipped to decide.
+
+### #6. Systematic Proof
+
+Ideally, every client engagement should reinforce the proposition. That’s why it’s important to capture outcomes and evidence – to be able to evaluate the process and continue to optimise it to strengthen the outcomes of the next engagement.
+
+This evidence should be distributed internally. It should make its way to every aspect of the business – sales pitches, work delivery, marketing, and so on. The goal is to create an ecosystem that systematises proof and acts upon it.
+
+### #7. A Commercial System Built around Value
+
+Internal alignment is crucial – aligning education, marketing, sales, and pricing around the value the consulting firm creates.
+
+Marketing should educate the market about the problems the consultancy understands exceptionally well. Sales should qualify prospects and offer initial diagnoses of possible root causes and a potential improvement plan. Pricing should reflect the value of the engagement.
+
+To what end? To create a commercial system that revolves around why the work matters and who it matters to rather than around the labour and tech resources (capacity) the consulting firm would need to utilise.
+
+### #8. Economics Rewarding Repeatability
+
+Ultimately, the Shift needs to be measured. That’s why consulting firms should track whether expertise is becoming more commercially productive through stronger margins, pricing, revenue quality, and improving Revenue/FTE.
+
+Does the expertise compound? To measure that, consulting firms can look at several indicators:
+
+• Is the delivery speed improving?
+
+• Is there continuous pushback on the pricing?
+
+• Is marketing capturing more qualified leads?
+
+• Is the sales cycle getting shorter?
+
+• How many clients have we acquired through referrals this year compared to last year?and so on.
+
+Is the delivery speed improving?
+
+Is there continuous pushback on the pricing?
+
+Is marketing capturing more qualified leads?
+
+Is the sales cycle getting shorter?
+
+How many clients have we acquired through referrals this year compared to last year?
+
+## In Conclusion: Progressively Redesigning Revenue Models
+
+The Shift will be progressive. Existing revenue models will coexist with the emerging model, likely for years.
+
+But the direction matters.
+
+The consulting firms that deliberately turn accumulated expertise into increasingly repeatable client value can make every successful project strengthen the economics of the next one.
+
+Value-led work starts with greater specificity around the problems a consulting firm repeatedly solves, the context in which it creates the most value, the outcomes it can credibly influence and the path it repeatedly uses to get there.
+
+One question deserves a place on the leadership agenda:
+
+"How much future growth should continue to come from adding labour, and how much can come from getting better at monetising expertise and intellectual capital?"
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+================================================================================
+
+# The Consulting Firm Trust Trap: Why Buyers Click Away
+
+**Autor:** Luk Smeyers
+**Data:** 08 September 2026
+**Link:** https://www.thevisibleauthority.com/blog/the-consulting-firm-trust-trap-why-buyers-click-away
+
+---
+
+Many consulting leaders are responding to today's market pressures by investing in sales, marketing, pricing, training, or delivery.
+
+I get it. When revenue slows because of a lack of demand, the natural instinct is to look at the immediate causes: sales could be more efficient with better tech tools, marketing could capture more leads if it casts a wider net, lower pricing could help nudge prospects to convert, and so on.
+
+Now there is nothing wrong with those initiatives, but they only improve performance if the underlying commercial foundation is already strong. It is one of our biggest learnings in the past years.
+
+In our experience, this more important – and fundamental – question that must come first is:
+
+“What creates enough trust for a buyer to choose one consulting firm over another?”
+
+The answer rarely lies in “sending more outbound campaigns” or “adding more services and reducing pricing”. The answer is at the foundational level.
+
+## Why the Consulting Proposition Comes First
+
+Many consulting firms treat proposition design as an exercise in positioning or marketing. It’s not. When done right, proposition design is about determining the parameters of how a consulting firm operates, which, in turn, then impacts every aspect of running the consultancy: sales, marketing, delivery, employee onboarding, etc.
+
+A strong proposition determines:
+
+• who the consulting firm caters to,
+
+• what issues it resolves for these clients,
+
+• how it delivers the value,+so much more
+
+who the consulting firm caters to,
+
+what issues it resolves for these clients,
+
+how it delivers the value,+so much more
+
+While sales and marketing amplify a proposition, they can't compensate for its absence.
+
+*Recommended reading:How to Test a Consulting Value Proposition With Three Simple Questions*
+
+## The Building Blocks of Buyer Trust
+
+Trust with potential buyers is built when these three conditions are created and used to reinforce each other:
+
+### Problem
+
+A specific business issue, in a defined client context, connected to a meaningful outcome.
+
+“We help companies with digital transformation” is not it.
+
+Rather, it should make it clear that a consulting firm understands the buyer’s problem:
+
+• It understands the actual client challenge.
+
+• It is clear about the types of clients the consultancy helps fix the issue.
+
+• It explains the context of the challenge.
+
+• It knows why resolving this challenge matters.
+
+• It defines what meaningful outcomes can be accomplished.
+
+The more precisely a consulting firm defines the problem, the easier it is for the buyers to recognise themselves in the proposition.
+
+This recognition creates relevance and initial interest.
+
+### Proof
+
+Repeated expertise and outcome evidence that show the consulting firm has solved this problem before.
+
+Trust is not created out of thin air. Consulting firms can’t conjure up trust by bombarding prospects with vague promises and generic terms like transformation, innovation, or cutting-edge. Clients don’t want cutting-edge solutions. They want solutions that work.
+
+That’s why it is imperative that consulting firms offer evidence:
+
+• Demonstrates repeated experience in resolving the same challenge for a specific audience;
+
+• Presents relevant case studies and testimonials;
+
+• Displays expertise through pattern recognition;
+
+• Explains what type of buyers or context the solutions are not applicable for just as well as who would benefit the most.
+
+Demonstrates repeated experience in resolving the same challenge for a specific audience;
+
+Presents relevant case studies and testimonials;
+
+Displays expertise through pattern recognition;
+
+Explains what type of buyers or context the solutions are not applicable for just as well as who would benefit the most.
+
+An important distinction is the ability to present repeated proof rather than isolated case studies – it points to proven methodologies that were developed, refined, and implemented consistently over time.
+
+### Path
+
+A credible route from issue to outcome that gives buyers confidence in how success will be achieved.
+
+Even if buyers believe a consulting firm understands the problem and has solved it successfully in the past, they need to feel fully informed to make the decision. Helping buyers understand the path the consulting firm will guide them on is the final stepping stone.
+
+The path – or client success journey – answers questions like:
+
+• How do we get started?
+
+• What happens next?
+
+• What does accountability look like?
+
+• How does the work lead to the desired outcome?
+
+• What are the success metrics along the way?
+
+How do we get started?
+
+What happens next?
+
+What does accountability look like?
+
+How does the work lead to the desired outcome?
+
+What are the success metrics along the way?
+
+Designing the Consulting Proposition
+
+Miss one of these three conditions, and trust starts to weaken.
+
+• Problem without Proof: “The consultancy understands us, but can they actually solve the problem?”
+
+• Proof without Problem: “The consultancy has impressive experience, but is it actually relevant for us?”
+
+• Problem + Proof without Path: “The consultancy seems credible, but how will it actually work?”
+
+• Problem + Path without Proof: “The consultancy understands us and seems to have a plan, but how do we know it will actually work?”
+
+• Problem + Proof + Path: “They understand us, they’ve solved this problem successfully many times, and I understand how they will get us there.”
+
+Problem without Proof: “The consultancy understands us, but can they actually solve the problem?”
+
+Proof without Problem: “The consultancy has impressive experience, but is it actually relevant for us?”
+
+Problem + Proof without Path: “The consultancy seems credible, but how will it actually work?”
+
+Problem + Path without Proof: “The consultancy understands us and seems to have a plan, but how do we know it will actually work?”
+
+Problem + Proof + Path: “They understand us, they’ve solved this problem successfully many times, and I understand how they will get us there.”
+
+Get all three right, and the consulting firm becomes easier to understand, trust, and choose. That’s when it becomes ahigh-performing consultancy.
+
+## Why Capability Statements and Service Lists Aren’t Enough
+
+Many consulting firms communicate through capability statements and service lists.
+
+I am not saying those things aren't important. They matter. But leading with a capability statement creates a gap – one that most buyers will not have the time or patience to figure out.
+
+Capability statements don't help buyers choose. They simply state everything a consulting firm can do. Which means important questions that buyers are asking when evaluating a consulting firm go unanswered:
+
+• Do they understand our challenge?
+
+• Do they know how to solve it in a structured, clear way?
+
+• Have they done it before?
+
+• Are we the types of clients they have solved this issue successfully for in the past?
+
+• Do they sound too good to be true?
+
+Do they understand our challenge?
+
+Do they know how to solve it in a structured, clear way?
+
+Have they done it before?
+
+Are we the types of clients they have solved this issue successfully for in the past?
+
+Do they sound too good to be true?
+
+These gaps are difficult to fill later. It becomes an uphill battle to overcome one objection after another.
+
+Leading with a list of services or capabilities is also how consulting firms end up in the sameness zone. Clients see nothing that stands out.
+
+*Recommended reading:Winning Consulting Clients: Start with Their Problem, Not with a Service List*
+
+## In Conclusion: Mastering Trust-Building to Create a High-Performing Consultancy
+
+Designing the consulting proposition creates a commercial foundation that builds buyer trust and shapes new client attraction, pricing power, expertise compounding, delivery consistency, and ultimately consulting firm performance.
+
+Watch out: the market is becoming less forgiving!
+
+The consulting firms that outperform will not be those that communicate more effectively. They will be those that make deliberate choices about the problems they solve, build repeated expertise around those problems, and give buyers a credible reason to trust that the desired outcome can be achieved.
+
+The takeaway is simple: trust is not built by saying more. It comes from combining the right problem, credible proof, and a believable path to the outcome.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
 
 ================================================================================
 
@@ -1273,7 +1659,7 @@ Interested in receiving all our learnings to build a better consulting firm?Subs
 
 ---
 
-This article was last updated on 24 March 2026.
+This article was last updated on 24 August 2026.
 
 ## The setting: a storm of complexity, risk, and scale
 
@@ -1322,6 +1708,26 @@ In that sense, the roadmap functioned as a client success journey. It translated
 For an organisation navigating a merger of this scale, this level of detail transformed uncertainty into something that could be understood, planned for, and governed. The consulting firm turned an overwhelming, chaotic situation into a sequence of manageable, transparent steps built on deep experience.
 
 *Recommended reading:Building a Winning Consulting Value Proposition*
+
+## Productisation: the core vs. the edge
+
+I have rarely seen a consulting firm demonstrate productisation this convincingly in a pitch. They clearly distinguished what remained fixed and proven from what would be configured to the specific client context.
+
+The core contained the accumulated experience: the data, the proven path, the critical decision points, the stakeholder engagement logic, the risk patterns, and the expected outcomes. Years of repetition had allowed the firm to test, refine, and codify these elements. That fixed core gave the client confidence that the consulting firm already knew what it was doing.
+
+Around that core, there was considerable flexibility. The sequencing, emphasis, language, stakeholder involvement, and parts of the execution plan could be configured to the realities of this specific merger.
+
+That distinction became remarkably clear during the pitch:
+
+• Thefixed core built trust through proven repeatability
+
+• The configurable edge demonstrated relevance to the client’s context
+
+Thefixed core built trust through proven repeatability
+
+The configurable edge demonstrated relevance to the client’s context
+
+And I believe it played an important role in the client’s decision. That is consulting productisation at its best:repeatability without rigid standardisation.
 
 ## Predictable outcomes as a result of reduced variance
 
