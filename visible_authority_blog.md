@@ -1,7 +1,305 @@
 # The Visible Authority - Pełna Baza Artykułów
 
-**Pobrano:** 127 artykułów
+**Pobrano:** 129 artykułów
 **Źródło:** https://www.thevisibleauthority.com/blog
+
+================================================================================
+
+# Why Consulting Firms’ Testimonials Are Completely Useless
+
+**Autor:** Luk Smeyers
+**Data:** 20 October 2026
+**Link:** https://www.thevisibleauthority.com/blog/why-consulting-firms-testimonials-are-completely-useless
+
+---
+
+“Great team to work with! Super responsive, highly professional, and felt like a true extension of our internal team.”
+
+Sound familiar? Most readers have almost certainly seen some variation of this exact quote on dozens of consultancy websites. It’s polite, positive, and entirely useless.
+
+Every year, we review hundreds of consulting firms. Almost all of them fall into the exact same trap: mistaking polite praise for proof of commercial value. But in a crowded, uncertain market where risk-averse buyers fear making an expensive mistake, generic feedback does zero heavy lifting. It doesn't build trust, reduce perceived risk, or persuade anyone to sign a proposal.
+
+So what kind of feedback should consultancies actually be gathering? And what does real "commercial proof" look like when put on a website, inside sales proposals, or across a marketing strategy?
+
+## The Commercial Cost of Polite Praise
+
+Most website testimonials are completely forgettable because they focus on basic baseline expectations. Buyers already assume a consulting firm is professional, easy to talk to, and responsive. Calling those traits out doesn't differentiate a firm; it just states the obvious.
+
+The core problem here is perspective. Most firms gather testimonials from the inside out (they want to broadcast how nice they are to work with). But prospective clients look from the outside in. They aren't shopping for new friends; they want to know whether a consultancy can solve their specific, high-stakes business problem without blowing their budget or risking damage to their careers.
+
+When firms realise their client quotes aren't hitting the mark, they usually make the mistake of sending out standard, superficial post-project surveys. Unsurprisingly, weak questions yield soft, generic answers. If you want compelling evidence of impact, stop asking polite, surface-level questions and start asking sharp, interrogation-grade questions focused squarely on commercial value.
+
+• Weak: What problem did previous clients face? →Sharp: What high-stakes commercial risk or bottleneck threatened their performance?
+
+• Weak: What changed because of the engagement? →Sharp: What fundamental operational or strategic pivot occurred during the project
+
+• Weak: What measurable impact was created? →Sharp: What top-line growth, margin expansion, or hard financial savings resulted?
+
+• Weak: What became possible afterwards? →Sharp: What new competitive advantages or market opportunities unlocked post-engagement?
+
+• Weak: What risk was reduced? →Sharp: How specifically was execution failure or financial waste mitigated?
+
+• Weak: How did expertise translate into outcomes? →Sharp: What direct ROI or payback period did the consultancy deliver?
+
+Weak: What problem did previous clients face? →Sharp: What high-stakes commercial risk or bottleneck threatened their performance?
+
+Weak: What changed because of the engagement? →Sharp: What fundamental operational or strategic pivot occurred during the project
+
+Weak: What measurable impact was created? →Sharp: What top-line growth, margin expansion, or hard financial savings resulted?
+
+Weak: What became possible afterwards? →Sharp: What new competitive advantages or market opportunities unlocked post-engagement?
+
+Weak: What risk was reduced? →Sharp: How specifically was execution failure or financial waste mitigated?
+
+Weak: How did expertise translate into outcomes? →Sharp: What direct ROI or payback period did the consultancy deliver?
+
+Asking sharper questions forces clients past polite fluff and brings the actual commercial proof to the surface. Without that detail, testimonials remain well-meaning noise that fails to persuade anyone.
+
+## The Era of Scepticism: Why Commercial Proof is Non-Negotiable
+
+Why is this shift so urgent right now? Look at the market. Consulting is more crowded than ever, and AI is rapidly eating away at routine, advisory-lite work as clients automate basic workflows internally. Today's buyers evaluating major consulting engagements are deeply risk-averse and naturally sceptical of bold promises. To de-risk a decision, they need solid, verifiable proof before committing a real budget.
+
+Standing out takes far more than slick positioning statements – it requires real proof embedded across every single buyer touchpoint.
+
+Cutting through the noise always starts with a clear value proposition. Buyers need to understand what specific problem a consulting firm fixes, how it approaches the work, and which similar organisations it has successfully helped in the past.
+
+You can have the most compelling promise on the market and a flawless delivery methodology, but without concrete evidence, prospective clients simply won't cross the trust gap.
+
+*Recommended reading:The Consulting Firm Trust Trap: Why Buyers Click Away*
+
+To give buyers the proof they actually need, every case study and testimonial story should be built around five fundamental elements:
+
+• The problem:What specific business challenge was the client facing before the engagement?
+
+• The context: What were the client’s circumstances and inside/outside pressures when they came to this consulting firm?
+
+• The stakes: Why did the problem matter, and what was the risk if it remained unaddressed?
+
+• The intervention: What did the consultancy actually do, and why is this approach better than that of competitors?
+
+• The outcome and impact: What changed as a result of engaging this consulting firm? How can this impact be quantified? What are the immediate and long-term benefits?
+
+The problem:What specific business challenge was the client facing before the engagement?
+
+The context: What were the client’s circumstances and inside/outside pressures when they came to this consulting firm?
+
+The stakes: Why did the problem matter, and what was the risk if it remained unaddressed?
+
+The intervention: What did the consultancy actually do, and why is this approach better than that of competitors?
+
+The outcome and impact: What changed as a result of engaging this consulting firm? How can this impact be quantified? What are the immediate and long-term benefits?
+
+Not every short testimonial can cover all five of these points in detail, of course. But treating this framework as the default baseline for capturing client proof changes everything.
+
+These deeper conversations also help clients clarify and quantify the value of the work for themselves. When they truly understand the impact delivered, their word-of-mouth referrals become vastly more compelling.
+
+## Unlocking the Evidence Hiding in Plain Sight
+
+In our work with consulting firms, we repeatedly see leaders sitting on a goldmine of client results. The problem? They lack a simple system to gather those insights and turn them into regular market communication.
+
+Here is an exercise that consultancies should put on their immediate agenda: a “Best Engagement Review.”
+
+Here is how to run it:
+
+• Step 1: The Crown Jewel Audit. Audit 10-15 of the consultancy's highest-impact engagements from the past two years. Target the flagship wins: projects that commanded premium fees, unlocked recurring revenue, or forged long-term enterprise partnerships.
+
+• Step 2: Pattern Extraction. Isolate recurring DNA across wins. Decode the exact client profiles, high-stakes triggers, delivered interventions, and hard economic outcomes that made these specific engagements successful, and why clients chose the firm over competitors.
+
+• Step 3: Edge Identification. Pinpoint an unfair advantage through the client’s lens. Identify the precise business problems where the firm yields disproportionate ROI, leveraging its unique methodologies and specialised capabilities.
+
+• Step 4: Proof Weaponisation. Convert raw client insights into high-converting commercial assets. Package quantified metrics, strategic breakthroughs, and unassailable case studies directly into core market positioning and sales collateral.
+
+• Step 5: Process Systematisation. Systematise the process to capture high-stakes proof at key project milestones. Turn proof collection into a repeatable operational habit that continually refreshes the pipeline with sharp, relevant evidence of client impact.
+
+Step 1: The Crown Jewel Audit. Audit 10-15 of the consultancy's highest-impact engagements from the past two years. Target the flagship wins: projects that commanded premium fees, unlocked recurring revenue, or forged long-term enterprise partnerships.
+
+Step 2: Pattern Extraction. Isolate recurring DNA across wins. Decode the exact client profiles, high-stakes triggers, delivered interventions, and hard economic outcomes that made these specific engagements successful, and why clients chose the firm over competitors.
+
+Step 3: Edge Identification. Pinpoint an unfair advantage through the client’s lens. Identify the precise business problems where the firm yields disproportionate ROI, leveraging its unique methodologies and specialised capabilities.
+
+Step 4: Proof Weaponisation. Convert raw client insights into high-converting commercial assets. Package quantified metrics, strategic breakthroughs, and unassailable case studies directly into core market positioning and sales collateral.
+
+Step 5: Process Systematisation. Systematise the process to capture high-stakes proof at key project milestones. Turn proof collection into a repeatable operational habit that continually refreshes the pipeline with sharp, relevant evidence of client impact.
+
+## Closing the Gap: Asking for Proof, Not Praise
+
+Consultancies should stop asking clients to "leave a review" or "give a testimonial" at the end of a project. It's too vague, and it almost always guarantees generic responses about how great the team was.
+
+Instead, ask clients to describe, in their own words, the exact problem they faced, what changed during the work, and the tangible outcome achieved. Make this conversation a standard, non-negotiable step in the offboarding routine.
+
+The strongest proof of a firm’s value already exists inside its clients' organisations. Consultancies must stop waiting for it to show up on its own and start asking the questions that bring it to light.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+================================================================================
+
+# A Weak Consulting Pipeline? Stop Asking the Wrong Questions to Fix It.
+
+**Autor:** Florian Heinrichs
+**Data:** 06 October 2026
+**Link:** https://www.thevisibleauthority.com/blog/a-weak-consulting-pipeline-stop-asking-the-wrong-questions-to-fix-it
+
+---
+
+Most consulting firms make their decisions based on the wrong metric.
+
+We see this a lot in our conversations with consulting leaders – firms tracking the volume of work in their pipelines:
+
+• Number of leads generated this quarter
+
+• Number of sales pitches delivered last month
+
+• Number of proposals submitted in H1
+
+• Number of new clients closed in the last fiscal year
+
+Number of leads generated this quarter
+
+Number of sales pitches delivered last month
+
+Number of proposals submitted in H1
+
+Number of new clients closed in the last fiscal year
+
+Tracking these numbers is fine, of course. The trouble comes when consulting firms use the volume metric of their pipeline to answer the wrong questions.
+
+So what question should consulting firms be asking, and what metric can guide their decision-making?
+
+That’s what I’d like to discuss in this article.
+
+## Why Tracking Volume in Consulting Pipelines Is Not Sufficient
+
+Volume metrics are great – they can help identify gaps and opportunities, optimise campaigns, improve decision-making around marketing channels, etc. However, volume metrics are secondary. They don’t reveal the foundational factors that could be affecting the pipeline.
+
+The metric that does, on the other hand, offer deeper insights isvelocity– i.e., how fast qualified conversations move to a decision.
+
+And slow velocity, consistently, is a really helpful indicator, because it almost always points to a proposition issue. Here's what it typically means:
+
+• Relevancy issue: The buyer isn't sure enough about the fit to move forward.
+
+• Low urgency: The problem does not feel important enough for buyers to justify action now.
+
+• Unclear value: The buyer may understand what the firm does but is unclear how their situation will change as a result.
+
+• Weak differentiation: The firm sounds like dozens of others on the market.
+
+• Weak pricing power: The firm fails to justify its pricing by communicating the value it can deliver.
+
+Relevancy issue: The buyer isn't sure enough about the fit to move forward.
+
+Low urgency: The problem does not feel important enough for buyers to justify action now.
+
+Unclear value: The buyer may understand what the firm does but is unclear how their situation will change as a result.
+
+Weak differentiation: The firm sounds like dozens of others on the market.
+
+Weak pricing power: The firm fails to justify its pricing by communicating the value it can deliver.
+
+As a result, every conversation starts from scratch. The firm has to explain what it does, why it's relevant, why this engagement would be different, and why the fee is justified. Proposals are long because they have to carry the full weight of persuasion. And even then, the decision drags because the buyer is still working out where this firm fits, how relevant it really is, and whether it feels like the safest choice.
+
+And in most cases, we see this isn't a sales execution issue but a weak proposition showing up in the sales cycle.
+
+So when consulting firms look at the low volume metrics, they tend to make decisions along the lines of:
+
+• We should invest more in marketing.
+
+• Let’s increase the number of cold outreaches.
+
+• We need to do sales training.
+
+• Let’s hire a business development executive.
+
+• How about trying out this AI-enabled solution that will personalise and automate campaigns?
+
+We should invest more in marketing.
+
+Let’s increase the number of cold outreaches.
+
+We need to do sales training.
+
+Let’s hire a business development executive.
+
+How about trying out this AI-enabled solution that will personalise and automate campaigns?
+
+None of these decisions will help address the foundational problem: the weak consulting proposition. Sure, you may generate more leads and add a few more clients to the pipeline. But it will always feel like rowing against a tide. The pressure will continue accumulating, and even the smartest sales tricks will eventually stop working.
+
+## What High-Performing Consulting Firms Do Differently
+
+One of the things that we observe at high-performing consulting firms is the fast velocity of their pipelines.
+
+When a firm has a clear point of view on a recognisable business issue, a credible path to resolution, and evidence that it's done this before, the right buyers won't need convincing. They'll only need confirmation.
+
+The conversation compresses because the buyer's internal decision-making compresses. They already understand the value. They already recognise their situation in the firm's story. The sale was half-made before anyone picked up the phone.
+
+High-performing consulting firms put more effort into ‘upstream work’, as we call it:
+
+• Making deliberate proposition choices: They are clear about the problems they solve, for whom, and how their expertise creates value. They are just as specific about who they help as about who falls outside of their scope. This lets them prequalify leads, drastically improving the quality of the conversations that follow.
+
+• Codifying expertise: They don't rely on senior experts to do the heavy lifting of promoting the consultancy. The consulting firm becomes recognisable on the market for its proven approach to solving specific client problems.
+
+• Building evidence around repeatable, predictable outcomes: They invest time and resources in building a library of case studies, results-focused testimonials, and impactful referrals. They can confidently promise specific outcomes because they have documented proof they can deliver it.
+
+• Making value clear: They avoid generic language and grandiose promises. These consulting firms are precise and consistent about the value they deliver, allowing buyers to quickly connect with the language and see relevance.
+
+• Creating demand, not cold outbound:Instead of spending resources aggregating a prospect database and flooding it with outbound campaigns, high-performing consultancies focus on generating demand through thought leadership. They consistently spotlight the issues they want to be known for, educate prospects, and equip them with the knowledge they need to make confident, prompt decisions.
+
+Making deliberate proposition choices: They are clear about the problems they solve, for whom, and how their expertise creates value. They are just as specific about who they help as about who falls outside of their scope. This lets them prequalify leads, drastically improving the quality of the conversations that follow.
+
+Codifying expertise: They don't rely on senior experts to do the heavy lifting of promoting the consultancy. The consulting firm becomes recognisable on the market for its proven approach to solving specific client problems.
+
+Building evidence around repeatable, predictable outcomes: They invest time and resources in building a library of case studies, results-focused testimonials, and impactful referrals. They can confidently promise specific outcomes because they have documented proof they can deliver it.
+
+Making value clear: They avoid generic language and grandiose promises. These consulting firms are precise and consistent about the value they deliver, allowing buyers to quickly connect with the language and see relevance.
+
+Creating demand, not cold outbound:Instead of spending resources aggregating a prospect database and flooding it with outbound campaigns, high-performing consultancies focus on generating demand through thought leadership. They consistently spotlight the issues they want to be known for, educate prospects, and equip them with the knowledge they need to make confident, prompt decisions.
+
+The result is less downstream work, less explaining, less persuasion, and less customisation. These consultancies don’t have to compromise their pricing to close a deal. They don’t need to chase prospects through endless emails and Zoom calls.
+
+They have a shorter sales cycle not because "this client was easy!", but because the proposition did a lot of the work upstream.
+
+Two ways consulting firms think about their pipeline
+
+## The Questions Consulting Leaders Should Ask When a Pipeline Is Weak
+
+If the pipeline feels slow and effortful right now, I urge consulting leaders to check their instinct to dial up outreach and intensify follow-ups, and first ask and answer the right questions to identify cracks in the foundation.
+
+• Are the right opportunities entering the pipeline?If there is a strong disconnect between who the services target and who actually enters the pipeline, the problem is most likely in the clarity and targeting of the proposition.
+
+• Where does the process slow down?Understanding where prospects hesitate in the sales cycle will reveal which part of the proposition is weak. For example, if the right prospect enters the pipeline, quickly moves into the conversation and proposal stage, but then takes forever to sign off on delivery, the hesitation likely comes from a lack of proof. The buyer does not fully trust the consulting firm to deliver on its promises.
+
+• How much explaining does it take for buyers to understand the value?When every conversation requires a lengthy explanation of what the consultancy does and why it matters, the proposition is not pulling its weight upstream.
+
+• How much customisation does every proposal require?If every proposal – or most of them – requires customisation of scope, process, fees, and deliverables, the consulting firm is most likely capability-led. It sells its list of services rather than the value it delivers (and can clearly communicate) to clients.
+
+Are the right opportunities entering the pipeline?If there is a strong disconnect between who the services target and who actually enters the pipeline, the problem is most likely in the clarity and targeting of the proposition.
+
+Where does the process slow down?Understanding where prospects hesitate in the sales cycle will reveal which part of the proposition is weak. For example, if the right prospect enters the pipeline, quickly moves into the conversation and proposal stage, but then takes forever to sign off on delivery, the hesitation likely comes from a lack of proof. The buyer does not fully trust the consulting firm to deliver on its promises.
+
+How much explaining does it take for buyers to understand the value?When every conversation requires a lengthy explanation of what the consultancy does and why it matters, the proposition is not pulling its weight upstream.
+
+How much customisation does every proposal require?If every proposal – or most of them – requires customisation of scope, process, fees, and deliverables, the consulting firm is most likely capability-led. It sells its list of services rather than the value it delivers (and can clearly communicate) to clients.
+
+These are examples of questions I encourage consulting firms to ask before diving into sales training and buying expensive CRM solutions. These questions help determine how much effort is spent upstream vs downstream in the sales cycle.
+
+*Recommended reading:The Consulting Firm Trust Trap: Why Buyers Click Away*
+
+## In Conclusion: Proposition Problems Can’t Be Fixed with Sales Solutions
+
+When the pipeline looks weak, the natural instinct is to do more, be it more follow-ups, more sales training, or more marketing.
+
+However, these activities ignore the root causes and focus only on the symptoms.
+
+By looking at the velocity of the sales cycle as a whole and its individual parts, consulting firms can better understand which elements of their proposition are weakening the process.
+
+Because chances are, the issue is not in how the firm sells ... but in how it shows up in the marketplace way before it ever has some prospect come to it.
+
+Interested in receiving all our learnings to build a better consulting firm?Subscribe to our newsletter.
+
+Florian Heinrichs
+
+Florian brings over ten years of experience in consultancy business development and marketing across international agencies and in-house roles at Deloitte and Accenture. There, he helped form and grow an entirely new business unit within the firm, ensuring the organic growth required to hit the multi-billion-dollar unit’s high-reaching 25 % p.a. growth targets. His expertise spans marketing strategy, management, and sales enablement, complemented by robust skills in business development, service sales, and account management (he owned the office P&L in the last agency he worked for). As a partner and senior consultant at TVA since 2022, Florian focuses on refining business development strategies, enhancing value propositions, and optimising client journeys to drive business development ROI. His pragmatic approach ensures that essential elements are in place for firm growth and performance improvement.
+
+Share this article on
 
 ================================================================================
 
